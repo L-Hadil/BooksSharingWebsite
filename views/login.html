@@ -1,0 +1,186 @@
+{{> header}}
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+
+
+<style>
+    main {
+      width: 100% ;
+      max-width: 330px;
+       padding: 15px;
+        margin: auto;
+    }
+
+
+  hr{
+    color: #545449;
+    font-size: 20px;
+    opacity: 0.8 ;
+    font-weight: bolder;
+  
+  }
+  .emails{
+    text-decoration: underline;
+    font-size: 13px;
+  color:#fff;
+  margin:0 0 8px 0;
+  }
+
+  *{
+    padding : 0;
+    margin : 0;
+    font-family: sans-serif;
+}
+
+.hero{
+top: 170px;
+height:100%;
+width:100%;
+background: #fff;
+position: absolute;
+}
+
+.form-box{
+height:650px;
+width:580px;
+position: relative;
+margin: 10% auto;
+background-color: #fff;
+box-shadow: 0 5px 15px rgba(0 , 0 , 0 , 0.15);
+padding: 5px;
+overflow:hidden;
+}
+
+.button-box{
+width:300px;
+margin: 35px auto ;
+position : relative;
+box-shadow: 0 0 20px 9px #F4EEF0;
+border-radius: 30px;
+}
+
+.toggle-btn{
+padding: 10px 30px;
+cursor:pointer;
+background: transparent;
+border :0;
+outline :none ;
+position: relative;
+
+}
+
+#btn{
+    
+    top :0;
+    left :0 ;
+    position: absolute;
+    width:100%;
+    height: 100%;
+    background: linear-gradient(to right ,#aa6f73 ,#fcdfe4);
+    border-radius: 30px;
+    transition: .5s;
+}
+
+.social-icons {
+    margin: 30px auto;
+    text-align:center;
+}
+
+.social-icons img{
+    width:30px;
+    margin: 0 12px;
+    box-shadow : 0 0 20px 0 #b79a9f;
+    cursor : pointer ;
+    border-radius: 50%;
+}
+
+.input-group{
+    
+top: 180px;
+position: absolute;
+width:400px;
+/*he used280*/
+transition: .5s;}
+
+.input-field{
+width:100%;
+padding:10px 0 ;
+margin :5px 0 ;
+border-top: 0;
+border-left: 0;
+border-right: 0;
+border-bottom:1px solid #868a89;
+outline:none;
+background: transparent;
+}
+
+.submit-btn{
+width:85%;
+padding: 10px  30px;
+display: block;
+cursor: pointer;
+margin: auto;
+background: linear-gradient(to left ,#aa6f73 ,#fcdfe4);
+border: 0;
+outline:none;
+border-radius: 30px;
+}
+
+.checkbox{
+    margin: 100px 10px 30px 0 ;
+}
+.sp{
+    color:#4c1711;
+    font-size:16px;
+    bottom:80px;
+    position:absolute;
+    text-align: center;
+}
+
+#login{
+left: 90px;
+top: 230px;
+}
+#signup{
+    left: 90px;
+    }
+i{
+    font-size:13px;
+}
+
+
+
+
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+
+  <div class="hero">
+    <div class="form-box">
+       <div class="button-box">
+          <div id="btn"></div>
+         
+         <a  href="#"><button type="button" class="toggle-btn" > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Connexion</b></button></a>
+    
+       </div>
+
+      
+    <form method="POST" id="login"class="input-group" >
+        <i class="fas fa-id-card"></i><input type="text" class="input-field" name="name" placeholder="Nom d'utilisateur"  id="user2" required>
+      <i class="fas fa-key"></i><input type="password" id="password1"class="input-field" name="password" placeholder="Mot de passe" required>
+       <a href="/register"> <h4 class="checkbox" ><span class="sp">&nbsp;&nbsp;Vous n'avez pas de compte ? &nbsp;&nbsp; enregistrer vous </span></h4></a>
+
+       <button type="submit" class="submit-btn">Se connecter</button>
+
+    </form>
+
+    </div>
+    
+</div>
+
+</body>
+
+</html>
+
+{{> footer}}

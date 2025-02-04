@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add Book</title>
+  </head>
+  <style>
+    body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+input[type="file"] {
+  margin-top: 10px;
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  appearance: none;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 12.59l4.95-4.95a1 1 0 1 1 1.41 1.41l-5.66 5.66a1 1 0 0 1-1.41 0L4.64 9.05a1 1 0 0 1 1.41-1.41L10 12.59z" fill="%23333"/></svg>');
+  background-repeat: no-repeat;
+  background-position: right 10px center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #3e8e41;
+}
+
+  </style>
+  <body>
+    <h1>Add Book</h1>
+    <form action="/share" method="post" >
+      <label for="title">Title:</label>
+      <input type="text" id="title" name="title" >
+      <br><br>
+      <label for="author">Author:</label>
+      <input type="text" id="author" name="author">
+      <br><br>
+      <label for="publicationDate">Publication Date:</label>
+      <input type="date" id="publicationDate" name="publicationDate">
+      <br><br>
+      <label for="description">Description:</label>
+      <textarea id="description" name="description"></textarea>
+      <br><br>
+      <label for="editor">Editor:</label>
+      <input type="text" id="editor" name="editor">
+      <br><br>
+      <label for="language">Language:</label>
+      <input type="text" id="language" name="language">
+      <br><br>
+      <label for="category">Category:</label>
+      <input type="text" id="category" name="category">
+      <br><br>
+      <label for="image">Image:</label>
+      <input type="text" id="image" name="image">
+      <br><br>
+      <label for="name">Name:{{name}}</label>
+      <br><br>
+      <label for="location">Location:{{location}}</label>
+      <br><br>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>

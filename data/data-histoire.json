@@ -1,0 +1,2158 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mnNtC0eP_dkC",
+      "etag": "Z9cPir5VroE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mnNtC0eP_dkC",
+      "volumeInfo": {
+        "title": "L'âge des extrêmes",
+        "subtitle": "le court vingtième siècle, 1914-1991",
+        "authors": ["Eric J. Hobsbawm"],
+        "publisher": "Editions Complexe",
+        "publishedDate": "2003",
+        "description": "Divisant le siècle en trois temps (l'ère des catastrophes 1914-1945, l'âge d'or 1947-1973 et la débâcle, de 1973 à nos jours), l'auteur se fait tour à tour historien, sociologue, économiste, philosophe et même moraliste.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2870279922" },
+          { "type": "ISBN_13", "identifier": "9782870279922" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 846,
+        "printType": "BOOK",
+        "categories": ["Civilization, Modern"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mnNtC0eP_dkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mnNtC0eP_dkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=mnNtC0eP_dkC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=mnNtC0eP_dkC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_%C3%A2ge_des_extr%C3%AAmes.html?hl=&id=mnNtC0eP_dkC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/L_%C3%A2ge_des_extr%C3%AAmes-sample-pdf.acsm?id=mnNtC0eP_dkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mnNtC0eP_dkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mjIQAAAAYAAJ",
+      "etag": "0DKnjBZqERc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mjIQAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Recherches sur quelques problèmes d'histoire",
+        "authors": ["Fustel de Coulanges"],
+        "publishedDate": "1885",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "NYPL:33433082432711" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": ["Colonat (Droit romain)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mjIQAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mjIQAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=mjIQAAAAYAAJ&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mjIQAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mjIQAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=mjIQAAAAYAAJ&rdid=book-mjIQAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Recherches_sur_quelques_probl%C3%A8mes_d_his.epub?id=mjIQAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Recherches_sur_quelques_probl%C3%A8mes_d_his.pdf?id=mjIQAAAAYAAJ&hl=&output=pdf&sig=ACfU3U0OFbqMeWPg6sBfIUwjGt9V67Iuew&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mjIQAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XiYDAAAAMAAJ",
+      "etag": "7kbOPe1LAGA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XiYDAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Nouvelles recherches sur quelques problèmes d'histoire",
+        "authors": ["Fustel de Coulanges"],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015030693298" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 514,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.13.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XiYDAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XiYDAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=XiYDAAAAMAAJ&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XiYDAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XiYDAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=XiYDAAAAMAAJ&rdid=book-XiYDAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Nouvelles_recherches_sur_quelques_probl.epub?id=XiYDAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Nouvelles_recherches_sur_quelques_probl.pdf?id=XiYDAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0gtgzbQJ6_OsnBmNuTqH9AlbRJ5Q&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XiYDAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D_5neQwiKfoC",
+      "etag": "vQSUGVoAsw4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D_5neQwiKfoC",
+      "volumeInfo": {
+        "title": "L'indispensable des conflits du XXe siècle",
+        "authors": ["Sophie Chautard"],
+        "publisher": "Studyrama",
+        "publishedDate": "2006",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2844728324" },
+          { "type": "ISBN_13", "identifier": "9782844728326" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D_5neQwiKfoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D_5neQwiKfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=D_5neQwiKfoC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=D_5neQwiKfoC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_indispensable_des_conflits_du_XXe_si%C3%A8.html?hl=&id=D_5neQwiKfoC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/L_indispensable_des_conflits_du_XXe_si%C3%A8-sample-pdf.acsm?id=D_5neQwiKfoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D_5neQwiKfoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "694DGKqBeKEC",
+      "etag": "zceaTkSvExA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/694DGKqBeKEC",
+      "volumeInfo": {
+        "title": "Mélanges d'histoire et de voyages",
+        "authors": ["Ernest Renan"],
+        "publishedDate": "1878",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "BSB:BSB11379227" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 564,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=694DGKqBeKEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=694DGKqBeKEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=694DGKqBeKEC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=694DGKqBeKEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=694DGKqBeKEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=694DGKqBeKEC&rdid=book-694DGKqBeKEC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/M%C3%A9langes_d_histoire_et_de_voyages.epub?id=694DGKqBeKEC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=694DGKqBeKEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KOBMAQAACAAJ",
+      "etag": "ipm/J5bt2+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KOBMAQAACAAJ",
+      "volumeInfo": {
+        "title": "Mémoires de guerre",
+        "subtitle": "L'Appel. 1940-1942",
+        "authors": ["Charles de Gaulle"],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "OCLC:224277284" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 651,
+        "printType": "BOOK",
+        "categories": ["World War, 1939-1945"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=KOBMAQAACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=KOBMAQAACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/M%C3%A9moires_de_guerre.html?hl=&id=KOBMAQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=KOBMAQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JeAWAQAAIAAJ",
+      "etag": "z/tLau7llNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JeAWAQAAIAAJ",
+      "volumeInfo": {
+        "title": "La conquête de Constantinople",
+        "authors": ["Robert (de Clari.)", "Robert de Clari", "Jean Dufournet"],
+        "publisher": "Honoré Champion",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105115165065" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 340,
+        "printType": "BOOK",
+        "categories": ["4e Croisade (1202-1204)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JeAWAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JeAWAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=JeAWAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=JeAWAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_conqu%C3%AAte_de_Constantinople.html?hl=&id=JeAWAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=JeAWAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ehYHAQAAIAAJ",
+      "etag": "7mzw18om3zI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ehYHAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Pour une esthétique de la réception",
+        "authors": ["Hans Robert Jauss"],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "1978",
+        "description": "Trop souvent l'esthétique marxiste ne veut voir dans la littérature qu'un épiphénomène, un \"reflet\" de la réalité sociale : le formalisme, au contraire, la considère comme un absolu, un système clos, coupé de cette réalité. L'esthétique de la réception, qui s'est amplement développée en Allemagne depuis une vingtaine d'années, tente de dépasser cette opposition figée de deux approches également partielles. Activité de communication, la littérature n'est pas un simple produit mais aussi un facteur de production de la société. Elle véhicule des valeurs esthétiques, éthiques, sociales qui peuvent contribuer aussi bien à transformer la société qu'à la perpétuer telle qu'elle est. Ainsi l'esthétique de la réception rend à la littérature, à l'art, l'importance et la dignité qui leur ont été si souvent contestées.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105035381263" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Aesthetics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ehYHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ehYHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=ehYHAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=ehYHAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pour_une_esth%C3%A9tique_de_la_r%C3%A9ception.html?hl=&id=ehYHAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ehYHAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tihEqgZxdHYC",
+      "etag": "ie+T9UUpRVY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tihEqgZxdHYC",
+      "volumeInfo": {
+        "title": "Les Européens et les Indes orientales",
+        "subtitle": "au XVIIIe siecle ; aspects maritimes, commerciaux et coloniaux",
+        "authors": ["René Favier"],
+        "publisher": "Editions OPHRYS",
+        "publishedDate": "1997",
+        "description": "Le commerce des Indes orientales connut au cours du XVIIIe siècle un essor spectaculaire au point de supplanter l'Amérique dans l'imaginaire collectif comme symbole de l'enrichissement. La connaissance plus sûre des routes maritimes et les progrès de la navigation permirent aux nations européennes de consolider leur présence sur les rivages d'Asie, à Batavia, Bombay, Pondichéry, etc.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2708008374" },
+          { "type": "ISBN_13", "identifier": "9782708008373" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": ["18e siècle"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tihEqgZxdHYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tihEqgZxdHYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=tihEqgZxdHYC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=tihEqgZxdHYC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_Europ%C3%A9ens_et_les_Indes_orientales.html?hl=&id=tihEqgZxdHYC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_Europ%C3%A9ens_et_les_Indes_orientales-sample-pdf.acsm?id=tihEqgZxdHYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tihEqgZxdHYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Yd4PSxb6Bt0C",
+      "etag": "oIS/lVhUpU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Yd4PSxb6Bt0C",
+      "volumeInfo": {
+        "title": "Quand la terre tremblait",
+        "authors": ["Emanuela Guidoboni", "Jean-Paul Poirier"],
+        "publisher": "Odile Jacob",
+        "publishedDate": "2004",
+        "description": "Les auteurs entreprennent l'histoire des explications qui ont été avancées sur ce phénomène : vengeance d'un dieu, chez les Grecs ; signe d'une rupture du pacte avec les dieux, chez les Romains et les Chinois ; révélation de la puissance de Dieu préfigurant le Jugement dernier chez les chrétiens ; théorie pneumatique d'Aristote ; la tectonique des plaques...",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2738113702" },
+          { "type": "ISBN_13", "identifier": "9782738113702" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": ["Aspect religieux"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Yd4PSxb6Bt0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Yd4PSxb6Bt0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Yd4PSxb6Bt0C&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Yd4PSxb6Bt0C&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Quand_la_terre_tremblait.html?hl=&id=Yd4PSxb6Bt0C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Quand_la_terre_tremblait-sample-pdf.acsm?id=Yd4PSxb6Bt0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Yd4PSxb6Bt0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UK-vglQieoYC",
+      "etag": "6P82nRuiLns",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UK-vglQieoYC",
+      "volumeInfo": {
+        "title": "Histoire ecclésiastique",
+        "authors": ["Claude Fleury"],
+        "publishedDate": "1778",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "BNC:1001980434" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": ["Catholicisme"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.6.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UK-vglQieoYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UK-vglQieoYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=UK-vglQieoYC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UK-vglQieoYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UK-vglQieoYC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UK-vglQieoYC&rdid=book-UK-vglQieoYC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Histoire_eccl%C3%A9siastique.epub?id=UK-vglQieoYC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Histoire_eccl%C3%A9siastique.pdf?id=UK-vglQieoYC&hl=&output=pdf&sig=ACfU3U3ximLWib1ehqdTlIv_6732NExkdQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UK-vglQieoYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UhiI3rcoV2sC",
+      "etag": "ckAEKUkPHPg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UhiI3rcoV2sC",
+      "volumeInfo": {
+        "title": "L'Europe à l'écran",
+        "subtitle": "le cinéma et l'enseignement de l'histoire",
+        "authors": ["Dominique Chansel"],
+        "publisher": "Council of Europe",
+        "publishedDate": "2001",
+        "description": "L'Europe à l'écran : le cinéma et l'enseignement de l'histoire est un livre produit dans le cadre du projet du Conseil de l'Europe intitulé \" Apprendre et enseigner l'histoire de l'Europe du XXe siècle \". Comportant des fiches sur cinquante films illustrant quatre thèmes du projet - le nationalisme, les femmes, l'immigration et les droits de l'homme - il encourage les enseignants à exploiter le cinéma en tant que source historique et propose une base pédagogique pour le faire. Le cinéma représente une source riche et complexe d'informations sur les sociétés et les populations européennes. Il révèle les souffrances des personnes vivant en marge de la société, souligne l'injustice sociale et donne la parole aux groupes minoritaires. Certains réalisateurs de pays appartenant à l'ancien bloc soviétique ont utilisé le cinéma de manière courageuse pour illustrer l'aliénation et la répression des sociétés totalitaires, malgré la censure, avec un usage souvent subversif de l'humour.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9789287145291" },
+          { "type": "ISBN_10", "identifier": "9287145296" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 219,
+        "printType": "BOOK",
+        "categories": ["CINEMA"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UhiI3rcoV2sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UhiI3rcoV2sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=UhiI3rcoV2sC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UhiI3rcoV2sC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UhiI3rcoV2sC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 15, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 15, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=UhiI3rcoV2sC&rdid=book-UhiI3rcoV2sC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 15000000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 15000000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/L_Europe_%C3%A0_l_%C3%A9cran-sample-pdf.acsm?id=UhiI3rcoV2sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UhiI3rcoV2sC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Z8p5Q0K7woC",
+      "etag": "465Jw65WKJo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Z8p5Q0K7woC",
+      "volumeInfo": {
+        "title": "Les abus de la mémoire",
+        "authors": ["Tzvetan Todorov"],
+        "publishedDate": "1998",
+        "description": "Nous devons faire en sorte que soit maintenu vivant le souvenir. Mais faut-il sacraliser la mémoire? Il faut veiller à ce que rien ne nous détourne du présent ni de l'avenir. Aujourd'hui racisme, xénophobie et exclusion ne sont pas identiques à ce qu'ils étaient hier. Et que seront les barbaries de demain?",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCR:31210014514143" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": ["Collective memory"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4Z8p5Q0K7woC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4Z8p5Q0K7woC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=4Z8p5Q0K7woC&dq=subject:histoire&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=4Z8p5Q0K7woC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_abus_de_la_m%C3%A9moire.html?hl=&id=4Z8p5Q0K7woC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Z8p5Q0K7woC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o3M2AQAAMAAJ",
+      "etag": "zDIKWNrmro0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o3M2AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Recherches sur quelques problèmes d'histoire",
+        "authors": ["Fustel de Coulanges"],
+        "publishedDate": "1913",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "IND:30000132281050" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 530,
+        "printType": "BOOK",
+        "categories": ["Colonat (Droit romain)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o3M2AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o3M2AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=o3M2AQAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=o3M2AQAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Recherches_sur_quelques_probl%C3%A8mes_d_his.html?hl=&id=o3M2AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=o3M2AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G9FZXzJIw-wC",
+      "etag": "Kq+QJ+LqaPY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G9FZXzJIw-wC",
+      "volumeInfo": {
+        "title": "Les serviteurs de l'état au moyen âge",
+        "authors": [
+          "Société des historiens médiévistes de l'enseignement supérieur public"
+        ],
+        "publisher": "Publications de la Sorbonne",
+        "publishedDate": "1999",
+        "description": "Les serviteurs de l'État existent-ils au Moyen Âge ? Cette question, qui se situe au cœur des travaux du XXIXe Congrès de la Société des Historiens médiévistes de l'Enseignement supérieur public, réuni à l'Université de Pau en mai 1998, renvoie à la lente genèse de l'État dans laquelle le poids des hommes s'est révélé essentiel. De ces serviteurs, au premier rang desquels les clercs se sont longtemps tenus - du moins dans l'Occident chrétien -, compétence et fidélité étaient requises en priorité. L'office, accordé par le prince, était soumis à des rituels d'échanges complexes, dans lesquels la question des gages était finalement secondaire, même s'il se présentait aussi comme un choix volontaire et non désintéressé. L'office était de même l'objet de stratégies prenant en compte la naissance, les alliances, les hiérarchies sociales. Les serviteurs de l'État se sont constitués progressivement en un corps social solidaire, complice et d'une stabilité remarquable, qui a largement contribué à la naissance d'un des moteurs fondamentaux de l'État moderne, la fonction publique",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2859443819" },
+          { "type": "ISBN_13", "identifier": "9782859443818" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": ["Administration publique"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G9FZXzJIw-wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G9FZXzJIw-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=G9FZXzJIw-wC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=G9FZXzJIw-wC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_serviteurs_de_l_%C3%A9tat_au_moyen_%C3%A2ge.html?hl=&id=G9FZXzJIw-wC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_serviteurs_de_l_%C3%A9tat_au_moyen_%C3%A2ge-sample-pdf.acsm?id=G9FZXzJIw-wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G9FZXzJIw-wC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hReACAAAQBAJ",
+      "etag": "tXhIS3SeYWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hReACAAAQBAJ",
+      "volumeInfo": {
+        "title": "Citations historiques expliquées",
+        "authors": ["Jean-Paul Roig"],
+        "publisher": "Editions Eyrolles",
+        "publishedDate": "2015",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782212562200" },
+          { "type": "ISBN_10", "identifier": "2212562209" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hReACAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hReACAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=hReACAAAQBAJ&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=hReACAAAQBAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Citations_historiques_expliqu%C3%A9es.html?hl=&id=hReACAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Citations_historiques_expliqu%C3%A9es-sample-pdf.acsm?id=hReACAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hReACAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4ugEAQAAIAAJ",
+      "etag": "Nx6Z8eKSaCo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4ugEAQAAIAAJ",
+      "volumeInfo": {
+        "title": "L'établissement scolaire, unité éducative",
+        "authors": ["Groupe français d'éducation nouvelle"],
+        "publisher": "Casterman Editions",
+        "publishedDate": "1977",
+        "description": "PEDAGOGIE, ENSEIGNEMENT",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105032659174" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": ["20"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4ugEAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4ugEAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=4ugEAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=4ugEAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_%C3%A9tablissement_scolaire_unit%C3%A9_%C3%A9ducat.html?hl=&id=4ugEAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=4ugEAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N3k3AQAAMAAJ",
+      "etag": "f1ICZ793Sc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N3k3AQAAMAAJ",
+      "volumeInfo": {
+        "title": "La poésie patriotique en France au Moyen Age",
+        "authors": ["Charles Lenient"],
+        "publishedDate": "1891",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UIUC:30112111044696" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": ["Civilization, Medieval, in literature"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N3k3AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N3k3AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=N3k3AQAAMAAJ&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=N3k3AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=N3k3AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=N3k3AQAAMAAJ&rdid=book-N3k3AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/La_po%C3%A9sie_patriotique_en_France_au_Moye.epub?id=N3k3AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/La_po%C3%A9sie_patriotique_en_France_au_Moye.pdf?id=N3k3AQAAMAAJ&hl=&output=pdf&sig=ACfU3U0L94ef0o-wFpYWmSbBoW0KKCopoQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N3k3AQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qVguAQAAIAAJ",
+      "etag": "t++68anXCmY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qVguAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Essai sur le mystère de l'histoire",
+        "authors": ["Jean Daniélou"],
+        "publisher": "Paris, Editions du Seuil",
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCAL:B3116930" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 358,
+        "printType": "BOOK",
+        "categories": ["Christianity"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qVguAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qVguAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=qVguAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=qVguAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Essai_sur_le_myst%C3%A8re_de_l_histoire.html?hl=&id=qVguAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=qVguAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xOi_oAEACAAJ",
+      "etag": "nnDqm6Kvh/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xOi_oAEACAAJ",
+      "volumeInfo": {
+        "title": "Atlas des peuples d'Europe centrale",
+        "authors": ["Jean Sellier", "André Sellier"],
+        "publisher": "Editions La Découverte",
+        "publishedDate": "2014-05-28",
+        "description": "Les difficultés auxquelles se heurte l'Ukraine nous le rappellent : le destin des vingt peuples composant l'Europe centrale reste enraciné dans un passé complexe et chahuté. Une mise en perspective historique claire s'impose. C'est ce que propose cette sixième édition de l'Atlas des peuples d'Europe centrale, qui associe au récit de l'histoire millénaire de chaque peuple les cartes indispensables à la visualisation et à la lecture des évènements.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2707182389" },
+          { "type": "ISBN_13", "identifier": "9782707182388" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 199,
+        "printType": "BOOK",
+        "categories": ["Atlas"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=xOi_oAEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=xOi_oAEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atlas_des_peuples_d_Europe_centrale.html?hl=&id=xOi_oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=xOi_oAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z1cRAQAAIAAJ",
+      "etag": "bw5JtHgUQEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z1cRAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Histoire de la philosophie contemporaine",
+        "authors": ["Roger Verneaux"],
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCAL:B2791639" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["Filosofia moderna"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z1cRAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z1cRAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=z1cRAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=z1cRAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Histoire_de_la_philosophie_contemporaine.html?hl=&id=z1cRAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=z1cRAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z2OAA0NoOwUC",
+      "etag": "bJcYI1acSh0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z2OAA0NoOwUC",
+      "volumeInfo": {
+        "title": "La créolisation",
+        "subtitle": "théorie, applications, implications",
+        "authors": ["Robert Chaudenson"],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2003",
+        "description": "La créolisation est un concept dont les sciences humaines et sociales ont usé et abusé dans les dernières décennies. Au-delà d'une remise en cause des nombreuses idées reçues sur le sujet, ce livre propose une théorie de la genèse et du fonctionnement des créoles ; elle repose sur l'étude socio-historique et socio-linguistique de la formation des sociétés coloniales, où se sont développées ces langues, comme sur une analyse étendue des faits, anciens et/ou actuels.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782747556088" },
+          { "type": "ISBN_10", "identifier": "2747556085" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": ["Aspect social"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z2OAA0NoOwUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z2OAA0NoOwUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Z2OAA0NoOwUC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Z2OAA0NoOwUC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_cr%C3%A9olisation.html?hl=&id=Z2OAA0NoOwUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/La_cr%C3%A9olisation-sample-pdf.acsm?id=Z2OAA0NoOwUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z2OAA0NoOwUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bo4QAQAAIAAJ",
+      "etag": "NvenDaXh8FY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bo4QAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Du baquet de Mesmer au \"baquet\" de S. Freud",
+        "subtitle": "une archéologie du cadre et de la pratique psychanalytiques",
+        "authors": ["René Roussillon"],
+        "publisher": "Presses Universitaires de France - PUF",
+        "publishedDate": "1992",
+        "description": "Comment la technique psychanalytique freudienne s'est formée et a évolué à partir des méthodes de l'hypnose. [SDM].",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105008967288" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 236,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bo4QAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bo4QAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=bo4QAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=bo4QAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Du_baquet_de_Mesmer_au_baquet_de_S_Freud.html?hl=&id=bo4QAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=bo4QAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H6bnLDU5F08C",
+      "etag": "ziRUVq8r93s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H6bnLDU5F08C",
+      "volumeInfo": {
+        "title": "De la justice divine et de la justice humaine",
+        "authors": ["Ulrich Zwingli"],
+        "publisher": "Editions Beauchesne",
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2701010055" },
+          { "type": "ISBN_13", "identifier": "9782701010052" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": ["16s"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H6bnLDU5F08C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H6bnLDU5F08C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=H6bnLDU5F08C&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=H6bnLDU5F08C&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/De_la_justice_divine_et_de_la_justice_hu.html?hl=&id=H6bnLDU5F08C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/De_la_justice_divine_et_de_la_justice_hu-sample-pdf.acsm?id=H6bnLDU5F08C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H6bnLDU5F08C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Y-6jQQAACAAJ",
+      "etag": "Mna4SYR/Si4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Y-6jQQAACAAJ",
+      "volumeInfo": {
+        "title": "Première considération inactuelle",
+        "subtitle": "David Strauss, le sectateur et l'écrivain / trad. de l'allemand par Lionel Duvoy",
+        "authors": ["Friedrich Nietzsche"],
+        "publisher": "Allia",
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2844853226" },
+          { "type": "ISBN_13", "identifier": "9782844853226" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 143,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Y-6jQQAACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Y-6jQQAACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Premi%C3%A8re_consid%C3%A9ration_inactuelle.html?hl=&id=Y-6jQQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Y-6jQQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TMiFAAAAIAAJ",
+      "etag": "s+cmwVbIgHM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TMiFAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Guerres contre l'Europe",
+        "subtitle": "Bosnie-Kosovo-Tchétchénie-- : essai",
+        "authors": ["Alexandre del Valle"],
+        "publisher": "Editions des Syrtes",
+        "publishedDate": "2000",
+        "description": "La guerre du Kosovo, intervention fondée sur le droit d'ingérence, en contradiction avec le droit international, n'a fait que déclencher la catastrophe qu'elle prétendait prévenir. Grâce à une analyse géostratégique, l'auteur montre les objectifs réels de l'opération Force alliée qui s'inscrit, selon lui, dans une guerre totale des Etats-Unis contre le reste du monde.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105073470408" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 436,
+        "printType": "BOOK",
+        "categories": ["Bosnia and Hercegovina"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TMiFAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TMiFAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=TMiFAAAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=TMiFAAAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guerres_contre_l_Europe.html?hl=&id=TMiFAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=TMiFAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xyJcAAAAMAAJ",
+      "etag": "e0jJD9TOFqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xyJcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Lyon et l'illustration de la langue française à la Renaissance",
+        "authors": ["Jean Balsamo"],
+        "publishedDate": "2003",
+        "description": "Au début du XVIe siècle, la langue française doit rivaliser à la fois avec les dialectes provinciaux et les langues pérégrines. C'est dans les années 1530 que, sous l'impulsion du pouvoir royal, le français s'impose et devient une véritable langue de culture.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015061340124" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": ["16e siècle"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xyJcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xyJcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=xyJcAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=xyJcAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lyon_et_l_illustration_de_la_langue_fran.html?hl=&id=xyJcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=xyJcAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YaxfAAAAMAAJ",
+      "etag": "e7G/Tl1ECTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YaxfAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Histoire des empereurs romains",
+        "subtitle": "de Marc-Aurèle à Gordien III (180 ap. J.-C.-238 ap. J.-C.)",
+        "authors": ["Herodian", "Luciano Canfora"],
+        "publisher": "Belles Lettres",
+        "publishedDate": "1990",
+        "description": "Tableau colore et puissamment vivant de l'Empire romain en mutation, l'Histoire des successeurs de Marc-Aurele, de Commode a Heliogabale et Gordien (180 a 238 ap. J.-C.), offre le spectacle d'un monde en perpetuel jaillissement. Crises politiques, coups d'Etat, rebellions, epopees militaires: telle est la toile de fond. Sur la scene s'agitent, en un defile baroque, les empereurs: un megalomane inconscient, des ambitieux sans personnalite ni vergogne, un grand capitaine double d'un authentique chef d'etat, un mystique effemine, un condottiere d'humble extraction, qu'escortent des imperatrices cupides, des souveraines possessives ou des freles princes fantoches, et que suit le cortege habituel des courtisans obsequieux, des fonctionnaires cauteleux, des eunuques et des esclaves intrigants.Du sang, de la volupte, de la mort, voila bien la trame de ce roman d'aventures, parfois terrifiantes, qui constitue aussi la chronique politique et militaire, par un contemporain, d'une epoque fertile en peripeties: un document historique unique sur une epoque foisonnante.Denis Roques, docteur es Lettres, est professeur a l'Universite de Metz.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015025212310" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 332,
+        "printType": "BOOK",
+        "categories": ["Empereur romain"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YaxfAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YaxfAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=YaxfAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=YaxfAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Histoire_des_empereurs_romains.html?hl=&id=YaxfAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=YaxfAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D80-zcSNytUC",
+      "etag": "laNhw6VhAmg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D80-zcSNytUC",
+      "volumeInfo": {
+        "title": "Gènes et comportements à l'ère post-génomique",
+        "authors": ["Laurence Perbal"],
+        "publisher": "Vrin",
+        "publishedDate": "2011",
+        "description": "Cette annee 2011 marque le dixieme anniversaire de l'achevement du Projet Genome Humain. Le decodage des genes de l'humain fut l'apotheose de la periode glorieuse que la genetique a connue depuis les annees 1980. Cette periode est appelee l'ere genomique . La reference au gene semble la cle de toutes les reponses, meme en ce qui concerne les comportements humains. Ce livre propose une analyse historique critique des differentes approches epistemologiques qui ont inspire la genetique des comportements depuis la fin du XIXe siecle. La question du determinisme et du probabilisme, celles du gene de l'homosexualite, du gene du crime, ou encore de l'intelligence et de l'alcoolisme sont autant de modeles qui illustrent nos analyses. Mais celles-ci montrent aussi que depuis dix ans une nouvelle ere se developpe en genetique: l'ere postgenomique. Cherchant a depasser le geno-centrisme, elle s'interesse a la facon dont les genes, les neurones et les facteurs environnementaux forment des reseaux de causalite dynamiques et complexes. La post-genomique fait echo a une perspective philosophique systemique, pluraliste et pragmatique des phenomenes et des concepts; un cadre plus developpemental au sein duquel les donnees scientifiques recentes sont presentees et analysees.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2711623459" },
+          { "type": "ISBN_13", "identifier": "9782711623457" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": ["Comportement"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D80-zcSNytUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D80-zcSNytUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=D80-zcSNytUC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=D80-zcSNytUC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/G%C3%A8nes_et_comportements_%C3%A0_l_%C3%A8re_post_g.html?hl=&id=D80-zcSNytUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/G%C3%A8nes_et_comportements_%C3%A0_l_%C3%A8re_post_g-sample-pdf.acsm?id=D80-zcSNytUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D80-zcSNytUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fBWLngEACAAJ",
+      "etag": "uzxSW+znO3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fBWLngEACAAJ",
+      "volumeInfo": {
+        "title": "Notre Europe",
+        "subtitle": "Décomposition ou métamorphose ?",
+        "authors": ["Edgar Morin", "Mauro Ceruti"],
+        "publishedDate": "2014-01-15",
+        "description": "Dans un sens, ce livre prolonge et actualise mon Penser l'Europe ainsi que Barbarie et culture europeennes. Mais il s'agit surtout d'une repensee de l'Europe en notre epoque de crises conjuguees, dont la crise multidimensionnelle de l'Europe, en une grande crise de l'humanite qui n'arrive pas a se constituer en humanite. Cette repensee est l'oeuvre de deux esprits freres, celui de Mauro Ceruti et le mien: je me retrouve en lui comme il se retrouve en moi. Notre communaute de pensee s'est ainsi trouvee concretisee dans cette oeuvre meditante et militante. Edgar Morin",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2213678472" },
+          { "type": "ISBN_13", "identifier": "9782213678474" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": ["Crise économique"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fBWLngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fBWLngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=fBWLngEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=fBWLngEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Notre_Europe.html?hl=&id=fBWLngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=fBWLngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BsELAQAAIAAJ",
+      "etag": "MxU6+0gguro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BsELAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Histoire de la philosophie moderne",
+        "authors": ["Roger Verneaux"],
+        "publisher": "Beauchesne et ses fils",
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCAL:B3118267" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Filosofia moderna"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BsELAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BsELAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=BsELAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=BsELAQAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Histoire_de_la_philosophie_moderne.html?hl=&id=BsELAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=BsELAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U0pLAAAAMAAJ",
+      "etag": "DmAv8Y9BoF0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U0pLAAAAMAAJ",
+      "volumeInfo": {
+        "title": "La vie politique sous la Ve République",
+        "authors": ["Jacques Chapsal"],
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015051409103" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 722,
+        "printType": "BOOK",
+        "categories": ["1960-1969"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=U0pLAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=U0pLAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=U0pLAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=U0pLAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vie_politique_sous_la_Ve_R%C3%A9publique.html?hl=&id=U0pLAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=U0pLAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LduXRTkLVTYC",
+      "etag": "q1YNWAyUnd4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LduXRTkLVTYC",
+      "volumeInfo": {
+        "title": "Sens du devenir et pensée de l'histoire au temps des Lumières",
+        "authors": ["Bertrand Binoche", "Franck Tinland"],
+        "publisher": "Editions Champ Vallon",
+        "publishedDate": "2000",
+        "description": "Que nous éprouvions aujourd'hui le besoin de régresser aux multiples discours tenus par les Lumières sur l'histoire, cela résulte très naturellement de ce que nous avons cessé de nous percevoir comme inscrits dans le temps de l'Histoire : celle-ci ne faisant plus écran, ceux-là retrouvent titi relief longtemps devenu indiscernable. Les études ici rassemblées démêlent, de Leibniz à Condorcet, l'enchevêtrement des trois grandes strates qui se dessinent alors : la genèse abstraite de l'obéissance politique, la civilisation comme processus ordinaire qu'accomplit en son temps chaque nation si les circonstances le lui permettent et, enfin, la pluralité des histoires empiriques dont le traitement fait l'objet de démarches très diverses. Prendre la mesure de cette complexité, c'est commencer d'en finir avec la représentation très convenue d'une histoire de nos croyances en l'Histoire qui s'élaborèrent en réalité toujours dans l'ambivalence et le conflit.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2876733102" },
+          { "type": "ISBN_13", "identifier": "9782876733107" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": ["Enlightenment"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LduXRTkLVTYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LduXRTkLVTYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=LduXRTkLVTYC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=LduXRTkLVTYC&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sens_du_devenir_et_pens%C3%A9e_de_l_histoire.html?hl=&id=LduXRTkLVTYC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Sens_du_devenir_et_pens%C3%A9e_de_l_histoire-sample-pdf.acsm?id=LduXRTkLVTYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LduXRTkLVTYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4YOTLZ6mtdcC",
+      "etag": "zPif8ClbQQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4YOTLZ6mtdcC",
+      "volumeInfo": {
+        "title": "Petits chefs-d'oeuvre historiques",
+        "authors": [
+          "Jean-François Sarrazin",
+          "Jean François Paul de Gondi de Retz",
+          "Henri de Bessé",
+          "Claude Carloman de Rulhière",
+          "Florian"
+        ],
+        "publishedDate": "1863",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EHC:1481000924983" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4YOTLZ6mtdcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4YOTLZ6mtdcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=4YOTLZ6mtdcC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4YOTLZ6mtdcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4YOTLZ6mtdcC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=4YOTLZ6mtdcC&rdid=book-4YOTLZ6mtdcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Petits_chefs_d_oeuvre_historiques.epub?id=4YOTLZ6mtdcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=4YOTLZ6mtdcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c2uwAAAAIAAJ",
+      "etag": "PtXqnFq0gjw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c2uwAAAAIAAJ",
+      "volumeInfo": {
+        "title": "La vie quotidienne à Florence au temps de Dante",
+        "authors": ["Pierre Antonetti"],
+        "publishedDate": "1980",
+        "description": "Evoquer la vie du peuple florentin du vivant de Dante, c'est peindre le tableau de la capitale européenne des arts à l'apogée de sa puissance, à l'éveil de la période efflorescente que fut la Renaissance. Décrivant tour à tour la vie privée, publique, économique, religieuse et culturelle de la cité, Pierre Antonetti nous invite à observer avec lui les Florentins dans leur décor familier, aux différentes saisons de leur vie, dans leurs activités les plus diverses, laborieuses, festives, d'agréement et de détente, en famille comme au sein des institutions foisonnantes d'alors : magistrature, armée, corporations, \"compagnies\", clergé, confréries, écoles, etc. Une peinture sociale éblouissante.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCAL:B4394244" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": ["13s"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c2uwAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c2uwAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=c2uwAAAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=c2uwAAAAIAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_vie_quotidienne_%C3%A0_Florence_au_temps.html?hl=&id=c2uwAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=c2uwAAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vhYa4hzxPNAC",
+      "etag": "B5Um80THRcg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vhYa4hzxPNAC",
+      "volumeInfo": {
+        "title": "Remarques critiques sur la nouvelle édition du dictionnaire historique de Morery, donnée en 1704..",
+        "authors": ["Anthelme Tricaud", "Alexis Gaudin"],
+        "publishedDate": "1706",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "BML:37001102324758" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": ["Biographie"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vhYa4hzxPNAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vhYa4hzxPNAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=vhYa4hzxPNAC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vhYa4hzxPNAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vhYa4hzxPNAC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=vhYa4hzxPNAC&rdid=book-vhYa4hzxPNAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Remarques_critiques_sur_la_nouvelle_%C3%A9di.epub?id=vhYa4hzxPNAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Remarques_critiques_sur_la_nouvelle_%C3%A9di.pdf?id=vhYa4hzxPNAC&hl=&output=pdf&sig=ACfU3U1PQTPTHw3spYeRLpJiBmAU3GVYFA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vhYa4hzxPNAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aFM1-afMcwoC",
+      "etag": "3Xn8iajWZIc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aFM1-afMcwoC",
+      "volumeInfo": {
+        "title": "Mélanges Renier",
+        "subtitle": "recueil de travaux",
+        "authors": [
+          "École pratique des hautes études (France). Section des sciences historiques et philologiques"
+        ],
+        "publishedDate": "1887",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "BML:37001103632365" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aFM1-afMcwoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aFM1-afMcwoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=aFM1-afMcwoC&printsec=frontcover&dq=subject:histoire&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aFM1-afMcwoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aFM1-afMcwoC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=aFM1-afMcwoC&rdid=book-aFM1-afMcwoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/M%C3%A9langes_Renier.epub?id=aFM1-afMcwoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/M%C3%A9langes_Renier.pdf?id=aFM1-afMcwoC&hl=&output=pdf&sig=ACfU3U0GtQpmBMh3ugVJE7hNvblP8BaTAg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aFM1-afMcwoC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5CE_YgEACAAJ",
+      "etag": "r+ujtcKQcjE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5CE_YgEACAAJ",
+      "volumeInfo": {
+        "title": "Douze leçons sur l'histoire",
+        "authors": ["Antoine Prost"],
+        "publishedDate": "2010",
+        "description": "\"Douze leçons sur l'histoire. Tout ce qu'il faut savoir sur l'histoire et le métier d'historien. En douze chapitres, qui proviennent d'un cours donné à la Sorbonne, Antoine Prost démonte clairement les étapes de la méthode historique, tout en replaçant l'histoire et l'historien dans la société contemporaine et dans sa profession. Cet ouvrage est à la fois un traité d'initiation au travail de réflexion, nourri par d'amples lectures, et une pensée originale. Cette nouvelle édition comprend deux nouveaux articles.\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2757820648" },
+          { "type": "ISBN_13", "identifier": "9782757820643" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 370,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=5CE_YgEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=5CE_YgEACAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Douze_le%C3%A7ons_sur_l_histoire.html?hl=&id=5CE_YgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=5CE_YgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4VBoAAAAMAAJ",
+      "etag": "RPsdm5U/6x0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4VBoAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Histoire du monde grec antique",
+        "authors": ["François Lefèvre"],
+        "publisher": "LGF/Le Livre de Poche",
+        "publishedDate": "2007",
+        "description": "Panorama d'une civilisation éblouissante, depuis la préhistoire jusqu'à la transformation du monde grec en provinces romaines. Alternant la relation chronologique des événements et des exposés synthétiques, ce livre propose une mise au point sur les problèmes, les sources et les enjeux de l'histoire grecque.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015067680143" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 644,
+        "printType": "BOOK",
+        "categories": ["Greece"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4VBoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4VBoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=4VBoAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=4VBoAAAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Histoire_du_monde_grec_antique.html?hl=&id=4VBoAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=4VBoAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VrckAQAAMAAJ",
+      "etag": "5a/sb+nOyeE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VrckAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Introduction à la philosophie de l'histoire",
+        "subtitle": "essai sur les limites de l'objectivité historique",
+        "authors": ["Raymond Aron"],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "1991",
+        "description": "La vérité scientifique se détache de la conscience qui l'a élaborée puisque, à un certain degré d'approximation, elle vaut éternellement. En va-t-il de même pour la reconstitution historique ? La science historique, comme les sciences de la nature, se développe-t-elle selon un rythme d'accumulation et de progrès ou, au contraire, chaque société récrit-elle son histoire parce qu'elle se choisit et recrée son passé ? Cette analyse devenue classique de l'historicité conduit Raymond Aron à une philosophie historique qui, s'opposant aux synthèses spéculatives en même temps qu'au positivisme, est aussi une philosophie de l'histoire. « La philosophie de l'histoire, écrit-il, est une partie essentielle de la philosophie, elle en est à la fois l'introduction et la conclusion. Introduction, puisqu'il faut comprendre l'histoire pour penser la destinée humaine, d'un temps et de toujours, conclusion, puisqu'il n'y a pas de compréhension du devenir humain sans une doctrine de l'homme. Double caractère qui serait contradictoire si l'on se représentait la philosophie selon le schéma des théories déductives, mais qui devient intelligible dès qu'on la rattache à la dialectique de la vie et de l'esprit, qui s'achève dans la conscience de soi de l'être qui se situe dans l'histoire et se mesure à la vérité. » Note pour la présente édition Introduction Présentation I. Théorie et histoire (ordre et hasard) II. Les histoires naturelles III. Histoire naturelle et histoire humaine IV. Le temps et les concepts d'histoire Compréhension et signification Présentation I. La connaissance de soi II. La connaissance d'autrui III. Esprit objectif et réalité collective IV. La connaissance historique Présentation I. La pluralité des systèmes d'interprétation II. La compréhension des idées III. La compréhension des hommes IV. La compréhension des faits Présentation I. L'histoire des idées II. L'histoire des faits et des institutions III. Explication d'origine et rationalité rétrospective IV. L'évolution humaine Les limites de la compréhension Les directions de la recherche causale Présentation I. Le schéma de la causalité historique II. Causalité et responsabilité III. Causalité et hasard IV. Limites et signification de la causalité historique Présentation I. Causes naturelles II. Causes sociales III. Causes sociales et conditions individuelles (limites de la causalité statistique) IV. Cause et premier moteur (de la causalité à la théorie) Présentation I. Causalité historique et causalité sociologique II. Les lois historiques III. La systématisation causale IV. Le déterminisme historique Déterminisme et probabilité Les limites de la synthèse causale Présentation Présentation I. Compréhension et causalité II. La structure du monde historique (pluralité et totalité) III. Le devenir et l'existence IV. Science et philosophie de l'histoire Présentation I. Le relativisme historique II. Les dépassements de l'historisme III. Philosophies de l'histoire et idéologies IV. La pluralité des modes de considération Présentation I. L'homme dans l'histoire : choix et action II. L'homme historique : la décision III. L'histoire de l'homme : la recherche de la vérité IV. Temps historique et liberté I. Compte rendu de la soutenance de thèse de R. Aron dans la Revue de métaphysique et de morale II. Récit de la soutenance par le père G. Fessard Notes de l'éditeur etvariantes Index rerum Index nominum.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "NWU:35556021594650" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 521,
+        "printType": "BOOK",
+        "categories": ["histoire"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VrckAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VrckAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=VrckAQAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=VrckAQAAMAAJ&dq=subject:histoire&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_%C3%A0_la_philosophie_de_l_hist.html?hl=&id=VrckAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=VrckAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

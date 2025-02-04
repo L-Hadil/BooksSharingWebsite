@@ -1,0 +1,128 @@
+{{> header}}
+
+	<!-- Custom CSS -->
+	<style>
+		.header {
+  		color: #4c1711;
+    }
+		h1 {
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Georgia, serif;
+    }
+	.container {
+		margin-top: 50px;
+		border: 5px solid #4c1711;
+		padding: 20px;
+		border-radius: 20px;
+		font-family: Arial, sans-serif;
+	}
+
+	.card-body {
+		max-height: 500x; 
+		overflow-y: auto; 
+	}
+
+
+	h2{
+		font-size: 40px;
+		color: black;
+		border: #212529;
+	}
+
+	
+
+	.btn {
+			display: inline-block;
+			font-weight: 400;
+			color: #212529;
+			text-align: center;
+			vertical-align: middle;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+			background-color: transparent;
+			border: 1px solid transparent;
+			padding: .375rem .75rem;
+			font-size: 1rem;
+			line-height: 1.5;
+			border-radius: .25rem;
+			transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+			transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+			transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,-webkit-box-shadow .15s ease-in-out;
+	}
+	.btn-primary {
+		background: white;
+        border: solid 2px #976d6f;
+        padding: .375em 1.125em;
+        font-size: 1rem;
+	}	
+	.btn-primary:hover,
+    .button-primary:focus {
+        box-shadow: 0 4px 8px #00000033;
+        transform: translateY(-4px);
+        background: #4c1711;
+        border-top-left-radius: var(--radius);
+        border-top-right-radius: var(--radius);
+        border-bottom-left-radius: var(--radius);
+        border-bottom-right-radius: var(--radius);
+    }
+
+
+</style>
+
+</head>
+<body>
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4">
+                <img src="{{book.Image}}" class="card-img-top" style="width: 200px;">
+			</div>
+			<div class="col-md-8">
+				<h1>{{book.Title}}</h1>
+				<ul class="list-unstyled">
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Author:</strong> <span style="font-weight:bold; font-size: 18px; font-family: Arial, sans-serif; color: #4c1711;">{{book.Autor}}</span></li>
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Publication Date:</strong> <span style="font-weight:bold; font-size: 18px; font-family: Arial, sans-serif; color: #4c1711;">{{book.PublicationDate}}</span></li>
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Description:</strong> <span style="font-weight:bold;font-size: 18px; font-family: Arial, sans-serif;color: #4c1711; ">{{book.description}}</span></li>
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Editor:</strong> <span style="font-weight:bold; font-size: 18px; font-family: Arial, sans-serif;color: #4c1711;">{{book.Editor}}</span></li>
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Language:</strong> <span style="font-weight:bold; font-size: 18px; font-family: Arial, sans-serif;color: #4c1711;">{{book.Language}}</span></li>
+					<li><strong style="font-weight:bold;font-size: 20px; font-family: Arial, sans-serif;">Category:</strong> <span style="font-weight:bold; font-size: 18px; font-family: Arial, sans-serif;color: #4c1711;">{{book.Category}}</span></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- Comments section -->
+	<div class="container comment">
+		<div class="row">
+			<div class="col-md-12">
+				<h2>Comments</h2>
+				{{#comments}}
+				<div class="card">
+					<div class="card-body">
+						<h5 class="card-title">{{UserName}}</h5>
+						<h6 class="card-subtitle mb-2 text-muted">{{date}}</h6>
+						<p class="card-text">{{comment}}</p>
+					</div>
+					<div class="card-footer">
+						<small class="text-muted">{{userId}}</small>
+					</div>
+				</div>
+				{{/comments}}
+			</div>
+		</div>
+		<br>
+		<h3>Add a comment:</h3>
+		<form action="/book/{{bookId}}/comment" method="POST">
+
+			<div class="form-group">
+				<label for="comment">Comment:</label>
+				<textarea class="form-control" id="comment" name="comment" rows="3" required></textarea>
+			</div>
+			<button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+	</div>
+</body>
+
+</html>

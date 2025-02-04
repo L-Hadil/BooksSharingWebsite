@@ -1,0 +1,2426 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 982,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "sgteDwAAQBAJ",
+      "etag": "v4gFYpYs9P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sgteDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Du sang, des larmes et des pixels",
+        "authors": ["Jason Schreier"],
+        "publisher": "Mana Books",
+        "publishedDate": "2018-06-07",
+        "description": "Le premier essai des éditions Mana Books ! Destiny, Diablo III ou encore Uncharted 4 : des jeux encensés par la critique comme par les joueurs. Et pourtant, la création de chacun de ces titres tient du miracle. Des difficultés de planning de Dragon Age : Inquisition aux problèmes de financement de Pillars of Eternity, Jason Schreier (Kotaku) nous emmène dans les coulisses du développement chaotique des plus belles réussites vidéoludiques de ces dernières années.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9791035500443" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 246,
+        "printType": "BOOK",
+        "categories": ["Performing Arts"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sgteDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sgteDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=sgteDwAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sgteDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sgteDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=sgteDwAAQBAJ&rdid=book-sgteDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 12990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Du_sang_des_larmes_et_des_pixels-sample-epub.acsm?id=sgteDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Du_sang_des_larmes_et_des_pixels-sample-pdf.acsm?id=sgteDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sgteDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans cette chronique captivante des dessous de cette industrie qui ne ressemble à aucune autre, Jason Schreier (Kotaku) explore les affres de la création de certains des plus grands jeux vidéo de l&#39;histoire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oyxLEAAAQBAJ",
+      "etag": "lxzzb5IAupw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oyxLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Read/Write Book 2",
+        "subtitle": "Une introduction aux humanités numériques",
+        "authors": ["Collectif"],
+        "publisher": "OpenEdition Press",
+        "publishedDate": "2012-09-21",
+        "description": "Qu’est-ce que les humanités numériques ? Apparue en 2006, l’expression connaît depuis un véritable succès. Mais au-delà du slogan à la mode, quelle est la réalité des pratiques qu’il désigne ? Si tout le monde s’accorde sur une définition minimale à l’intersection des technologies numériques et des sciences humaines et sociales, les vues divergent lorsqu’on entre dans le vif du sujet. Les humanités numériques représentent-elles une véritable révolution des pratiques de recherche et des paradigmes intellectuels qui les fondent ou, plus simplement, une optimisation des méthodes existantes ? Constituent-elles un champ suffisamment structuré pour justifier une réforme des modes de financement de la recherche, des cursus de formation, des critères d’évaluation ? L’archive numérique offre-t-elle à la recherche suffisamment de garanties ? Quelle place la recherche « dirigée par les données » laisse-t-elle à l’interprétation ? Telles sont quelques-unes des questions abordées par ce deuxième opus de la collection « Read/Write Book ». Ces dix-huit textes essentiels, rédigés ou traduits en français par des chercheurs de différentes nationalités, proposent une introduction aux humanités numériques accessible à tous ceux qui souhaitent en savoir plus sur ce domaine de recherche en constante évolution.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782821813250" },
+          { "type": "ISBN_10", "identifier": "2821813252" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oyxLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oyxLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=oyxLEAAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oyxLEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oyxLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 5.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 5.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=oyxLEAAAQBAJ&rdid=book-oyxLEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 5990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 5990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Read_Write_Book_2-sample-epub.acsm?id=oyxLEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Read_Write_Book_2-sample-pdf.acsm?id=oyxLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oyxLEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Qu’est-ce que les humanités numériques ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cWMxzgEACAAJ",
+      "etag": "2PBDrqxS0XI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cWMxzgEACAAJ",
+      "volumeInfo": {
+        "title": "L'Art d'Aimer",
+        "authors": ["Ovide"],
+        "publisher": "Fv Editions",
+        "publishedDate": "2021-02-09",
+        "description": "Dans cette oeuvre sans nulle autre pareille, Ovide nous propose une initiation à l'Art de l'Amour, un guide poétique et philosophique de la séduction. D'une modernité surprenante, c'est aussi une réflexion novatrice pour l'époque sur les rapports amoureux. Extrait: Tandis que Vénus m'inspire, jeunes beautés, prêtez l'oreille à mes leçons. La pudeur et les lois vous le permettent; votre intérêt vous y invite. Songez dès à présent à la vieillesse qui viendra trop tôt, et vous ne perdrez pas un instant. Tandis que vous le pouvez, et que vous en êtes encore à vos années printanières, donnez-vous du bon temps; comme l'eau s'écoulent les années. Le flot qui fuit ne reviendra plus à sa source; l'heure une fois passée est passée sans retour. Profitez du bel âge: il s'envole si vite !",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9791029911620" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cWMxzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cWMxzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=cWMxzgEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=cWMxzgEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_Art_d_Aimer.html?hl=&id=cWMxzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=cWMxzgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans cette oeuvre sans nulle autre pareille, Ovide nous propose une initiation à l&#39;Art de l&#39;Amour, un guide poétique et philosophique de la séduction."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7yk4EAAAQBAJ",
+      "etag": "5REZLPy0VuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7yk4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Klara et le Soleil",
+        "authors": ["Kazuo Ishiguro"],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2021-08-19T00:00:00+02:00",
+        "description": "Klara est une AA, une Amie Artifi cielle, un robot de pointe ultraperformant créé spécialement pour tenir compagnie aux enfants et aux adolescents. Klara est dotée d’un extraordinaire talent d’observation, et derrière la vitrine du magasin où elle se trouve, elle profite des rayons bienfaisants du Soleil et étudie le comportement des passants, ceux qui s’attardent pour jeter un coup d’œil depuis la rue ou qui poursuivent leur chemin sans s’arrêter. Elle nourrit l’espoir qu’un jour quelqu’un entre et vienne la choisir. Lorsque l’occasion se présente enfin, Klara est toutefois mise en garde : mieux vaut ne pas accorder trop de crédit aux promesses des humains... Après l’obtention du prix Nobel de littérature, Kazuo Ishiguro nous offre un nouveau chef-d’œuvre qui met en scène avec virtuosité la façon dont nous apprenons à aimer. Ce roman, qui nous parle d’amitié, d’éthique, d’altruisme et de ce qu’être humain signifie, pose une question à l’évidence troublante : à quel point sommes-nous irremplaçables ?",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782072909245" },
+          { "type": "ISBN_10", "identifier": "2072909244" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7yk4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7yk4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=7yk4EAAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=7yk4EAAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Klara_et_le_Soleil.html?hl=&id=7yk4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Klara_et_le_Soleil-sample-epub.acsm?id=7yk4EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Klara_et_le_Soleil-sample-pdf.acsm?id=7yk4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7yk4EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Après l’obtention du prix Nobel de littérature, Kazuo Ishiguro nous offre un nouveau chef-d’œuvre qui met en scène avec virtuosité la façon dont nous apprenons à aimer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M89yCgAAQBAJ",
+      "etag": "/M7X2hwXuK4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M89yCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Sapiens",
+        "subtitle": "Une brève histoire de l'humanité",
+        "authors": ["Yuval Noah Harari"],
+        "publisher": "Albin Michel",
+        "publishedDate": "2015-09-02",
+        "description": "Il y a 100 000 ans, la Terre était habitée par au moins six espèces différentes d'hominidés. Une seule a survécu. Nous, les Homo Sapiens. Comment notre espèce a-t-elle réussi à dominer la planète ? Pourquoi nos ancêtres ont-ils uni leurs forces pour créer villes et royaumes ? Comment en sommes-nous arrivés à créer les concepts de religion, de nation, de droits de l'homme ? À dépendre de l'argent, des livres et des lois ? À devenir esclaves de la bureaucratie, des horaires, de la consommation de masse ? Et à quoi ressemblera notre monde dans le millénaire à venir ? Véritable phénomène d'édition, traduit dans une trentaine de langues, Sapiens est un livre audacieux, érudit et provocateur. Professeur d'Histoire à l'Université hébraïque de Jérusalem, Yuval Noah Harari mêle l'Histoire à la Science pour remettre en cause tout ce que nous pensions savoir sur l'humanité : nos pensées, nos actes, notre héritage... et notre futur.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782226332196" },
+          { "type": "ISBN_10", "identifier": "2226332197" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M89yCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M89yCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=M89yCgAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=M89yCgAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sapiens.html?hl=&id=M89yCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Sapiens-sample-epub.acsm?id=M89yCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Sapiens-sample-pdf.acsm?id=M89yCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M89yCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Il y a 100 000 ans, la Terre était habitée par au moins six espèces différentes d&#39;hominidés. Une seule a survécu. Nous, les Homo Sapiens. Comment notre espèce a-t-elle réussi à dominer la planète ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uMb9DwAAQBAJ",
+      "etag": "UBAuKThriW4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uMb9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Une terre promise",
+        "authors": ["Barack Obama"],
+        "publisher": "Fayard",
+        "publishedDate": "2020-11-17",
+        "description": "Dans le premier volume de ses mémoires présidentiels, Barack Obama raconte l'histoire passionnante de son improbable odyssée, celle d'un jeune homme en quête d'identité devenu dirigeant du monde libre, retraçant de manière personnelle son éducation politique et les moments emblématiques du premier mandat de sa présidence - une période de transformations et de bouleversements profonds. Barack Obama nous invite à le suivre dans un incroyable voyage, de ses premiers pas sur la scène politique à sa victoire décisive aux primaires de l'Iowa, et jusqu'à la soirée historique du 4 novembre 2008, lorsqu'il fut élu 44e président des États-Unis, devenant ainsi le premier Afro-Américain à accéder à la fonction suprême. En revenant sur les grandes heures de sa présidence, il nous offre un point de vue unique sur l'exercice du pouvoir présidentiel, ainsi qu'un témoignage singulier sur les ressorts de la politique intérieure et de la diplomatie internationale. Il nous entraîne dans les coulisses de la Maison-Blanche, du Bureau ovale à la salle de crise, et aux quatre coins du monde, de Moscou à Pékin en passant par Le Caire. Il nous confie les réflexions qui l'ont occupé à certains moments cruciaux - la constitution de son gouvernement, la crise financière mondiale, le bras de fer avec Vladimir Poutine, la réforme du système de santé, les différends sur la stratégie militaire des États-Unis en Afghanistan, la réforme de Wall Street, le désastre provoqué par l'explosion de la plateforme pétrolière Deepwater Horizon, et enfin l'opération commando qui a conduit à la mort d'Oussama Ben Laden. Une terre promise est aussi un récit introspectif - l'histoire du pari qu'un homme a lancé à l'Histoire, d'un militant associatif dont la foi a été mise à l'épreuve sur la scène internationale. Barack Obama parle sans détour du défi colossal qu'il lui a fallu relever : être le premier candidat afro-américain à la présidence, incarner \"l'espoir et le changement\" aux yeux de toute une génération galvanisée par la promesse du renouveau, et devoir à chaque instant prendre des décisions d'une gravité exceptionnelle. Il évoque la façon dont sa vie à la Maison-Blanche a pu affecter sa femme et ses filles, et parle sans fard des moments où il s'est retrouvé en proie au doute et à la déception - sans pour autant renoncer à croire qu'en Amérique le progrès est toujours possible. Ce livre puissant et magnifiquement écrit est l'expression de la conviction profonde de Barack Obama : la démocratie n'est pas un don du ciel, mais un édifice fondé sur l'empathie et la compréhension mutuelle que nous bâtissons ensemble, jour après jour. Traduit de l'anglais (États-Unis) par Pierre Demarty, Charles Recoursé et Nicolas Richard",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782213707884" },
+          { "type": "ISBN_10", "identifier": "221370788X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 890,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uMb9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uMb9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=uMb9DwAAQBAJ&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uMb9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uMb9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=uMb9DwAAQBAJ&rdid=book-uMb9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 12990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Une_terre_promise-sample-epub.acsm?id=uMb9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Une_terre_promise-sample-pdf.acsm?id=uMb9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uMb9DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Une terre promise est aussi un récit introspectif - l&#39;histoire du pari qu&#39;un homme a lancé à l&#39;Histoire, d&#39;un militant associatif dont la foi a été mise à l&#39;épreuve sur la scène internationale."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J6Z9zQEACAAJ",
+      "etag": "kQ8u/rnmGUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J6Z9zQEACAAJ",
+      "volumeInfo": {
+        "title": "Julian est une sirène",
+        "authors": ["Jessica Love"],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2211306667" },
+          { "type": "ISBN_13", "identifier": "9782211306669" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=J6Z9zQEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=J6Z9zQEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Julian_est_une_sir%C3%A8ne.html?hl=&id=J6Z9zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=J6Z9zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Julian est dans le métro avec Mamita, sa grand-mère."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UDHEDwAAQBAJ",
+      "etag": "2yBkxTJ1k3c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UDHEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "L'Art invisible",
+        "authors": ["Scott Mccloud"],
+        "publisher": "Delcourt",
+        "publishedDate": "2019-12-18",
+        "description": "L'Art invisible est l'ouvrage théorique de référence sur la bande dessinée. Salué par les plus grands noms (Will Eisner, Art Spiegelman, Alan Moore...), Scott McCloud a été le premier à formaliser la bande dessinée en tant que média, de ses origines à sa forme la plus actuelle. Cette parfaite synthèse, claire et accessible, permet à l'amateur comme au spécialiste de profiter de l'analyse riche et pertinente de son auteur.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782413028956" },
+          { "type": "ISBN_10", "identifier": "2413028951" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Comics & Graphic Novels"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": true,
+          "containsImageBubbles": true,
+          "epubBubbleVersion": "a27293cafaee6d6f",
+          "imageBubbleVersion": "a27293cafaee6d6f"
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UDHEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UDHEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=UDHEDwAAQBAJ&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UDHEDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UDHEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=UDHEDwAAQBAJ&rdid=book-UDHEDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/L_Art_invisible-sample-epub.acsm?id=UDHEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/L_Art_invisible-sample-pdf.acsm?id=UDHEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UDHEDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "L&#39;Art invisible est l&#39;ouvrage théorique de référence sur la bande dessinée."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YOh1DgAAQBAJ",
+      "etag": "zzCSfbldMI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YOh1DgAAQBAJ",
+      "volumeInfo": {
+        "title": "IKIGAI",
+        "authors": ["Héctor GARCIA", "Francesc MIRALLES"],
+        "publisher": "12-21",
+        "publishedDate": "2017-04-13",
+        "description": "Les secrets des Japonais pour trouver votre raison de vivre et vivre plus longtemps. La scène se passe dans un parc à Tokyo. Deux amis conversent sur le sens de la vie et sur l'étonnante longévité des Japonais. Un mot est alors lancé : ikigai, qui signifie littéralement \" la joie d'être toujours occupé \". D'après les Japonais, nous possédons tous un ikigai, une raison d'exister, qui nous pousse à nous lever chaque matin et à être acteurs de notre vie. C'est ainsi que les deux amis, Héctor García et Francesc Miralles, décident de se lancer dans une passionnante enquête à travers le Japon. Partis à la rencontre des \" supercentenaires \" du hameau d'Ogimi, dans l'archipel d'Okinawa, ils passent de longs mois sur place à s'imprégner de la mentalité et des us et coutumes locaux. Comment ces \" supercentenaires \" définissent-ils leur ikigai et en quoi les guide-t-il au quotidien ? Quelles sont les habitudes à adopter pour mieux vivre ? Dans un livre à mi-chemin entre le guide et le témoignage, Héctor García et Francesc Miralles nous invitent à découvrir notre propre ikigai pour mener une vie longue et harmonieuse.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782823854169" },
+          { "type": "ISBN_10", "identifier": "2823854169" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": ["Family & Relationships"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YOh1DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YOh1DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=YOh1DgAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YOh1DgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YOh1DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=YOh1DgAAQBAJ&rdid=book-YOh1DgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 12990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/IKIGAI-sample-epub.acsm?id=YOh1DgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/IKIGAI-sample-pdf.acsm?id=YOh1DgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YOh1DgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dans un livre à mi-chemin entre le guide et le témoignage, Héctor García et Francesc Miralles nous invitent à découvrir notre propre ikigai pour mener une vie longue et harmonieuse."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VA6TDwAAQBAJ",
+      "etag": "Dtm8qNTmHQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VA6TDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Un rien peut tout changer",
+        "authors": ["James Clear"],
+        "publisher": "Larousse",
+        "publishedDate": "2019-05-09",
+        "description": "Les gens pensent que pour modifier le cours de leur vie, ils doivent faire de grands changements. Dans ce livre, ils découvriront que les plus petits changements couplés à une bonne connaissance de la psychologie et des neurosciences peuvent avoir un effet révolutionnaire sur leur existence et leurs relations.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782035969217" },
+          { "type": "ISBN_10", "identifier": "2035969212" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VA6TDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VA6TDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=VA6TDwAAQBAJ&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VA6TDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VA6TDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=VA6TDwAAQBAJ&rdid=book-VA6TDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 12990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Un_rien_peut_tout_changer-sample-epub.acsm?id=VA6TDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Un_rien_peut_tout_changer-sample-pdf.acsm?id=VA6TDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VA6TDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Les gens pensent que pour modifier le cours de leur vie, ils doivent faire de grands changements."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dTcBEAAAQBAJ",
+      "etag": "4YcpyL/5Vms",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dTcBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Le Cerveau de votre enfant",
+        "authors": ["Daniel Siegel"],
+        "publisher": "Les Arènes",
+        "publishedDate": "2015-03-16",
+        "description": "La Bible de l'éducation positive LES PARENTS ONT BESOIN D'UN MODE D'EMPLOI ADAPTÉ AUX ENFANTS D'AUJOURD'HUI Comment élever mon enfant ? Comment l'aider à être heureux, équilibré, respectueux des autres ? Que fautil faire, ne pas faire ? Y a-t-il une méthode efficace pour gérer les peurs, les colères ? Ces questions, tous les parents se les posent. Aujourd'hui, les découvertes sur le cerveau jettent une lumière nouvelle sur le comportement des enfants. Ce livre met à la portée des parents les éléments de base pour comprendre et agir. IL EST POSSIBLE D'AGIR POSITIVEMENT SUR LE CERVEAU DE L'ENFANT Le cerveau est notre organe le plus complexe : il comprend deux hémisphères, plusieurs aires – dont certaines sont dédiées au comportement moral, d'autres aux décisions ou à la motivation –, plusieurs \" étages \" – cerveau reptilien, limbique et cortex. La clé est de les intégrer dans un même circuit, comme les différents systèmes du corps humain. Quand tous ces éléments ne fonctionnent pas ensemble surviennent les problèmes : colères, caprices, agressivité. Par notre comportement en tant que parents, nous pouvons agir sur le bon fonctionnement du cerveau de l'enfant. UNE MERVEILLE DE PÉDAGOGIE ILLUSTRÉE Il mêle le savoir et la pratique. Chaque chapitre présente une connaissance sur le cerveau (les deux hémisphères, les deux étages du cerveau) et des techniques pour intégrer ce savoir au quotidien de l'enfant. Ces techniques sont systématiquement illustrées par : – Des scenettes sous formes de BD pour montrer des situations familières (opposition, troubles émotionnels) et expliquer au parents comment y répondre. – D'autres sont destinées à expliquer aux enfants le fonctionnement de leur cerveau.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782352044284" },
+          { "type": "ISBN_10", "identifier": "2352044286" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 141,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dTcBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dTcBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=dTcBEAAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dTcBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dTcBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 13.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 13.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=dTcBEAAAQBAJ&rdid=book-dTcBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 13990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Le_Cerveau_de_votre_enfant-sample-epub.acsm?id=dTcBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Le_Cerveau_de_votre_enfant-sample-pdf.acsm?id=dTcBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dTcBEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La Bible de l&#39;éducation positive LES PARENTS ONT BESOIN D&#39;UN MODE D&#39;EMPLOI ADAPTÉ AUX ENFANTS D&#39;AUJOURD&#39;HUI Comment élever mon enfant ?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xcFJrgEACAAJ",
+      "etag": "9iNBD2VkMJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xcFJrgEACAAJ",
+      "volumeInfo": {
+        "title": "La méthode Value Proposition Design",
+        "authors": [
+          "Alexander Osterwalder",
+          "Yves Pigneur",
+          "Greg Bernarda",
+          "Alan Smith"
+        ],
+        "publisher": "Pearson",
+        "publishedDate": "2015-05-29",
+        "description": "Suite attendue du bestseller Business Model Nouvelle Génération, ce livre est indispensable pour proposer une offre de produits et services en phase avec les attentes des clients.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2744066311" },
+          { "type": "ISBN_13", "identifier": "9782744066313" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=xcFJrgEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=xcFJrgEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_m%C3%A9thode_Value_Proposition_Design.html?hl=&id=xcFJrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=xcFJrgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un ouvrage indispensable pour proposer une offre de produits et services en totale adéquation avec les attentes des clients."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CiynCgAAQBAJ",
+      "etag": "Bn7n5cZnE+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CiynCgAAQBAJ",
+      "volumeInfo": {
+        "title": "L'appartement oublié",
+        "subtitle": "Best-seller international",
+        "authors": ["Michelle Gable"],
+        "publisher": "Éditions des Falaises",
+        "publishedDate": "2015-10-19",
+        "description": "Un roman éblouissant, inspiré d'un fait réel, qui vous fera voyager au cœur de la Belle Époque. Quand April Vogt, expert en mobilier, apprend qu ́un appartement fermé depuis soixante-dix ans vient d ́être découvert à Paris, elle est loin de s ́imaginer les richesses et les secrets qu ́il renferme. Au milieu des nombreux trésors, April trouve le journal de Marthe de Florian, la très séduisante demi-mondaine qui y vécut en multipliant les amants. Comprendre la tumultueuse histoire de cette femme libre conduit April à une véritable plongée au cœur du Paris des artistes et des hommes politiques de la Belle Époque. Découvrez l'incroyable histoire d'un trésor retrouvé intact 70 ans après dans un luxueux appartement parisien ! EXTRAIT Elle voulait juste changer d’air. Et quand son patron avait prononcé les mots « appartement », « neuvième arrondissement » et « tout un bric-à-brac du dix-neuvième siècle », April avait pensé « vacances ». Elle aurait beaucoup de travail, certes, mais qu’importe, elle partait à Paris. Comme tout peintre, tout poète, tout écrivain et tout expert en objets d’art le savait, c’était l’endroit idéal pour s’évader. L’équipe parisienne se trouvait déjà sur place avec, à sa tête, Olivier. April le voyait déjà sillonnant l’appartement, son calepin à la main, griffonnant des notes de ses doigts osseux et crochus. Il avait demandé des renforts à New York, car ils avaient besoin d’un autre expert, et plus précisément d’un spécialiste en mobilier ancien pour compenser leur manque de compétence dans ce domaine. D’après le patron d’April, l’appartement de cinq pièces contenait « de quoi meubler une douzaine de lupanars de luxe ». Si Peter ne se faisait pas beaucoup d’illusions sur ce qu’ils allaient trouver, April en attendait beaucoup, quoique pour des raisons différentes. CE QU'EN PENSE LA CRITIQUE De l’amour, de l’art, de l’histoire, Paris ... que demander de plus ? - FineBooks Magazine Une lecture charmante sur une histoire fascinante et la femme cachée derrière. - Historical Novel Society J’ai beaucoup aimé découvrir l’envers du décor de ce métier très particulier de commissaire-priseur et que je trouve tout à fait fascinant. Michelle Gable, dont c’est ici le premier roman, jongle habilement entre les deux époques et j’ai passé un très agréable moment avec April et Marthe ! - Blog Des livres, des livres ! J'étais totalement happée dans l'histoire, la narration est très bien menée, servie par un style très agréable, on est tenu en haleine à suivre les découvertes d'April Vogt et à en apprendre plus sur Marthe de Florian. - Red Panda, Babelio À PROPOS DE L’AUTEUR Michelle Gable a grandi à San Diego. Elle mène de front sa carrière d’auteur et une carrière professionnelle dans le milieu financier. Son roman, devenu best-seller, s’inspire d’un événement réel : la découverte en 2010 d’un appartement parisien de la Belle Époque laissé à l’abandon, comme figé dans le temps.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782848112633" },
+          { "type": "ISBN_10", "identifier": "2848112638" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.18.15.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CiynCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CiynCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=CiynCgAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CiynCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CiynCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 6.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 6.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=CiynCgAAQBAJ&rdid=book-CiynCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 6990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 6990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=CiynCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michelle Gable, dont c’est ici le premier roman, jongle habilement entre les deux époques et j’ai passé un très agréable moment avec April et Marthe !&quot; - Blog Des livres, des livres !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ekEgEAAAQBAJ",
+      "etag": "7ISb7/xVBs4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ekEgEAAAQBAJ",
+      "volumeInfo": {
+        "title": "La voleuse de fruits",
+        "authors": ["Peter Handke"],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2021-03-01T00:00:00+01:00",
+        "description": "Relu par l'auteur",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782072801976" },
+          { "type": "ISBN_10", "identifier": "2072801974" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ekEgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ekEgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=ekEgEAAAQBAJ&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ekEgEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ekEgEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 16.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 16.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ekEgEAAAQBAJ&rdid=book-ekEgEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 16990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/La_voleuse_de_fruits-sample-epub.acsm?id=ekEgEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/La_voleuse_de_fruits-sample-pdf.acsm?id=ekEgEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ekEgEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": { "textSnippet": "Relu par l&#39;auteur" }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1Ns9zQEACAAJ",
+      "etag": "8gLXTC7ckmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1Ns9zQEACAAJ",
+      "volumeInfo": {
+        "title": "Option B",
+        "subtitle": "surmonter l'adversité, retrouver l'aptitude au bonheur",
+        "authors": ["Sheryl Sandberg", "Adam M. Grant"],
+        "publishedDate": "2019",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2253091561" },
+          { "type": "ISBN_13", "identifier": "9782253091561" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=1Ns9zQEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=1Ns9zQEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Option_B.html?hl=&id=1Ns9zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=1Ns9zQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "veG7xwEACAAJ",
+      "etag": "J/KkzGjqTFk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/veG7xwEACAAJ",
+      "volumeInfo": {
+        "title": "Je T'aimerai Toujours",
+        "authors": ["Robert Munsch"],
+        "publisher": "Firefly Books",
+        "publishedDate": "2019-10-30",
+        "description": "Booksellers have sold more than 30 million copies of Love You Forever in paperback and hardcover. Now we have a French-language board version, printed on light, crisp whiteboard and slightly reduced for child-sized hands. Yet it contains every word of the original, which is much-loved by grandparents and parents everywhere. A young mother holds her baby, and while she sings to it she rocks it back and forth. And through her life, and the stages of his life, she holds her son and rocks him back and forth as she tells him that she will love him forever. Softly she sings to him: \"I'll love you forever I'll like you for always As long as I'm living My baby you'll be.\" The English-language board version is EAN 9780228101048.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0228101859" },
+          { "type": "ISBN_13", "identifier": "9780228101857" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=veG7xwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=veG7xwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=veG7xwEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=veG7xwEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Je_T_aimerai_Toujours.html?hl=&id=veG7xwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=veG7xwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Les libraires ont vendu plus de 35 millions de copies de Je t&#39;aimerai toujours en couverture souple et rigide."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aF1VAAAACAAJ",
+      "etag": "RETQ8tThYiI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aF1VAAAACAAJ",
+      "volumeInfo": {
+        "title": "Des comics et des hommes",
+        "subtitle": "histoire culturelle des comic books aux Etats-Unis",
+        "authors": ["Jean-Paul Gabilliet"],
+        "publishedDate": "2005",
+        "description": "Aux Etats-Unis, les comic books sont un secteur du monde de l'édition et un phénomène culturel. C'est dans les années 30, au cœur de la Dépression économique, qu'apparurent les fascicules agrafés qui prirent le nom de \" comic books \", Jean-Paul Gabilliet retrace l'épopée éditoriale de ces parutions, avec ses pics, ses crises, ses rebondissements et ses acteurs souvent hauts en couleurs. 'auteur nous emmène dans les coulisses commerciales et économiques d'un secteur de l'industrie culturelle en esquissant tout d'abord une typologie des créateurs de comic books à travers le temps: leurs origines sociales, leurs formations scolaires, leurs combats (presque toujours vains) pour faire valoir leurs droits auprès d'éditeurs seulement soucieux de rentabilité. Puis, à partir d'une batterie d'enquêtes et de sondages dont les plus anciens remontent aux années 20, il répond à la question: \" Qui lit des comic books?\" Enfin, il précise la position de la bande dessinée dans la hiérarchie culturelle aux Etats-Unis : les discours de censure contre les illustrés, stridents au cœur de la guerre froide et plus insidieux aujourd'hui. Pour les curieux et ls collectionneurs, le livre contient aussi eux bandes dessinées, l'une fantastique, l'autre sentimentale, reproduites en noir et blanc à partir de leurs planches originales. Des Comics et des hommes est un ouvrage grand public qui pourra s'avérer extrêmement utile aux chercheurs francophones désireux d'approfondir leur connaissance de ce domaine encore peu exploré de l'histoire culturelle américaine.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2842743091" },
+          { "type": "ISBN_13", "identifier": "9782842743093" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 478,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=aF1VAAAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=aF1VAAAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Des_comics_et_des_hommes.html?hl=&id=aF1VAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=aF1VAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cet ouvrage retrace l&#39;histoire des comic books depuis leur création dans les années 1930."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bebyAAAAQBAJ",
+      "etag": "ioNNCgc3ayY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bebyAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Poisson Un Poisson Deux Poisson Rouge Poisson Bleu",
+        "subtitle": "The French Edition of One Fish Two Fish Red Fish Blue Fish",
+        "authors": ["Dr. Seuss"],
+        "publisher": "Ulysses Press",
+        "publishedDate": "2011-12-13",
+        "description": "It's One Fish Two Fish Red Fish Blue Fish by Dr. Seuss in French. Of all Dr. Seuss titles, this may be the strongest for helping one learn to read in French because it is 64 fun pages with a wide range of \"I Can Read It Myself\" vocabulary.The beloved illustrations of Dr. Seuss plus an all new French translation of his simple, fun learn-to-read text Publiee en anglais sous le titre original One Fish Two Fish Red Fish Blue Fish, cette nouvelle traduction française reste fidèle e ce qui fait le succès des livres du Dr. Seuss : rimes facetieuses et personnages loufoques comme le Bloss e sept bosses, Willy et son petit lit ou le Gox qui aime la boxe... ce livre n'est pas seulement un outil parfait pour apprendre e lire le français, c'est aussi un regal de lecture ludique où le rire n'est jamais loin : « Notre velo est super. Il a trois places. Notre Robert s'assoit derrière. C'est cocasse ! »Originally published in English as One Fish Two Fish Red Fish Blue Fish, this new French translation faithfully captures Dr. Seuss' beloved tales, rollicking rhyme and zany characters such as winking Yink, seven-humped Wump and Ned with his little bed. This book is not only a perfect tool for learning to read French, it also entertains and amuses with playful passages such as \"Did you ever fly a kite in bed? Did you ever walk with ten cats on your head?\"",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781612430294" },
+          { "type": "ISBN_10", "identifier": "1612430295" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 68,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bebyAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bebyAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=bebyAAAAQBAJ&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=bebyAAAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Poisson_Un_Poisson_Deux_Poisson_Rouge_Po.html?hl=&id=bebyAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Poisson_Un_Poisson_Deux_Poisson_Rouge_Po-sample-pdf.acsm?id=bebyAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bebyAAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is not only a perfect tool for learning to read French, it also entertains and amuses with playful passages such as &quot;Did you ever fly a kite in bed? Did you ever walk with ten cats on your head?&quot;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VsyOxAEACAAJ",
+      "etag": "e7hxFvOq0ss",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VsyOxAEACAAJ",
+      "volumeInfo": {
+        "title": "Découvrez vos points forts avec le test CliftonStrengths",
+        "authors": ["Tom Rath"],
+        "publishedDate": "2019-04-19",
+        "description": "Connaissez-vous vos points forts ? Comme la majorité des individus vous êtes sûrement plus conscients de vos faiblesses. Aussi vous passez votre vie à vouloir les surmonter, alors qu'il faudrait axer votre développement sur vos forces et bâtir votre existence autour d'elles ; : en agissant ainsi, vos capacités de progression dans l'entreprise, d'épanouissement personnel et votre bonne santé mentale seront décuplées ! Gallup a mis au point un test, CliftonStrengths, qui vous permettra de découvrir vos points forts. Il se compose d'un questionnaire en ligne de 30 minutes, durant lequel vous devrez répondre à 177 déclarations qui vous permettront de découvrir vos talents parmi 34 thèmes. Ce livre offre un accès, grâce à un code à gratter, au test CliftonStrengths reconnu mondialement. Dans cette nouvelle édition de l'ouvrage Découvrez vos points forts, Tom Rath expose ; : dans une première partie, les raisons pour lesquelles il est important de découvrir ses points forts : Il est alors conseillé au lecteur de passer le test grâce au code inséré dans l'ouvrage. dans une deuxième partie, comment appliquer ses points forts avec pour chacun des 34 points forts qui existent, des témoignages de personnes qui possèdent ces points forts, des idées concrètes d'optimisation de ces talents et les clefs pour collaborer avec les personnes qui en sont dotées. Fondé sur l'analyse de millions d'interviews et de données, cette nouvelle version du test est encore plus précise et sûre dans ses résultats.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2744067202" },
+          { "type": "ISBN_13", "identifier": "9782744067204" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=VsyOxAEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=VsyOxAEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/D%C3%A9couvrez_vos_points_forts_avec_le_test.html?hl=&id=VsyOxAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=VsyOxAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": { "textSnippet": "Connaissez-vous vos points forts?" }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qOtgDwAAQBAJ",
+      "etag": "Rm3lGb/VNTQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qOtgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Les cigognes sont immortelles",
+        "authors": ["Alain Mabanckou"],
+        "publisher": "Média Diffusion",
+        "publishedDate": "2018-08-16",
+        "description": "À Pointe-Noire, dans le quartier Voungou, la vie suit son cours. Autour de la parcelle familiale où il habite avec Maman Pauline et Papa Roger, le jeune collégien Michel a une réputation de rêveur. Mais les tracas du quotidien (argent égaré, retards et distractions, humeur variable des parents, mesquineries des voisins) vont bientôt être emportés par le vent de l'Histoire. En ce mois de mars 1977 qui devrait marquer l'arrivée de la petite saison des pluies, le camarade président Marien Ngouabi est brutalement assassiné à Brazzaville. Et cela ne sera pas sans conséquences pour le jeune Michel, qui fera alors, entre autres, l'apprentissage du mensonge. Partant d'un univers familial, Alain Mabanckou élargit vite le cercle et nous fait entrer dans la grande fresque du colonialisme, de la décolonisation et des impasses du continent africain, dont le Congo est ici la métaphore puissante et douloureuse. Mêlant l'intimisme et la tragédie politique, il explore les nuances de l'âme humaine à travers le regard naïf d'un adolescent qui, d'un coup, apprend la vie et son prix. Alain Mabanckou est né en 1966 à Pointe-Noire, au Congo-Brazzaville. Ses œuvres sont traduites dans le monde entier. Il enseigne la littérature francophone à l'Université de Californie-Los Angeles (UCLA).",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782021304534" },
+          { "type": "ISBN_10", "identifier": "2021304531" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 303,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qOtgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qOtgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=qOtgDwAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qOtgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qOtgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 7.49, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 7.49, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=qOtgDwAAQBAJ&rdid=book-qOtgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 7490000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 7490000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_cigognes_sont_immortelles-sample-epub.acsm?id=qOtgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_cigognes_sont_immortelles-sample-pdf.acsm?id=qOtgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qOtgDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Alain Mabanckou est né en 1966 à Pointe-Noire, au Congo-Brazzaville. Ses œuvres sont traduites dans le monde entier. Il enseigne la littérature francophone à l&#39;Université de Californie-Los Angeles (UCLA)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gtxDPAAACAAJ",
+      "etag": "WLptUN+35r4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gtxDPAAACAAJ",
+      "volumeInfo": {
+        "title": "Devine combien je t'aime",
+        "authors": ["Sam McBratney", "Anita Jeram"],
+        "publisher": "Editions De L'Ecole",
+        "publishedDate": "1998-07-01",
+        "description": "Je t'aime grand comme ça, haut comme ça, jusqu'au bout des orteils, aussi loin que... Une déclaration d'amour pleine de charme et de jeunesse d'un petit lièvre à un grand, d'un fils à son père.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2211037453" },
+          { "type": "ISBN_13", "identifier": "9782211037457" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gtxDPAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gtxDPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=gtxDPAAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=gtxDPAAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Devine_combien_je_t_aime.html?hl=&id=gtxDPAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=gtxDPAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Je t&#39;aime grand comme ça, haut comme ça, jusqu&#39;au bout des orteils, aussi loin que... Une déclaration d&#39;amour pleine de charme et de jeunesse d&#39;un petit lièvre à un grand, d&#39;un fils à son père."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R4QGAAAACAAJ",
+      "etag": "Jen/85xGZFo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R4QGAAAACAAJ",
+      "volumeInfo": {
+        "title": "Bonsoir lune",
+        "authors": ["Margaret Wise Brown", "Clement Hurd"],
+        "publisher": "L'Ecole des Loisirs",
+        "publishedDate": "1996-09",
+        "description": "Le rituel du coucher permet de retrouver le calme en disant bonsoir à tous les objets domestiques.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2211072933" },
+          { "type": "ISBN_13", "identifier": "9782211072939" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R4QGAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R4QGAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=R4QGAAAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=R4QGAAAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bonsoir_lune.html?hl=&id=R4QGAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=R4QGAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Le rituel du coucher permet de retrouver le calme en disant bonsoir à tous les objets domestiques."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AlV1DwAAQBAJ",
+      "etag": "qGIKJAPAzzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AlV1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Les humanités numériques",
+        "subtitle": "Une histoire critique",
+        "authors": ["Pierre Mounier"],
+        "publisher": "Éditions de la Maison des sciences de l’homme",
+        "publishedDate": "2018-10-24",
+        "description": "Quel avenir faut-il prédire aux humanités ? Les signes d'une désaffection pour la culture humaniste se sont multipliés au cours des dernières années en France et ailleurs. Dans ce contexte morose et déprimé, le développement des humanités numériques apparaît à certains comme une planche de salut pour des disciplines autrement condamnées à disparaître. Toutefois, réinventer les humanités par le numérique suppose de relever trois défis de taille : leur rapport à la technique, leur relation au politique et enfin à la science elle-même. Les humanités numériques sont très critiquées : pour certains elles relèvent de la poudre aux yeux, pour d'autres, elles constituent une menace extraordinaire. Mais s'il y a bien quelque chose que l'on ne peut contester, c'est leur capacité à poser de bonnes questions aux différentes disciplines des sciences humaines et sociales. Penser la place que les humanités doivent tenir dans notre monde implique d'en redéfinir le contrat social et épistémique. Elles sont riches d'opportunités de ce point de vue : à condition de ne pas dénaturer la spécificité humanistique des pratiques de recherche auxquelles elles s'appliquent.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782735124831" },
+          { "type": "ISBN_10", "identifier": "2735124835" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": ["Language Arts & Disciplines"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AlV1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AlV1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=AlV1DwAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AlV1DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AlV1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 9.49, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 9.49, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=AlV1DwAAQBAJ&rdid=book-AlV1DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 9490000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 9490000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_humanit%C3%A9s_num%C3%A9riques-sample-epub.acsm?id=AlV1DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_humanit%C3%A9s_num%C3%A9riques-sample-pdf.acsm?id=AlV1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AlV1DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Les humanités numériques sont très critiquées : pour certains elles relèvent de la poudre aux yeux, pour d&#39;autres, elles constituent une menace extraordinaire."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nJiUvMO1gFUC",
+      "etag": "9CzKxyOBRi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nJiUvMO1gFUC",
+      "volumeInfo": {
+        "title": "Nos étoiles contraires",
+        "authors": ["John Green"],
+        "publisher": "Nathan",
+        "publishedDate": "2013-02-14",
+        "description": "Entre rire et larmes, le destin bouleversant de deux amoureux de la vie. Hazel, 16 ans, est atteinte d'un cancer. Son dernier traitement semble avoir arrêté l'évolution de la maladie, mais elle se sait condamnée. Bien qu'elle s'y ennuie passablement, elle intègre un groupe de soutien, fréquenté par d'autres jeunes malades. C'est là qu'elle rencontre Augustus, un garçon en rémission, qui partage son humour et son goût de la littérature. Entre les deux adolescents, l'attirance est immédiate. Et malgré les réticences d'Hazel, qui a peur de s'impliquer dans une relation dont le temps est compté, leur histoire d'amour commence... les entraînant vite dans un projet un peu fou, ambitieux, drôle et surtout plein de vie. . Élu \" Meilleur roman 2012 \" par le Time Magazine ! Prix de L'Échappée Lecture 2014 de la Nièvre Prix du Jury littéraire Giennois 2014 Prix Plaisirs de lire 2014, département de l'Yonne Prix des Embouquineurs 2014 Prix Farniente 2015 (Belgique) Prix Les goûts et les couleurs 2015 CANOPE - Académie de Rennes Prix des Incorruptibles 2015",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782092543085" },
+          { "type": "ISBN_10", "identifier": "2092543083" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nJiUvMO1gFUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nJiUvMO1gFUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=nJiUvMO1gFUC&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=nJiUvMO1gFUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nJiUvMO1gFUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 12.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=nJiUvMO1gFUC&rdid=book-nJiUvMO1gFUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 12990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 12990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Nos_%C3%A9toiles_contraires-sample-epub.acsm?id=nJiUvMO1gFUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Nos_%C3%A9toiles_contraires-sample-pdf.acsm?id=nJiUvMO1gFUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nJiUvMO1gFUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Entre rire et larmes, le destin bouleversant de deux amoureux de la vie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dh0lEAAAQBAJ",
+      "etag": "4RuzAuZ9S2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dh0lEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Sur les traces d'Enayat Zayyat",
+        "authors": ["Iman Mersal"],
+        "publisher": "Éditions Actes Sud",
+        "publishedDate": "2021-04-14T00:00:00+02:00",
+        "description": "Une jeune écrivaine égyptienne, Enayat El-Zayyat, s’est donné la mort en 1963, et personne ne se rappelle plus de son seul et unique roman, L’Amour et le Silence, publié en 1967. Plus de quarante ans plus tard, Iman Mersal l’a lu et, intriguée par le suicide de son auteure, a mené une longue et minutieuse enquête pour reconstituer son histoire. Un livre inclassable, entre la biographie, l’enquête historique et journalistique ou encore l’essai, superbement écrit par Iman Mersal dont la prose se révèle aussi forte et émouvante que sa poésie.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782330149413" },
+          { "type": "ISBN_10", "identifier": "2330149417" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dh0lEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dh0lEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Dh0lEAAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Dh0lEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Dh0lEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 16.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 16.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=Dh0lEAAAQBAJ&rdid=book-Dh0lEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 16990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 16990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Sur_les_traces_d_Enayat_Zayyat-sample-epub.acsm?id=Dh0lEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Sur_les_traces_d_Enayat_Zayyat-sample-pdf.acsm?id=Dh0lEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dh0lEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un livre inclassable, entre la biographie, l’enquête historique et journalistique ou encore l’essai, superbement écrit par Iman Mersal dont la prose se révèle aussi forte et émouvante que sa poésie."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yMHagz-QhjIC",
+      "etag": "JZChKaw7dAM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yMHagz-QhjIC",
+      "volumeInfo": {
+        "title": "Quand Google défie l'Europe",
+        "authors": ["Jean-Noël Jeanneney"],
+        "publisher": "Fayard/Mille et une nuits",
+        "publishedDate": "2010-03-03",
+        "description": "Google a inauguré sa bibliothèque numérique le 1er juin 2005, six mois après l’annonce de sa vaste entreprise de mise en ligne de 15 millions de livres, soit plus de 4,5 milliards de pages en moins de six ans. En 2009, Google affirmait en avoir déjà numérisé 10 millions. Entre-temps, Google n’a cessé de renforcer sa position dominante et de chercher à aspirer tous les « contenus », souvent au mépris du droit d’auteur. Entre-temps, la « googlisation » du patrimoine, si ce n’est du monde, inspire partout de plus en plus de méfiance et de crainte sur les véritables intentions de l’entreprise : hégémonie sur l’indexation, hégémonie sur l’accès... En France, rien n’est tranché : en juin 2009, le groupe La Martinière a déposé une plainte à New York. Les éditeurs se mobilisent. En août, Bruno Racine, actuel président de la BNF, annonce vouloir confier à Google la numérisation d’une partie des collections de la BNF, rompant avec la stratégie frontale de son prédécesseur, Jean-Noël Jeanneney, qui avait appelé à une vaste numérisation concurrente dans le cadre du projet qu’il avait baptisé Europeana. Le grand emprunt laisse cependant espérer que soient dégagées les sommes nécessaires à l’ambition d’indépendance dont ce livre, traduit en quatorze langues, ici enrichi et mis à jour, est le manifeste. 3e édition revue et augmentée",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782755504132" },
+          { "type": "ISBN_10", "identifier": "2755504137" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yMHagz-QhjIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yMHagz-QhjIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=yMHagz-QhjIC&printsec=frontcover&dq=*&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yMHagz-QhjIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yMHagz-QhjIC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 10.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 10.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=yMHagz-QhjIC&rdid=book-yMHagz-QhjIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 10990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 10990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Quand_Google_d%C3%A9fie_l_Europe-sample-epub.acsm?id=yMHagz-QhjIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Quand_Google_d%C3%A9fie_l_Europe-sample-pdf.acsm?id=yMHagz-QhjIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yMHagz-QhjIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "En août, Bruno Racine, actuel président de la BNF, annonce vouloir confier à Google la numérisation d’une partie des collections de la BNF, rompant avec la stratégie frontale de son prédécesseur, Jean-Noël Jeanneney, qui avait ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_oOGswEACAAJ",
+      "etag": "CAGHrBkoBX8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_oOGswEACAAJ",
+      "volumeInfo": {
+        "title": "Comment Capturer Un Farfadet",
+        "authors": ["Adam Wallace"],
+        "publisher": "Les editions Scholastic",
+        "publishedDate": "2018-02",
+        "description": "\"À petits pas, silencieusement, des enfants tentent de capturer un farfadet qui s'est immiscé dans leur demeure. Mais la créature est futée et ne se laissera pas facilement attraper... Ni la trappe, ni le filet, ni la cage ne fonctionne. Il ne reste donc plus qu'une solution : transformer la maison en piège géant! Un livre amusant sur les créatures imaginaires du folklore irlandais!\"--Résumé de l'éditeur.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1443168319" },
+          { "type": "ISBN_13", "identifier": "9781443168311" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": ["Leprechauns"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_oOGswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_oOGswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=_oOGswEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=_oOGswEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comment_Capturer_Un_Farfadet.html?hl=&id=_oOGswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=_oOGswEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;À petits pas, silencieusement, des enfants tentent de capturer un farfadet qui s&#39;est immiscé dans leur demeure."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "flDqDwAAQBAJ",
+      "etag": "yQRlLVCm8o4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/flDqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Conversations entre amis",
+        "authors": ["Sally Rooney"],
+        "publisher": "Média Diffusion",
+        "publishedDate": "2019-09-05T00:00:00+02:00",
+        "description": "Dublin, de nos jours. Frances et Bobbi, deux anciennes amantes devenues amies intimes, se produisent dans la jeune scène artistique irlandaise comme poètes-performeuses. Un soir, lors d'une lecture, elles rencontrent Melissa, une photographe plus âgée qu'elles, mariée à Nick, un acteur. Ensemble, ils discutent, refont le monde, critiquent le capitalisme comme les personnages de Joyce pouvaient, en leur temps, critiquer la religion. Ils font des photographies, ils écrivent, ils vivent. C'est le début d'une histoire d'amitié, d'une histoire de séduction menant à un \" mariage à quatre \" où la confusion des sentiments fait rage : quand Frances tombe follement amoureuse de Nick et vit avec lui une liaison torride, elle menace soudainement l'équilibre global de leur amitié. Mais Conversations entre amis n'est pas qu'une banale histoire d'adultère : c'est avant tout le portrait attachant, empathique, des jeunes gens contemporains, ces millenials qui ne parviennent pas à trouver leur place dans le monde que leur ont laissé leurs aînés. La voix de Frances, poétique, désinvolte, parfois naïve, d'une extraordinaire fraîcheur est, par de multiples aspects, celle de sa génération. Traduit de l'anglais (Irlande) par Laetitia Devaux.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782823610727" },
+          { "type": "ISBN_10", "identifier": "2823610723" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": ["Literary Collections"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=flDqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=flDqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=flDqDwAAQBAJ&dq=*&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=flDqDwAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Conversations_entre_amis.html?hl=&id=flDqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=flDqDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Mais Conversations entre amis n&#39;est pas qu&#39;une banale histoire d&#39;adultère : c&#39;est avant tout le portrait attachant, empathique, des jeunes gens contemporains, ces millenials qui ne parviennent pas à trouver leur place dans le monde que ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g5obvgAACAAJ",
+      "etag": "HXS1dagcnEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g5obvgAACAAJ",
+      "volumeInfo": {
+        "title": "Tika Tika Boum Boum!",
+        "authors": ["Bill Martin", "John Archambault"],
+        "publisher": "Scholastic",
+        "publishedDate": "2017-09",
+        "description": "See below for English description. Ce classique séduit depuis plus de vingt ans les enfants partout à travers le monde. Il a été traduit à la demande générale. Les lettres de l'alphabet se rejoignent au sommet du cocotier jusqu'à ce que. oh non! Elles tombent toutes en bas. Une comptine rythmée et amusante avec laquelle les enfants d'âge préscolaire pourront apprendre l'alphabet. In this lively alphabet rhyme, all the letters of the alphabet race each other up the coconut tree. Will there be enough room? Oh, no - Tika Tika Boum! Boum! The well-known authors of Barn Dance and Knots on a Counting Rope have created a rhythmic alphabet chant that rolls along on waves of fun. Lois Ehlert's rainbow of bright, bold, cheerful colours makes the merry parade of letters unforgettable. Original title: Chicka Chicka Boom Boom",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1443159514" },
+          { "type": "ISBN_13", "identifier": "9781443159517" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": ["Alphabet"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g5obvgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g5obvgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=g5obvgAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=g5obvgAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tika_Tika_Boum_Boum.html?hl=&id=g5obvgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=g5obvgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ce classique séduit depuis plus de vingt ans les enfants partout à travers le monde."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3cpKzQEACAAJ",
+      "etag": "rJ/MKurglao",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3cpKzQEACAAJ",
+      "volumeInfo": {
+        "title": "Ecryme",
+        "authors": ["Mathieu Gaborit", "Alexandre Clavel", "Samuel Metzener"],
+        "publishedDate": "2018",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2916323171" },
+          { "type": "ISBN_13", "identifier": "9782916323176" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=3cpKzQEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=3cpKzQEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ecryme.html?hl=&id=3cpKzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=3cpKzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ChQCAAAACAAJ",
+      "etag": "KC9NtuWe1Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ChQCAAAACAAJ",
+      "volumeInfo": {
+        "title": "L'arbre généreux",
+        "authors": ["Shel Silverstein"],
+        "publisher": "L'Ecole des Loisirs",
+        "publishedDate": "1982",
+        "description": "Par amour pour un petit garçon, un arbre lui donne au fil des années, ses fruits, ses feuilles, ses branches... jusqu'à son tronc !",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2211094155" },
+          { "type": "ISBN_13", "identifier": "9782211094153" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Abuse of plants"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ChQCAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ChQCAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ChQCAAAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=ChQCAAAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/L_arbre_g%C3%A9n%C3%A9reux.html?hl=&id=ChQCAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ChQCAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Par amour pour un petit garçon, un arbre lui donne au fil des années, ses fruits, ses feuilles, ses branches... jusqu&#39;à son tronc !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Nwd4wgEACAAJ",
+      "etag": "gRoxZvjx6Sk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Nwd4wgEACAAJ",
+      "volumeInfo": {
+        "title": "La chenille qui fait des trous",
+        "subtitle": "Mon livre pop-up",
+        "authors": ["Eric Carle"],
+        "publishedDate": "2019-02-14",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2807700535" },
+          { "type": "ISBN_13", "identifier": "9782807700536" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 8,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Nwd4wgEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Nwd4wgEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_chenille_qui_fait_des_trous.html?hl=&id=Nwd4wgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Nwd4wgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": { "textSnippet": "La petite chenille est très gourmande." }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GNhmBAAAQBAJ",
+      "etag": "Nc+JWBO9feg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GNhmBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Comment se faire des amis",
+        "authors": ["Dale Carnegie"],
+        "publisher": "Le Livre de Poche",
+        "publishedDate": "2013-02-01",
+        "description": "Nos relations avec les autres sont déterminantes pour notre qualité de vie ! La facilité de contact est un puissant moteur de succès : être recherché pour ses qualités humaines, créer la sympathie, faire passer ses idées, savoir motiver, corriger sans gâcher une relation de travail... Cela s’apprend ! Ce livre, utile à tous les âges et dans tous les métiers, vous donnera tous les conseils pour développer des relations humaines de qualité, nécessaires à l’efficacité professionnelle et personnelle. Dale Carnegie, leader mondial de la formation continue, est spécialisé dans les entraînements à la communication, au leadership, à la vente, au management et à la prise de parole en public. C’est la source la plus crédible dans ces domaines.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782253176145" },
+          { "type": "ISBN_10", "identifier": "2253176141" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": ["Family & Relationships"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GNhmBAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GNhmBAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=GNhmBAAAQBAJ&dq=*&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=GNhmBAAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comment_se_faire_des_amis.html?hl=&id=GNhmBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=GNhmBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dale Carnegie, leader mondial de la formation continue, est spécialisé dans les entraînements à la communication, au leadership, à la vente, au management et à la prise de parole en public."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lQPwnQEACAAJ",
+      "etag": "JnhPWWdDlzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lQPwnQEACAAJ",
+      "volumeInfo": {
+        "title": "Ours brun, dis-moi ce que tu vois ?",
+        "authors": ["Bill Martin", "Eric Carle"],
+        "publishedDate": "2013",
+        "description": "Ours Brun, dis-moi ce que tu vois ? Je vois un oiseau rouge, un cheval bleu... Un imagier pour apprendre les couleurs.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "287142845X" },
+          { "type": "ISBN_13", "identifier": "9782871428459" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": ["Animals"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=lQPwnQEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=lQPwnQEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ours_brun_dis_moi_ce_que_tu_vois.html?hl=&id=lQPwnQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=lQPwnQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Ours Brun, dis-moi ce que tu vois ? Je vois un oiseau rouge, un cheval bleu... Un imagier pour apprendre les couleurs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jWD3zgEACAAJ",
+      "etag": "fNJuZyUQB/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jWD3zgEACAAJ",
+      "volumeInfo": {
+        "title": "Gallant",
+        "authors": ["V. E. Schwab"],
+        "publishedDate": "2022-03-10",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2371022802" },
+          { "type": "ISBN_13", "identifier": "9782371022805" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 376,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=jWD3zgEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=jWD3zgEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Gallant.html?hl=&id=jWD3zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=jWD3zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La seule trace de son passé est le journal intime de sa mr̈e qui la met en garde contre Gallant. Un jour, la jeune fille retrouve son oncle qui l&#39;invite à venir vivre dans le domaine familial de Gallant."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qgW5PAAACAAJ",
+      "etag": "jgzNk0GPnuk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qgW5PAAACAAJ",
+      "volumeInfo": {
+        "title": "Le seigneur des anneaux",
+        "subtitle": "Le retour du roi. Tome 3",
+        "authors": ["John Ronald Reuel Tolkien"],
+        "publisher": "Pocket",
+        "publishedDate": "2002",
+        "description": "Avec \" Le Retour du Roi \" s'achèvent dans un fracas d'apocalypse les derniers combats de la guerre de l'Anneau. Tandis que le continent se couvre de ténèbres, annonçant pour le peuple des Hobbits l'aube d'une ère nouvelle, Frodon poursuit son entreprise. Alors qu'il n'a pu franchir la Porte Noire, il se demande comment atteindre le Mont du Destin. Peut-être est-il trop tard : le Seigneur des Ténèbres mobilise ses troupes. Les Rohirrim n'ont plus le temps d'en finir avec le traître assiégé dans l'imprenable tour d'Orthanc ; ils doivent se rassembler pour faire face à l'ennemi. Tentant une fois de plus sa chance, Frodon passe par le Haut Col, où il sera livré à l'abominable Arachné. Survivra-t-il à son dangereux périple à travers le Pays Noir ?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2266132393" },
+          { "type": "ISBN_13", "identifier": "9782266132398" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 569,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qgW5PAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qgW5PAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=qgW5PAAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=qgW5PAAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Le_seigneur_des_anneaux.html?hl=&id=qgW5PAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=qgW5PAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Avec &quot;Le Retour du Roi&quot; s&#39;achèvent dans un fracas d&#39;apocalypse les derniers combats de la guerre de l&#39;Anneau."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hYgFGwAACAAJ",
+      "etag": "kTlnUsH7AXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hYgFGwAACAAJ",
+      "volumeInfo": {
+        "title": "La servante écarlate",
+        "authors": ["Margaret Atwood"],
+        "publisher": "Robert Laffont",
+        "publishedDate": "2005",
+        "description": "La servante écarlate, c'est Defred, une entreprise de salubrité publique à elle seule. En ces temps de dénatalité galopante, elle doit mettre au service de la république de Gilead, récemment fondée par des fanatiques religieux, son attribut le plus précieux : sa matrice. Vêtue d'écarlate, à l'exception des voiles blancs de sa cornette, elle accomplit sa tâche comme une somnambule. Doit-elle céder à la révolte, tenter de tromper le système ? Le soir, Defred regagne sa chambre à l'austérité monacale. Elle songe au temps où les femmes avaient le droit de lire, d'échanger des confidences, de dépenser de l'argent, d'avoir un travail, un nom, des amants... C'était le temps où l'amour était au centre de tout. L'amour, cette chose si douce aujourd'hui punie de mort... Œuvre majeure, La Servante écarlate n'est pas sans rappeler 1984 d'Orwell. Mais, au-delà de cette magistrale création d'un monde, c'est la question du rôle et de l'avenir des femmes que pose, avec force, ce roman inoubliable.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2221103769" },
+          { "type": "ISBN_13", "identifier": "9782221103760" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 510,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=hYgFGwAACAAJ&dq=*&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=hYgFGwAACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_servante_%C3%A9carlate.html?hl=&id=hYgFGwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=hYgFGwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "La servante écarlate, c&#39;est Defred, une entreprise de salubrité publique à elle seule."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v92nvwEACAAJ",
+      "etag": "8yurVkl8irQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v92nvwEACAAJ",
+      "volumeInfo": {
+        "title": "Pierre Lapin",
+        "authors": ["Beatrix Potter"],
+        "publisher": "Editions Gallimard",
+        "publishedDate": "2002-03-05",
+        "description": "Quatre petits lapins partent en promenade à travers champs. Leur maman leur a interdit d'entrer dans le jardin du terrible Monsieur McGregor, mais Pierre Lapin a envie de désobéir... [Gallimard.fr]",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "207054981X" },
+          { "type": "ISBN_13", "identifier": "9782070549818" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": ["Children's stories, French"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=v92nvwEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=v92nvwEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pierre_Lapin.html?hl=&id=v92nvwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=v92nvwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Pierre Lapin est gourmand, il dévore les laitues de monsieur MacGregor qui n&#39;est pas content du tout."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HU1UDwAAQBAJ",
+      "etag": "iu91q2tF0uM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HU1UDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Homo sapienne",
+        "authors": ["Niviaq Korneliussen"],
+        "publisher": "La peuplade",
+        "publishedDate": "2017-10-17",
+        "description": "Révélant une voix exceptionnelle, Homo sapienne suit la vie de cinq jeunes dans la ville de Nuuk, capitale du Groenland. Ils vivent des changements profonds et racontent ce qui, jusqu’à maintenant, a été laissé sous silence : Fia découvre qu’elle aime les femmes, Ivik comprend qu’elle est un homme, Arnaq et Inuk pardonnent et Sara choisit de vivre. Sur « l’île de la colère », où les tabous lentement éclatent, chacune et chacun se déleste du poids de ses peurs. Niviaq Korneliussen manie une langue crue, sensible et indomptée. Elle parle du désir universel d’être soi, socialement, intimement, confiante que les cœurs et les corps sauront être vrais.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782924519660" },
+          { "type": "ISBN_10", "identifier": "2924519667" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 201,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HU1UDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HU1UDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=HU1UDwAAQBAJ&pg=PP1&dq=*&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=HU1UDwAAQBAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Homo_sapienne.html?hl=&id=HU1UDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=HU1UDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gXfYzQEACAAJ",
+      "etag": "IKkaBphFvoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gXfYzQEACAAJ",
+      "volumeInfo": {
+        "title": "La fille qui court",
+        "authors": ["Simon Mason"],
+        "publishedDate": "2020-09-03",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2375542541" },
+          { "type": "ISBN_13", "identifier": "9782375542545" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 424,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=gXfYzQEACAAJ&dq=*&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=gXfYzQEACAAJ&dq=*&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/La_fille_qui_court.html?hl=&id=gXfYzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=gXfYzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Un thriller intense, mené par un jeune flic et un ado surdoué plongés au coeur d&#39;une enquête pour meurtre."
+      }
+    }
+  ]
+}

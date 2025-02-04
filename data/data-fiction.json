@@ -1,0 +1,2650 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "FOHtDwAAQBAJ",
+      "etag": "FWBhxqnK+XE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FOHtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ready Player Two",
+        "subtitle": "A Novel",
+        "authors": ["Ernest Cline"],
+        "publisher": "Ballantine Books",
+        "publishedDate": "2020-11-24",
+        "description": "#1 NEW YORK TIMES BESTSELLER • The thrilling sequel to the beloved worldwide bestseller Ready Player One, the near-future adventure that inspired the blockbuster Steven Spielberg film. NAMED ONE OF THE BEST BOOKS OF THE YEAR BY THE WASHINGTON POST • “The game is on again. . . . A great mix of exciting fantasy and threatening fact.”—The Wall Street Journal AN UNEXPECTED QUEST. TWO WORLDS AT STAKE. ARE YOU READY? Days after winning OASIS founder James Halliday’s contest, Wade Watts makes a discovery that changes everything. Hidden within Halliday’s vaults, waiting for his heir to find, lies a technological advancement that will once again change the world and make the OASIS a thousand times more wondrous—and addictive—than even Wade dreamed possible. With it comes a new riddle, and a new quest—a last Easter egg from Halliday, hinting at a mysterious prize. And an unexpected, impossibly powerful, and dangerous new rival awaits, one who’ll kill millions to get what he wants. Wade’s life and the future of the OASIS are again at stake, but this time the fate of humanity also hangs in the balance. Lovingly nostalgic and wildly original as only Ernest Cline could conceive it, Ready Player Two takes us on another imaginative, fun, action-packed adventure through his beloved virtual universe, and jolts us thrillingly into the future once again.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781524761356" },
+          { "type": "ISBN_10", "identifier": "1524761354" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3,
+        "ratingsCount": 42,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.13.13.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FOHtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FOHtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=FOHtDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=FOHtDwAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ready_Player_Two.html?hl=&id=FOHtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Ready_Player_Two-sample-epub.acsm?id=FOHtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=FOHtDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pKpcEAAAQBAJ",
+      "etag": "HDUGvaqw/xE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pKpcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Woman at Thirty",
+        "authors": ["Honoré de Balzac"],
+        "publisher": "Sheba Blake Publishing Corporation",
+        "publishedDate": "2022-02-21",
+        "description": "Known for his keen observations and finely drawn characters, Honore de Balzac is regarded as one of the forerunners of the literary realism movement that swept Europe in the nineteenth century. A Woman of Thirty offers an unflinching look at the layers of social oppression that dictated the course of many women's lives during the era.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9783985101986" },
+          { "type": "ISBN_10", "identifier": "3985101981" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pKpcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pKpcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=pKpcEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pKpcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pKpcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 2.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 2.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=pKpcEAAAQBAJ&rdid=book-pKpcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 2990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 2990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_Woman_at_Thirty-sample-epub.acsm?id=pKpcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_Woman_at_Thirty-sample-pdf.acsm?id=pKpcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pKpcEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ORyo8qAA-CQC",
+      "etag": "YdNADE9aKuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ORyo8qAA-CQC",
+      "volumeInfo": {
+        "title": "The Odyssey of Homer",
+        "authors": ["Homer"],
+        "publisher": "Bantam Classics",
+        "publishedDate": "2005-12-06",
+        "description": "Homer's epic chronicle of the Greek hero Odysseus' journey home from the Trojan War has inspired writers from Virgil to James Joyce. Odysseus survives storm and shipwreck, the cave of the Cyclops and the isle of Circe, the lure of the Sirens' song and a trip to the Underworld, only to find his most difficult challenge at home, where treacherous suitors seek to steal his kingdom and his loyal wife, Penelope. Favorite of the gods, Odysseus embodies the energy, intellect, and resourcefulness that were of highest value to the ancients and that remain ideals in out time. In this new verse translation, Allen Mandelbaum--celebrated poet and translator of Virgil's Aeneid and Dante's Divine Comedy --realizes the power and beauty of the original Greek verse and demonstrates why the epic tale of The Odyssey has captured the human imagination for nearly three thousand years.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780553897777" },
+          { "type": "ISBN_10", "identifier": "0553897772" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ORyo8qAA-CQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ORyo8qAA-CQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ORyo8qAA-CQC&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ORyo8qAA-CQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ORyo8qAA-CQC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ORyo8qAA-CQC&rdid=book-ORyo8qAA-CQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Odyssey_of_Homer-sample-epub.acsm?id=ORyo8qAA-CQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Odyssey_of_Homer-sample-pdf.acsm?id=ORyo8qAA-CQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ORyo8qAA-CQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eoSfHTy_jKgC",
+      "etag": "MvK2Szf3+Po",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eoSfHTy_jKgC",
+      "volumeInfo": {
+        "title": "The Uncensored Picture of Dorian Gray",
+        "authors": ["Oscar Wilde", "Nicholas Frankel"],
+        "publisher": "Harvard University Press",
+        "publishedDate": "2012-08-13",
+        "description": "Over 120 years after Oscar Wilde submitted The Picture of Dorian Gray for publication, the uncensored version of his novel appears here for the first time in a paperback edition. This volume restores material, including instances of graphic homosexual content, removed by the novel’s first editor, who feared it would be “offensive” to Victorians.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780674068049" },
+          { "type": "ISBN_10", "identifier": "0674068041" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eoSfHTy_jKgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eoSfHTy_jKgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=eoSfHTy_jKgC&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=eoSfHTy_jKgC&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Uncensored_Picture_of_Dorian_Gray.html?hl=&id=eoSfHTy_jKgC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Uncensored_Picture_of_Dorian_Gray-sample-pdf.acsm?id=eoSfHTy_jKgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eoSfHTy_jKgC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ypzWDwAAQBAJ",
+      "etag": "rfTGUOv/+AE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ypzWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Gobseck by Honoré de Balzac - Delphi Classics (Illustrated)",
+        "authors": ["Honoré de Balzac"],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘Gobseck by Honoré de Balzac - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Collected Works of Honoré de Balzac’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Balzac includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘Gobseck by Honoré de Balzac - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Balzac’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781788775182" },
+          { "type": "ISBN_10", "identifier": "178877518X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 69,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ypzWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ypzWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ypzWDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ypzWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ypzWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ypzWDwAAQBAJ&rdid=book-ypzWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Gobseck_by_Honor%C3%A9_de_Balzac_Delphi_Clas-sample-epub.acsm?id=ypzWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Gobseck_by_Honor%C3%A9_de_Balzac_Delphi_Clas-sample-pdf.acsm?id=ypzWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ypzWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "icKmd-tlvPMC",
+      "etag": "yP7QzqJqKTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/icKmd-tlvPMC",
+      "volumeInfo": {
+        "title": "Journey to the Center of the Earth",
+        "authors": ["Jules Verne"],
+        "publisher": "Bantam",
+        "publishedDate": "2006-04-25",
+        "description": "The intrepid Professor Lindenbrock embarks upon the strangest expedition of the nineteenth century: a journey down an extinct Icelandic volcano to the Earth’s very core. In his quest to penetrate the planet’s primordial secrets, the geologist—together with his quaking nephew Axel and their devoted guide, Hans—discovers an astonishing subterranean menagerie of prehistoric proportions. Verne’s imaginative tale is at once the ultimate science fiction adventure and a reflection on the perfectibility of human understanding and the psychology of the questor. As David Brin notes in his Introduction, though Verne never knew the term “science fiction,” Journey to the Centre of the Earth is “inarguably one of the wellsprings from which it all began.”",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780553902549" },
+          { "type": "ISBN_10", "identifier": "0553902547" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=icKmd-tlvPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=icKmd-tlvPMC&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=icKmd-tlvPMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=icKmd-tlvPMC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=icKmd-tlvPMC&rdid=book-icKmd-tlvPMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Journey_to_the_Center_of_the_Earth-sample-epub.acsm?id=icKmd-tlvPMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Journey_to_the_Center_of_the_Earth-sample-pdf.acsm?id=icKmd-tlvPMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=icKmd-tlvPMC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b74fEAAAQBAJ",
+      "etag": "lQGjwDrCmuE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b74fEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Jane Eyre",
+        "authors": ["Charlotte Bronte"],
+        "publisher": "Principis",
+        "publishedDate": "2021-03-10",
+        "description": "Mistério, traição, escândalo e um amor que transcende o tempo. Desde o momento em que Jane Eyre colocou os olhos no proprietário de Thornfield Hall, soube que sua vida mudaria irrevogavelmente. O homem enigmático, complexo e tentador exige tudo o que Jane tem a oferecer ao convidá-la para uma jornada dos sentidos que escandalizaria a sociedade. Em seus braços fortes, ela se rende aos desejos mais sombrios do homem amado e descobre que os dela são igualmente abrasadores, mergulhando-a em um mundo que nunca suspeitou existir, mas do qual não quer mais escapar.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9786555523683" },
+          { "type": "ISBN_10", "identifier": "6555523689" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b74fEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b74fEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt-BR",
+        "previewLink": "http://books.google.fr/books?id=b74fEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b74fEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b74fEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 2.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 2.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=b74fEAAAQBAJ&rdid=book-b74fEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 2990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 2990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Jane_Eyre-sample-epub.acsm?id=b74fEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Jane_Eyre-sample-pdf.acsm?id=b74fEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b74fEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CssmCwAAQBAJ",
+      "etag": "f9ttuzJJDno",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CssmCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Prince and the Pauper",
+        "authors": ["Mark Twain"],
+        "publisher": "Xist Publishing",
+        "publishedDate": "2015-04-28",
+        "description": "A Classic Story of Switched Identity “When I am king they shall not have bread and shelter only, but also teachings out of books, for a full belly is little worth where the mind is starved.” ― Mark Twain, The Prince and the Pauper The Prince and the Pauper by Mark Twain is an 1881 novel that has been adapted many times. When a young poor boy wanders near the palace gates, he meets the Prince of Wales (Edward VI) who bears an uncanny resemblance. They decide to switch clothes and end up switching roles. Edward discovers the stark class inequality in England and Tom struggles to survive as the prince. When the king dies, Edward must race against the clock and the bounds of society to regain his rightful throne. This Xist Classics edition has been professionally formatted for e-readers with a linked table of contents. This eBook also contains a bonus book club leadership guide and discussion questions. We hope you’ll share this book with your friends, neighbors and colleagues and can’t wait to hear what you have to say about it. Xist Publishing is a digital-first publisher. Xist Publishing creates books for the touchscreen generation and is dedicated to helping everyone develop a lifetime love of reading, no matter what form it takes",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781623959326" },
+          { "type": "ISBN_10", "identifier": "1623959322" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 179,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CssmCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CssmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=CssmCwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CssmCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CssmCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=CssmCwAAQBAJ&rdid=book-CssmCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Prince_and_the_Pauper-sample-epub.acsm?id=CssmCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Prince_and_the_Pauper-sample-pdf.acsm?id=CssmCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CssmCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X5GIEAAAQBAJ",
+      "etag": "cAhqQwxwGIs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X5GIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "영어고전803 윌리엄 셰익스피어의 5대 희극 베니스의 상인 1596(English Classics803 The Merchant of Venice by William Shakespeare)",
+        "authors": ["윌리엄 셰익스피어(William Shakespeare)"],
+        "publisher": "테마여행신문 TTN Theme Travel News Korea",
+        "publishedDate": "2022-09-12",
+        "description": "▶ 베네치아(Venezia)도, 개성상인(開城商人)도 아닌 ‘베니스의 상인’ : 베니스의 상인(The Merchant of Venice by William Shakespeare)(1596)은 말괄량이 길들이기(The Taming of the Shrew by William Shakespeare)(1590)와 한여름 밤의 꿈(A Midsummer Night's Dream by William Shakespeare)(1595)에 이은 윌리엄 셰익스피어(William Shakespeare)(1564~1616)의 희극으로, 5대 희극(Five Great Comedies) 중 세 번째 작품입니다. 작품명 베니스의 상인(The Merchant of Venice)은 유대인 고리대금업자와 불공정한 계약을 체결해 목숨을 잃을 위기에 처하지만, 현명한 친구 아내(결혼식을 치루기 전이지만)의 도움으로 극복해내는 ‘베니스의 상인 안토니오(Antonio)’를 지칭합니다. 2004년 동명의 영화가 제작되었으며, 영화 대부(The Godfather)로 유명한 알 파치노(Alfredo James \"Al\" Pacino)(1940~)가 피도 눈물도 없는 샤일록 役을 맡았습니다. 테마여행신문 TTN Korea 영어고전(English Classics)과 함께 어제도, 오늘도, 내일도 멋진 문학여행을! B ▶ 셰익스피어의 5대 희극(Five Great Comedies) : 말괄량이 길들이기(The Taming of the Shrew)(1590), 한여름 밤의 꿈(A Midsummer Night's Dream)(1595), 베니스의 상인(The Merchant of Venice)(1596), 뜻대로 하세요(As You Like It)(1599), 십이야(Twelfth Night, or What You Will)(1601). ▶ 세계 최초의 신체포기각서(身體拋棄覺書)?! : 현대의 의학기술로도 전혈 헌혈시 320ml 혹은 400ml를 헌혈한 후 8주간 휴식을 취하는 것을 감안한다면, 부위에 따라 차이는 있겠으나 ‘1파운드(약 453g)의 살’은 분명 생명에 위협을 줄만한 량일 것입니다. 물론 신체포기각서(身體拋棄覺書)는 현대의 헌법과 민법에 의거해 계약 자체가 무효입니다만, 16세기 희곡에서는 샤일록(Shylock)의 악마성을 부각하기 위한 중요한 설정으로 등장하지요. 작품의 세계적인 인기에 힘입어 찰스 디킨스(Charles John Huffam Dickens)(1812~1870)의 스크루지(Scrooge)가 수전노의 전형(a character who hates spending money)이듯 샤일록은 고리대금업자의 대명사(a relentless and revengeful moneylender)로 활용됩니다. ▶ 샤일록은 사실 법정사기극의 피해자?! : 안토니오의 목숨을 건진 명판결을 내린 재판관은 사실 안토니오(Antonio)가 돈을 빌려준 친구 바사니오(Bassanio)가 청혼한 여인, 포샤(Portia)였습니다. 포샤는 재판관 자격이 없음에도 불구하고, 재판석에 임의로 앉았을 뿐 아니라 지인에게는 극도로 유리한 판결을, 샤일록에게는 전 재산을 압류하는 가혹한 처벌을 내렸습니다. 비록 안토니오의 양보로 적당히 중재되긴 하였으나, 중세의 허술한 관점으로 보더라도 총체적인 법정사기극임을 부인할 수는 없을 것입니다. 다만 셰익스피어를 위해 변명하자면, 베니스의 상인(The Merchant of Venice)(1596)은 어디까지나 대중들의 유희를 위한 희극(喜劇)이란 것! ▶ 너와 나의 반유대주의(反Judea主義) : 독일인의 유대인에 대한 증오와 이와 관련한 수많은 악행은 수많은 책과 영화 등으로 잘 알려져 있습니다. 그러나 유대인을 증오한 이가 히틀러와 독일뿐인 것은 결코 아닙니다. 중세 유럽에서 유대인은 오랫동안 멸시와 탄압의 대상이였습니다. 고향을 떠난 뿔뿔이 흩어진 유대인은 해당 국가의 종교적인 교리에 따라 수시로 추방되었고, 거주를 허락받더라도 토지를 소유할 수 없었기 때문에 고리대금업을 비롯한 극히 제한적인 업종에만 종사할 수 있었으며, 유대인만 거주하는 격리공간 게토(Ghetto)가 있었을 정도니까요다. 영국 또한 1290년 에드워드 1세(Edward I)(1239~1307)의 명령으로 1만여 명의 유대인을 하루아침에 추방한 바 있으며, 셰익스피어가 창조한 샤일록 또한 16세기 영국 대중들에게 친숙한 반유대주의(反Judea主義)에 기반한 캐릭터입니다. ▶ SHYLOCK. This kindness will I show. Go with me to a notary, seal me there Your single bond; and in a merry sport, If you repay me not on such a day, In such a place, such sum or sums as are Express’d in the condition, let the forfeit Be nominated for an equal pound Of your fair flesh, to be cut off and taken In what part of your body pleaseth me. ▷ 샤일록. 이 친절을 베풀겠습니다. 나와 함께 공증인에게 가서 나를 거기에 봉인해 주세요. 당신의 단 하나의 유대; 그리고 즐거운 스포츠에서, 그런 날 갚지 않으면요 그러한 장소에서, 다음과 같은 합계가 있습니다. 조건부로 표현하고, 몰수하게 놔두세요. 동일한 무게에 지명됩니다. 당신의 고운 살은 잘려나가서 빼앗길 것입니다. 당신 몸의 어느 부분이 나를 기쁘게 하나요. ▶ SHYLOCK. Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions? Fed with the same food, hurt with the same weapons, subject to the same diseases, healed by the same means, warmed and cooled by the same winter and summer as a Christian is? If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge? If we are like you in the rest, we will resemble you in that. If a Jew wrong a Christian, what is his humility? Revenge. If a Christian wrong a Jew, what should his sufferance be by Christian example? Why, revenge! The villainy you teach me I will execute, and it shall go hard but I will better the instruction. ▷ 샤일록. 유대인의 눈이 없습니까? 유대인의 손, 기관, 치수, 감각, 애정, 정욕이 없습니까? 같은 음식을 먹고, 같은 무기로 상처를 받고, 같은 질병에 걸리고, 같은 방법으로 고침을 받고, 같은 겨울과 여름으로 따뜻함과 냉기를 그리스도인과 똑같이 합니까? 당신이 우리를 찌르면 우리가 피를 흘리지 않습니까? 당신이 우리를 간지럽히면 우리는 웃지 않습니까? 당신이 우리를 독살하면 우리는 죽지 않습니까? 그리고 당신이 우리에게 잘못을 저질렀다면, 우리는 복수하지 않겠습니까? 우리가 나머지 부분에서 당신과 같다면 우리는 당신을 닮을 것입니다. 유대인이 그리스도인에게 잘못을 저질렀다면 그의 겸손은 무엇입니까? 복수. 그리스도인이 유대인에게 잘못을 저질렀다면 그의 고난은 그리스도인의 모범으로 어떠해야 합니까? 왜, 복수! 당신이 나에게 가르치는 악당은 내가 처형할 것이며, 힘들겠지만 더 나은 지시를 내릴 것입니다. ▶ PORTIA. Therefore prepare thee to cut off the flesh. Shed thou no blood, nor cut thou less nor more, But just a pound of flesh: if thou tak’st more Or less than a just pound, be it but so much As makes it light or heavy in the substance, Or the division of the twentieth part Of one poor scruple, nay, if the scale do turn But in the estimation of a hair, Thou diest, and all thy goods are confiscate. ▷ 포샤. 그러니 살점을 잘라낼 준비를 하세요. 피도 흘리지 않고, 적게 베거나 많이 베지 마십시오. 하지만 살은 1파운드만 더 가져간다면요 아니면 그냥 1파운드도 안 되겠지만 너무 많이요. 물질 속에 가볍거나 무거워지게 만들 수 있습니다. 아니면 20부의 나눗셈입니다. 가엾은 양심의 가책을 느끼죠, 아뇨, 만약 저울이 돌면요. 하지만 머리카락의 추정으로는요 당신이 죽으면, 당신의 모든 재산은 몰수됩니다. -목차(Index)- ▶ 프롤로그(Prologue). 테마여행신문 TTN Korea 영어고전(English Classics) 999선을 읽어야 하는 7가지 이유 ▶ 12가지 키워드로 읽는 윌리엄 셰익스피어(William Shakespeare)(1564~1616) 01. 영문학 최고의 작가(the greatest writer in the English language)이자 세계 최고의 극작가(the world's greatest dramatist), 윌리엄 셰익스피어(William Shakespeare)(1564~1616) 02. 우리는 셰익스피어를 포기할 수는 없습니다!(We cannot do without Shakespeare!)(1841) feat. 토머스 칼라일(Thomas Carlyle) 03. 해럴드 블룸(Harold Bloom)의 서구문학정전(The Western Canon)(1994) 04. ‘언어의 연금술사’ 셰익스피어의 신조어(Shakespearean Neologisms) 05. 셰익스피어 축제(Shakespeare Festival)(1953~) 06. BBC 당신의 밀레니엄(Your Millennium) 위대한 작가(Greatest Writer) 1위(1999) 07. BBC 선정 위대한 영국인 5위(100 Greatest Britons)(2002) 08. 세계기록유산(Memory of the World) 셰익스피어의 문서들(The Shakespeare Documents)(2017) 09. 윌리엄 셰익스피어(William Shakespeare)를 만나는 16곳 10. 셰익스피어의 작품 연대기(Chronology of Shakespeare's Works)(1589~1613) 11. 오디오북(Audio Books)으로 듣는 윌리엄 셰익스피어(William Shakespeare) 12. 윌리엄 셰익스피어(William Shakespeare) 어록(Quotes)(444) ▶ 윌리엄 셰익스피어의 5대 희극 베니스의 상인 1596(The Merchant of Venice by William Shakespeare) Dramatis Personæ ▷ ACT I. I-Scene I. Venice. A street. I-Scene II. Belmont. A room in Portia’s house. I-Scene III. Venice. A public place. ▷ ACT II. II-Scene I. Belmont. A room in Portia’s house. II-Scene II. Venice. A street. II-Scene III. The same. A room in Shylock’s house. II-Scene IV. The same. A street. II-Scene V. The same. Before Shylock’s house. II-Scene VI. The same. II-Scene VII. Belmont. A room in Portia’s house. II-Scene VIII. Venice. A street. II-Scene IX. Belmont. A room in Portia’s house. ▷ ACT III. III-Scene I. Venice. A street. III-Scene II. Belmont. A room in Portia’s house. III-Scene III. Venice. A street. III-Scene IV. Belmont. A room in Portia’s house. III-Scene V. The same. A garden. ▷ ACT IV. IV-Scene I. Venice. A court of justice. IV-Scene II. The same. A street. ▷ ACT V. V-Scene I. Belmont. The avenue to Portia’s house. ▶ 부록(Appendix). 세계의 고전을 여행하는 히치하이커를 위한 안내서(The Hitchhiker's Guide to Worlds's Classics) A01. 하버드 서점(Harvard Book Store) 직원 추천 도서 100선(Staff's Favorite 100 Books) & 판매도서 100위(Top 100 Books) A02. 서울대(Seoul University) 권장도서 100 A03. 연세대(Yonsei University) 필독도서 고전 200선 A04. 고려대(Korea University) 세종캠퍼스 권장도서 100선 A05. 서울대·연세대·고려대(SKY University) 공통 권장도서 60권 A06. 성균관대(Sungkyunkwan University) 오거서(五車書) 성균 고전 100선 A07. 경희대(Kyung Hee University) 후마니타스 칼리지(Humanitas College) 교양필독서 100선 A08. 포스텍(포항공대)(POSTECH) 권장도서 100선 A09. 카이스트(KAIST) 독서마일리지제 추천도서 100권 A10. 문학상(Literary awards) 수상작 및 추천도서(44) A11. 영어고전(English Classics) 오디오북을 무료로 듣는 5가지 방법(How to listen to FREE audio Books legally?) A12. 영화·드라마로 만나는 영어고전(Movies and TV Shows Based on English Classic Books) ▶ 테마여행신문 TTN Korea 영어고전(English Classics) 999선 ▶ 테마여행신문 TTN Korea 도서목록(1,687) ▶ 테마여행신문 TTN Korea 영어고전(English Classics) 999선 테마여행신문 TTN Korea 영어고전(English Classics) 999선은 수백 년의 세월에도 변치 않는 명저 중 대중성을 겸비한 베스트셀러를 엄선해 선정하였습니다. 조명화 편집장의 ‘키워드로 읽는 작가 & 작품’ 해설과 세계 최대의 무료 도메인 오디오북(free public domain audioBooks) 플랫폼 리브리복스(LibrIVox) 오디오북 링크를 첨부하였습니다. 수백 년의 세월에도 변치 않는 명저의 감동을 다시 한 번 확인해 보시기 바랍니다. 테마여행신문 TTN Korea 영어고전(English Classics) 999선과 함께 어제도, 오늘도, 내일도 멋진 문학여행을! ▶ 윌리엄 셰익스피어 컬렉션(William Shakespeare Collection)(56부작) Ⅰ. 윌리엄 셰익스피어의 비극(悲劇), 희극(喜劇), 역사극(歷史劇)(Tragedies, Comedies and Histories of William Shakespeare)(39) 영어고전789 윌리엄 셰익스피어의 희극 베로나의 두 신사 1589 English Classics789 The Two Gentlemen of Verona by William Shakespeare 영어고전790 윌리엄 셰익스피어의 5대 희극 말괄량이 길들이기 1590 English Classics790 The Taming of the Shrew by William Shakespeare 영어고전791 윌리엄 셰익스피어의 역사극 헨리 6세 2부 1591 English Classics791 Henry VI Part 2 by William Shakespeare 영어고전792 윌리엄 셰익스피어의 역사극 헨리 6세 3부 1591 English Classics792 Henry VI Part 3 by William Shakespeare 영어고전793 윌리엄 셰익스피어의 역사극 헨리 6세 1부 1591 English Classics793 Henry VI Part 1 by William Shakespeare 영어고전794 윌리엄 셰익스피어의 비극 타이터스 앤드로니커스 1591 English Classics794 The Tragedy of Titus Andronicus by William Shakespeare 영어고전795 윌리엄 셰익스피어의 역사극 리처드 3세 1592 English Classics795 Richard III by William Shakespeare 영어고전796 윌리엄 셰익스피어의 역사극 에드워드 3세 1592 English Classics796 King Edward III by William Shakespeare 영어고전797 윌리엄 셰익스피어의 희극 실수연발 1594 English Classics797 The Comedy of Errors by William Shakespeare 영어고전798 윌리엄 셰익스피어의 희극 사랑의 헛수고 1594 English Classics798 Love's Labour's Lost by William Shakespeare 영어고전799 윌리엄 셰익스피어의 역사극 리처드 2세 1595 English Classics799 Richard II by William Shakespeare 영어고전800 윌리엄 셰익스피어의 비극 로미오와 줄리엣 1595 English Classics800 The Tragedy of Romeo and Juliet by William Shakespeare 영어고전801 윌리엄 셰익스피어의 5대 희극 한여름 밤의 꿈 1595 English Classics801 A Midsummer Night's Dream by William Shakespeare 영어고전802 윌리엄 셰익스피어의 역사극 존 왕 1596 English Classics802 King John by William Shakespeare 영어고전803 윌리엄 셰익스피어의 5대 희극 베니스의 상인 1596 English Classics803 The Merchant of Venice by William Shakespeare 영어고전804 윌리엄 셰익스피어의 역사극 헨리 4세 1부 1596 English Classics804 Henry IV Part 1 by William Shakespeare 영어고전805 윌리엄 셰익스피어의 희극 윈저의 즐거운 아낙네들 1597 English Classics805 The Merry Wives of Windsor by William Shakespeare 영어고전806 윌리엄 셰익스피어의 역사극 헨리 4세 2부 1597 English Classics806 Henry IV Part 2 by William Shakespeare 영어고전807 윌리엄 셰익스피어의 희극 헛소동 1598 English Classics807 Much Ado About Nothing by William Shakespeare 영어고전808 윌리엄 셰익스피어의 역사극 헨리 5세 1599 English Classics808 Henry V by William Shakespeare 영어고전809 윌리엄 셰익스피어의 비극 율리우스 카이사르 1599 English Classics809 The Tragedy of Julius Caesar by William Shakespeare 영어고전810 윌리엄 셰익스피어의 5대 희극 뜻대로 하세요 1599 English Classics810 As You Like It by William Shakespeare 영어고전811 윌리엄 셰익스피어의 4대 비극 우유부단한 햄릿 1599 English Classics811 The Tragedy of Hamlet, Prince of Denmark by William Shakespeare 영어고전812 윌리엄 셰익스피어의 5대 희극 십이야 1601 English Classics812 Twelfth Night; Or, What You Will by William Shakespeare 영어고전813 윌리엄 셰익스피어의 비극 트로일러스와 크레시다 1600 English Classics813 The History of Troilus and Cressida by William Shakespeare 영어고전814 윌리엄 셰익스피어의 희극 자에는 자로 1603 English Classics814 Measure for Measure by William Shakespeare 영어고전815 윌리엄 셰익스피어의 4대 비극 질투하는 오셀로 1603 English Classics815 The Tragedy of Othello, Moor of Venice by William Shakespeare 영어고전816 윌리엄 셰익스피어의 희극 끝이 좋으면 다 좋아 1604 English Classics816 All's Well That Ends Well by William Shakespeare 영어고전817 윌리엄 셰익스피어의 4대 비극 교만한 리어왕 1605 English Classics817 The Tragedy of King Lear by William Shakespeare 영어고전818 윌리엄 셰익스피어의 비극 아테네의 티몬 1605 English Classics818 The Life of Timon of Athens by William Shakespeare 영어고전819 윌리엄 셰익스피어의 4대 비극 야망의 맥베스 1606 English Classics819 The Tragedy of Macbeth by William Shakespeare 영어고전820 윌리엄 셰익스피어의 비극 안토니우스와 클레오파트라 1606 English Classics820 The Tragedy of Antony and Cleopatra by William Shakespeare 영어고전821 윌리엄 셰익스피어의 희극 티레의 왕자 페리클레스 1607 English Classics821 Pericles, Prince of Tyre by William Shakespeare 영어고전822 윌리엄 셰익스피어의 비극 코리올라누스 1608 English Classics822 The Tragedy of Coriolanus by William Shakespeare 영어고전823 윌리엄 셰익스피어의 희극 겨울 이야기 1609 English Classics823 The Winter's Tale by William Shakespeare 영어고전824 윌리엄 셰익스피어의 희극 심벨린 1610 English Classics824 Cymbeline by William Shakespeare 영어고전825 윌리엄 셰익스피어의 희극 템페스트 1610 English Classics825 The Tempest by William Shakespeare 영어고전826 윌리엄 셰익스피어의 역사극 헨리 8세 1612 English Classics826 The Life of Henry VIII by William Shakespeare 영어고전827 윌리엄 셰익스피어의 비극 두 귀족 친척 1613 English Classics827 The Two Noble Kinsmen by William Shakespeare Ⅱ. 윌리엄 셰익스피어의 시집(Poems of William Shakespeare)(07) 영어고전828 윌리엄 셰익스피어 시집 비너스와 아도니스 1593 English Classics828 Venus and Adonis by William Shakespeare 영어고전829 윌리엄 셰익스피어 시집 루크리스의 능욕 1594 English Classics829 The Rape of Lucrece by William Shakespeare 영어고전830 윌리엄 셰익스피어 시집 열광적인 순례자 1599 English Classics830 The Passionate Pilgrim by William Shakespeare 영어고전831 윌리엄 셰익스피어 시집 불사조와 산비둘기 1601 English Classics831 The Phoenix and The Turtle by William Shakespeare 영어고전832 윌리엄 셰익스피어 시집 연인의 불만 1609 English Classics832 A Lover's Complaint by William Shakespeare 영어고전833 윌리엄 셰익스피어 시집 소네트Ⅰ 1609 English Classics833 Shakespeare's SonnetsⅠ by William Shakespeare 영어고전834 윌리엄 셰익스피어 시집 소네트Ⅱ 1609 English Classics834 Shakespeare's SonnetsⅡ by William Shakespeare Ⅲ. 윌리엄 셰익스피어의 기타 작품(Other Works of William Shakespeare)(10) 영어고전835 윌리엄 셰익스피어 전집(全集) English Classics835 The Complete Works of William Shakespeare 영어고전836 윌리엄 셰익스피어의 퍼스트 폴리오(희곡) English Classics836 Shakespeare's First Folio by William Shakespeare 영어고전837 윌리엄 셰익스피어의 파버샴의 아든(희곡) English Classics837 Arden of Feversham by William Shakespeare and Rev. Ronald Bayne 영어고전838 뉴 허드슨 셰익스피어: 윌리엄 셰익스피어의 율리우스 카이사르(희곡) English Classics838 The New Hudson Shakespeare: Julius Cæsar by William Shakespeare 영어고전839 윌리엄 셰익스피어(1763) 2막의 요정 이야기(희곡) English Classics839 A Fairy Tale in Two Acts Taken from Shakespeare(1763) by George Colman et al. 영어고전840 윌리엄 셰익스피어의 음악의 잡다한 노트에 대한 소네트(詩) English Classics840 Sonnets on Sundry Notes of Music by William Shakespeare 영어고전841 윌리엄 셰익스피어의 아름다운 이야기 20편(동화집) English Classics841 Beautiful Stories from Shakespeare by E. Nesbit and William Shakespeare 영어고전842 윌리엄 셰익스피어 희곡의 꽃다발: 셰익스피어 정원의 꽃(삽화집) English Classics842 Flowers from Shakespeare's Garden: A Posy from the Plays by William Shakespeare 영어고전843 오래된 저자의 새로운 독서: 윌리엄 셰익스피어의 헨리 5세(삽화집) English Classics843 New Readings of Old Authors. Shakespeare. King Henry 5th by William Shakespeare et al. 영어고전844 윌리엄 셰익스피어의 멘탈 포토그래프(게임북) English Classics844 Shakespeare's Mental Photographs by William Shakespeare ▶ 테마여행신문 TTN Theme Travel News Korea는 2012년부터 현재까지 1,000종 이상의 콘텐츠를 기획 및 출간한 여행 전문 디지털 콘텐츠 퍼블리셔(Digital Contents Publisher)입니다. 다양한 분야의 전문작가와 함께 신개념 여행 가이드북 원코스(1 Course), 포토에세이 원더풀(Onederful), 여행에세이 별 헤는 밤(Counting the Stars at Night) 등 전 세계를 아우르는 분야별 여행 콘텐츠를 지속적으로 발행하고 있습니다. 테마여행신문 TTN Korea(방송대 기네스상 2017 ‘최다 출간 및 최다 자격증’ 수상)와 함께 어제도, 오늘도, 내일도 멋진 여행을! Theme Travel News TTN Korea(테마여행신문 TTN Korea) is the digital content publisher that published more than 1,000 types of content since 2012. Along with professional writers in various fields, we regularly publish various travel contents such as 1 Course(원코스), Onederful(원더풀), Counting the Stars at Night(별 헤는 밤) Series. Von voyage with Theme Travel News TTN Korea(테마여행신문 TTN Korea)! 테마여행신문 TTN Theme Travel News Korea Webzine : http://themetn.com Publisher : www.upaper.net/themetn Youtube : https://bit.ly/3LFxOhm Facebook : www.fb.com/themetn Twitter : www.twitter.com/themetn",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9791168056367" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 818,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X5GIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X5GIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ko",
+        "previewLink": "http://books.google.fr/books?id=X5GIEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X5GIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X5GIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 6.89, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 6.89, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=X5GIEAAAQBAJ&rdid=book-X5GIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 6890000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 6890000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/%EC%98%81%EC%96%B4%EA%B3%A0%EC%A0%84803_%EC%9C%8C%EB%A6%AC%EC%97%84_%EC%85%B0%EC%9D%B5%EC%8A%A4%ED%94%BC-sample-epub.acsm?id=X5GIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/%EC%98%81%EC%96%B4%EA%B3%A0%EC%A0%84803_%EC%9C%8C%EB%A6%AC%EC%97%84_%EC%85%B0%EC%9D%B5%EC%8A%A4%ED%94%BC-sample-pdf.acsm?id=X5GIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X5GIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KVGd-NabpW0C",
+      "etag": "vZQQ8B4+8dA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KVGd-NabpW0C",
+      "volumeInfo": {
+        "title": "The Plague",
+        "authors": ["Albert Camus"],
+        "publisher": "Vintage",
+        "publishedDate": "1991-05-07",
+        "description": "“Its relevance lashes you across the face.” —Stephen Metcalf, The Los Angeles Times • “A redemptive book, one that wills the reader to believe, even in a time of despair.” —Roger Lowenstein, The Washington Post A haunting tale of human resilience and hope in the face of unrelieved horror, Albert Camus' iconic novel about an epidemic ravaging the people of a North African coastal town is a classic of twentieth-century literature. The townspeople of Oran are in the grip of a deadly plague, which condemns its victims to a swift and horrifying death. Fear, isolation and claustrophobia follow as they are forced into quarantine. Each person responds in their own way to the lethal disease: some resign themselves to fate, some seek blame, and a few, like Dr. Rieux, resist the terror. An immediate triumph when it was published in 1947, The Plague is in part an allegory of France's suffering under the Nazi occupation, and a timeless story of bravery and determination against the precariousness of human existence.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780679720218" },
+          { "type": "ISBN_10", "identifier": "0679720219" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KVGd-NabpW0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KVGd-NabpW0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=KVGd-NabpW0C&dq=subject:fiction&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=KVGd-NabpW0C&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Plague.html?hl=&id=KVGd-NabpW0C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=KVGd-NabpW0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9zqsDwAAQBAJ",
+      "etag": "MZWqGSsjCAc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9zqsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Alpine Ballad",
+        "authors": ["Vasil Bykau"],
+        "publisher": "Glagoslav Publications",
+        "publishedDate": "2018-01-01",
+        "description": "A handful of families, several generations, more than a few wars. MoscTowards the end of World War II, a Belarusian soldier and an Italian girl escape from a Nazi concentration camp. The soldier wonders if he should get rid of the girl; she is a burden and is slowing him down. However, he cannot bring himself to abandon her in the snowy wilderness. Somewhere along the way, the two develop feelings for each other, but their love is not destined to grow beyond the edge of the mountains. Yet their bond cannot be denied, and in the end it proves stronger than death itself. From the master of psychological narrative whose firsthand experience with World War II enabled him to re-create the ordeal on pages of his books, Alpine Ballad is Vasil Bykau’s most heartfelt story. Bykau sends a powerful message to his readers: human values can be extrapolated and in the context of war people can still uphold their humanity. An altruistic, philanthropic project of Glagoslav Publications, Alpine Ballad is coming out as a gesture of peace and a reminder to all of the human cost of wars that ransack our planet to this day. Translated from Belarusian by Mikalai Khilo. The previous translations of Alpine Ballad were based on the Soviet-censored Russian version of the original manuscript. ow, Kabul, Barcelona. Anna Nemzer announces herself on the literary scene boldly and loudly with this debut novel about the insane, unspeakable nature of war, about human fears, treachery, lies, fateful coincidences and destinies during warfare, when there is no room left for love. The protagonists survived the war and are rescued from captivity. They are not able, however, to leave the experiences of the war behind them and move on with their lives. The novel explores what happens once the conflict is over, as they learn to live without the war, with all their loves, passions and weaknesses.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781909156838" },
+          { "type": "ISBN_10", "identifier": "1909156833" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 204,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.35.30.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9zqsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9zqsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=9zqsDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9zqsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9zqsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=9zqsDwAAQBAJ&rdid=book-9zqsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Alpine_Ballad-sample-epub.acsm?id=9zqsDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Alpine_Ballad-sample-pdf.acsm?id=9zqsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9zqsDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QHR9EAAAQBAJ",
+      "etag": "uVGfKf1kCZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QHR9EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Origin of the Red Cross: \"Un souvenir de Solferino\"",
+        "authors": ["Henry Dunant"],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-07-20",
+        "description": "After noticing the suffering of thousands of wounded soldiers at the Battle of Solferino in 1859, Henry Dunant decided to write 'A Memory of Solferino'. Its publication proved conclusive in founding the International Committee of the Red Cross. In this influential book, Dunanat brilliantly described the battle, the sufferings, and the aid organization.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:8596547092438" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QHR9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QHR9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=QHR9EAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QHR9EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QHR9EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=QHR9EAAAQBAJ&rdid=book-QHR9EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Origin_of_the_Red_Cross_Un_souvenir-sample-epub.acsm?id=QHR9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Origin_of_the_Red_Cross_Un_souvenir-sample-pdf.acsm?id=QHR9EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QHR9EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SFlJAgAAQBAJ",
+      "etag": "hfzlLUkarek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SFlJAgAAQBAJ",
+      "volumeInfo": {
+        "title": "RUR",
+        "authors": ["Karel Capek"],
+        "publisher": "Hachette UK",
+        "publishedDate": "2013-12-30",
+        "description": "R.U.R. - written in 1920, premiered in Prague in 1921, and first performed in New York in 1922 - garnered worldwide acclaim for its author and popularized the word 'robot'. Mass-produced as efficient laborers to serve man, Capek's Robots are an android product-they remember everything but think of nothing new. But the Utopian life they provide ultimately lacks meaning, and the humans they serve stop reproducing. When the Robots revolt, killing all but one of their masters, they must strain to learn the secret of self-duplication. It is not until two Robots fall in love and are christened \"Adam\" and \"Eve\" by the last surviving human that Nature emerges triumphant.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781473208032" },
+          { "type": "ISBN_10", "identifier": "1473208033" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 73,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.9.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SFlJAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SFlJAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=SFlJAgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SFlJAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SFlJAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=SFlJAgAAQBAJ&rdid=book-SFlJAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/RUR-sample-epub.acsm?id=SFlJAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=SFlJAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ko6qK38hRDYC",
+      "etag": "Edk/p8QollQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ko6qK38hRDYC",
+      "volumeInfo": {
+        "title": "The Complete Stories",
+        "authors": ["Franz Kafka"],
+        "publisher": "Schocken",
+        "publishedDate": "2012-10-24",
+        "description": "The Complete Stories brings together all of Kafka’s stories, from the classic tales such as “The Metamorphosis,” “In the Penal Colony,” and “A Hunger Artist” to shorter pieces and fragments that Max Brod, Kafka’s literary executor, released after Kafka’s death. With the exception of his three novels, the whole of Kafka’s narrative work is included in this volume.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780307829450" },
+          { "type": "ISBN_10", "identifier": "0307829456" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ko6qK38hRDYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ko6qK38hRDYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ko6qK38hRDYC&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ko6qK38hRDYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ko6qK38hRDYC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 6.86, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 6.86, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ko6qK38hRDYC&rdid=book-ko6qK38hRDYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 6860000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 6860000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Complete_Stories-sample-epub.acsm?id=ko6qK38hRDYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ko6qK38hRDYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9N1uEAAAQBAJ",
+      "etag": "aaAk45usETU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9N1uEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Hunchback of Notre-Dame",
+        "authors": ["Victor Hugo"],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2022-05-10",
+        "description": "Reprint of the original, first published in 1869.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9783375022365" },
+          { "type": "ISBN_10", "identifier": "3375022360" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 473,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9N1uEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9N1uEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=9N1uEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=9N1uEAAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hunchback_of_Notre_Dame.html?hl=&id=9N1uEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Hunchback_of_Notre_Dame-sample-pdf.acsm?id=9N1uEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9N1uEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pJPWDwAAQBAJ",
+      "etag": "bLUUP7FC2+I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pJPWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Boyhood by Leo Tolstoy - Delphi Classics (Illustrated)",
+        "authors": ["Leo Tolstoy"],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘Boyhood’ from the bestselling edition of ‘The Complete Works of Leo Tolstoy’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Tolstoy includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘Boyhood’ * Beautifully illustrated with images related to Tolstoy’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781786566324" },
+          { "type": "ISBN_10", "identifier": "178656632X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 85,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pJPWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pJPWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=pJPWDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pJPWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pJPWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=pJPWDwAAQBAJ&rdid=book-pJPWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Boyhood_by_Leo_Tolstoy_Delphi_Classics_I-sample-epub.acsm?id=pJPWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Boyhood_by_Leo_Tolstoy_Delphi_Classics_I-sample-pdf.acsm?id=pJPWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pJPWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jwlNCAAAQBAJ",
+      "etag": "44tRyRKgyMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jwlNCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Leaves of Grass",
+        "authors": ["Walt Whitman"],
+        "publisher": "Lulu Press, Inc",
+        "publishedDate": "2013-03-12",
+        "description": "American poet Walt Whitman’s Leaves of Grass, is a collection of poems notable for its frank delight in and praise of the senses, during a time when such candid displays were considered immoral. Where much previous poetry, especially English, relied on symbolism, allegory, and meditation on the religious and spiritual, Leaves of Grass exalted the body and the material world.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781291237597" },
+          { "type": "ISBN_10", "identifier": "1291237593" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jwlNCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jwlNCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=jwlNCAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jwlNCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jwlNCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.04, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.04, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=jwlNCAAAQBAJ&rdid=book-jwlNCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1040000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1040000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Leaves_of_Grass-sample-epub.acsm?id=jwlNCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Leaves_of_Grass-sample-pdf.acsm?id=jwlNCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jwlNCAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ISOvEAAAQBAJ",
+      "etag": "VLKPWO6iUUE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ISOvEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Don Quixote",
+        "authors": ["Miguel de Cervantes Saavedra"],
+        "publisher": "anboco",
+        "publishedDate": "2016-08-27",
+        "description": "Don Quixote is considered the most influential work of literature from the Spanish Golden Age and the entire Spanish literary canon. As a founding work of modern Western literature and one of the earliest canonical novels, it regularly appears high on lists of the greatest works of fiction ever published, such as the Bokklubben World Library collection that cites Don Quixote as authors' choice for the \"best literary work ever written\".",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9783736408968" },
+          { "type": "ISBN_10", "identifier": "373640896X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 1421,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ISOvEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ISOvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ISOvEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ISOvEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ISOvEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.49, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.49, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ISOvEAAAQBAJ&rdid=book-ISOvEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 490000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 490000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Don_Quixote-sample-epub.acsm?id=ISOvEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Don_Quixote-sample-pdf.acsm?id=ISOvEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ISOvEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JBwZDAAAQBAJ",
+      "etag": "6nzAyoVSCdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JBwZDAAAQBAJ",
+      "volumeInfo": {
+        "title": "The End of Eddy",
+        "authors": ["Edouard Louis"],
+        "publisher": "Random House",
+        "publishedDate": "2017-02-02",
+        "description": "‘A brilliant novel... courageous, necessary and deeply touching’ Guardian Édouard Louis grew up in a village in northern France where many live below the poverty line. His bestselling debut novel about life there, The End of Eddy, has sparked debate on social inequality, sexuality and violence. It is an extraordinary portrait of escaping from an unbearable childhood, inspired by the author’s own. Written with an openness and compassionate intelligence, ultimately, it asks, how can we create our own freedom? ‘A mesmerising story about difference and adolescence’ New York Times ‘Édouard Louis...is that relatively rare thing – a novelist with something to say and a willingness to say it, without holding back’ The Times ‘Louis’ book has become the subject of political discussion in a way that novels rarely do’ Garth Greenwell, New Yorker",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781473513105" },
+          { "type": "ISBN_10", "identifier": "1473513103" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JBwZDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JBwZDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=JBwZDAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JBwZDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JBwZDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 8.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 8.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=JBwZDAAAQBAJ&rdid=book-JBwZDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 8990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 8990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_End_of_Eddy-sample-epub.acsm?id=JBwZDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=JBwZDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T7R6DwAAQBAJ",
+      "etag": "gpJDMfMWA0k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T7R6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Christmas Carol",
+        "authors": ["Charles Dickens"],
+        "publisher": "Vintage",
+        "publishedDate": "1960",
+        "description": "Ebenezer Scrooge, a bitter and miserly old moneylender, holding everything that embodies the joys and spirit of Christmas in contempt, keeping to himself and being nasty to people. Scrooge's business partner Jacob Marley has died and Scrooge is continues the way he as always done, until one Christmas Eve night the sprite of Marley returns in chains to Scrooge to warn him of his future fate if he does not change his ways and that three spirts Christmas will come to visit him this night to show him the folly of his ways.",
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T7R6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T7R6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=T7R6DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T7R6DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T7R6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 7.69, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 7.69, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=T7R6DwAAQBAJ&rdid=book-T7R6DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 7690000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 7690000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_Christmas_Carol-sample-pdf.acsm?id=T7R6DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T7R6DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LMCWDwAAQBAJ",
+      "etag": "KwXkQEROres",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LMCWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Civilisation of the Renaissance in Italy",
+        "authors": ["Jacob Burckhardt"],
+        "publisher": "Litres",
+        "publishedDate": "2019-05-08",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9785041707316" },
+          { "type": "ISBN_10", "identifier": "5041707316" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 1092,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LMCWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LMCWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=LMCWDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=LMCWDwAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Civilisation_of_the_Renaissance_in_I.html?hl=&id=LMCWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Civilisation_of_the_Renaissance_in_I-sample-epub.acsm?id=LMCWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Civilisation_of_the_Renaissance_in_I-sample-pdf.acsm?id=LMCWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LMCWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MZyXEAAAQBAJ",
+      "etag": "OljjgWJKeuU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MZyXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Mohini Theevu",
+        "authors": ["Kalki"],
+        "publisher": "Giri Trading Agency Private Limited",
+        "publishedDate": "2022-10-26",
+        "description": "Conversations turns into story telling of one’s lifetime experience of visiting a Island somewhere below the Sri Lanka. A Writer who forced to take a trip to India from Burma aka Myanmar due to outbreak of war. Unfortunately or fortunately he get to travel in a old crowded ship.Due to Fear of bombers captain of the ship takes them to near by island. Beauty of the island invites everyone to it but few along with captain travels to the island. Where captain explains his earlier visit to island and take them back to ship. But writer wish to spend some more time before the ship continues its voyage so he hide himself behind the trees. Captain and passengers takes the row boat and ride back to the ship. They realise they left someone behind but due to sunset they decide to stay back in ship till dawn. Writer revisit the spot he enjoyed few moments back and experience something strange events. How those strange events impact him? Did he able to return back to ship? What story is awaiting for the writer to tell his friends is all about the story.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9788179508480" },
+          { "type": "ISBN_10", "identifier": "817950848X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MZyXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MZyXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ta",
+        "previewLink": "http://books.google.fr/books?id=MZyXEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MZyXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MZyXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.97, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.97, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=MZyXEAAAQBAJ&rdid=book-MZyXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 970000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 970000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Mohini_Theevu-sample-epub.acsm?id=MZyXEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Mohini_Theevu-sample-pdf.acsm?id=MZyXEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MZyXEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "b6nCAgAAQBAJ",
+      "etag": "NAUknmE0Ak0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/b6nCAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Joseph Andrews",
+        "authors": ["Henry Fielding"],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-05-04",
+        "description": "First English realistic novel depicts misadventures of Joseph and his old tutor, Parson Adams, and their travels — along the way exposing, through their own innocence and honesty, the hypocrisy and affectation of others.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780486110820" },
+          { "type": "ISBN_10", "identifier": "0486110826" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=b6nCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=b6nCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=b6nCAgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=b6nCAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=b6nCAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 4.82, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 4.58, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=b6nCAgAAQBAJ&rdid=book-b6nCAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 4820000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 4580000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Joseph_Andrews-sample-epub.acsm?id=b6nCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Joseph_Andrews-sample-pdf.acsm?id=b6nCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=b6nCAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IMwoCwAAQBAJ",
+      "etag": "Pz+ZJjEmB8Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IMwoCwAAQBAJ",
+      "volumeInfo": {
+        "title": "The House of the Spirits",
+        "subtitle": "A Novel",
+        "authors": ["Isabel Allende"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-12-15",
+        "description": "The Trueba family embodies strong feelings. This family saga starts at the beginning of the 20th century and continues through the assassination of Allende in 1973.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781501117015" },
+          { "type": "ISBN_10", "identifier": "1501117017" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.9.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IMwoCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IMwoCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=IMwoCwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=IMwoCwAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_House_of_the_Spirits.html?hl=&id=IMwoCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=IMwoCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ulqIEAAAQBAJ",
+      "etag": "R+J58OjJAe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ulqIEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Memorabilia",
+        "authors": ["Xenophon"],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-09-04",
+        "description": "DigiCat Publishing presents to you this special edition of \"The Memorabilia\" by Xenophon. DigiCat Publishing considers every written word to be a legacy of humankind. Every DigiCat book has been carefully reproduced for republishing in a new modern format. The books are available in print, as well as ebooks. DigiCat hopes you will treat this work with the acknowledgment and passion it deserves as a classic of world literature.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:8596547251903" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 211,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ulqIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ulqIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ulqIEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ulqIEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ulqIEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ulqIEAAAQBAJ&rdid=book-ulqIEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Memorabilia-sample-epub.acsm?id=ulqIEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Memorabilia-sample-pdf.acsm?id=ulqIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ulqIEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wwn4CAAAQBAJ",
+      "etag": "6TQVPz4qS5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wwn4CAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mysterious Island",
+        "authors": ["Jules Verne"],
+        "publisher": "Open Road Media",
+        "publishedDate": "2015-05-26",
+        "description": "In Jules Verne’s classic adventure tale, a hot air balloon is swept off course only to land on a faraway desert island In the midst of the American Civil War, five prisoners hijack a hot air balloon to make their escape. Caught in the winds of a violent storm, the balloon is blown far, far away from its point of departure in Richmond, Virginia. When the craft crash-lands, its passengers find themselves castaways on an exotic island. Here they are forced to contend with wild animals, pirates, and an active volcano—in a fight for their very survival. Beloved for well over a century, The Mysterious Island is an enduring adventure classic by the masterful Jules Verne. This ebook has been professionally proofread to ensure accuracy and readability on all devices.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781504013895" },
+          { "type": "ISBN_10", "identifier": "1504013891" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.17.18.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wwn4CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wwn4CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=wwn4CAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wwn4CAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wwn4CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 7.37, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 7.37, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=wwn4CAAAQBAJ&rdid=book-wwn4CAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 7370000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 7370000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Mysterious_Island-sample-epub.acsm?id=wwn4CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Mysterious_Island-sample-pdf.acsm?id=wwn4CAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wwn4CAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r-6MAgAAQBAJ",
+      "etag": "+F+rdp4bsNg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r-6MAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Robinson Crusoe",
+        "authors": ["Daniel Defoe"],
+        "publisher": "Oldcastle Books",
+        "publishedDate": "2013-05-31",
+        "description": "One man's love of the sea leaves him stranded on a desert island with nothing but a few goats, a bible and a parrot for company. Will he ever escape? Will his new pal Friday learn to efficiently press a goatskin jerkin? Or will solitude send him totally barmy? Pulp! The Classics is a new imprint that gives the nation's favourite classic novels original retro covers in a pulp fiction style - with a dash of wry humour. Redesigned and reset, using the original unabridged text from some of the best writers that have ever lived, Pulp! The Classics promises readers their favourite books with stunning and highly original jackets.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781843441199" },
+          { "type": "ISBN_10", "identifier": "1843441195" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r-6MAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r-6MAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=r-6MAgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r-6MAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r-6MAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=r-6MAgAAQBAJ&rdid=book-r-6MAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1000000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1000000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Robinson_Crusoe-sample-epub.acsm?id=r-6MAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Robinson_Crusoe-sample-pdf.acsm?id=r-6MAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r-6MAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RpjWDwAAQBAJ",
+      "etag": "+vucN0Rvrc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RpjWDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)",
+        "authors": ["L. Frank Baum"],
+        "publisher": "Delphi Classics",
+        "publishedDate": "2017-07-17",
+        "description": "This eBook features the unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ from the bestselling edition of ‘The Complete Works of L. Frank Baum’. Having established their name as the leading publisher of classic literature and art, Delphi Classics produce publications that are individually crafted with superior formatting, while introducing many rare texts for the first time in digital print. The Delphi Classics edition of Baum includes original annotations and illustrations relating to the life and works of the author, as well as individual tables of contents, allowing you to navigate eBooks quickly and easily. eBook features: * The complete unabridged text of ‘The Wonderful Wizard of Oz by L. Frank Baum - Delphi Classics (Illustrated)’ * Beautifully illustrated with images related to Baum’s works * Individual contents table, allowing easy navigation around the eBook * Excellent formatting of the textPlease visit www.delphiclassics.com to learn more about our wide range of titles",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781788771054" },
+          { "type": "ISBN_10", "identifier": "1788771052" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 231,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RpjWDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RpjWDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=RpjWDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RpjWDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RpjWDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 0.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=RpjWDwAAQBAJ&rdid=book-RpjWDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 950000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Wonderful_Wizard_of_Oz_by_L_Frank_Ba-sample-epub.acsm?id=RpjWDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Wonderful_Wizard_of_Oz_by_L_Frank_Ba-sample-pdf.acsm?id=RpjWDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RpjWDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pM5HDwAAQBAJ",
+      "etag": "XuRzwj1IN88",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pM5HDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Letters on England",
+        "authors": ["Voltaire"],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-01-19",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9783732624904" },
+          { "type": "ISBN_10", "identifier": "3732624900" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 90,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pM5HDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pM5HDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=pM5HDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=pM5HDwAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Letters_on_England.html?hl=&id=pM5HDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Letters_on_England-sample-pdf.acsm?id=pM5HDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pM5HDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ydJcEAAAQBAJ",
+      "etag": "C6DI+YALlT4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ydJcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "We",
+        "authors": ["Yevgeny Zamyatin"],
+        "publisher": "Aegitas",
+        "publishedDate": "2022-02-04",
+        "description": "An inspiration for George Orwell’s 1984 and a precursor to the work of Philip K. Dick, Ayn Rand (Anthem), and Stanislaw Lem, We is a classic of dystopian science fiction ripe for rediscovery. Written in 1921 by the Russian revolutionary Yevgeny Zamyatin, this story of the thirtieth century is set in the One State, a society where all live for the collective good and individual freedom does not exist. Although fiction, it is a story informed by the war communism of the Soviet Union, and was of course completely banned in Russia. But the collectivism is of a recognizable type, one that threatens every society in all times. To come to understand its features and markings is the benefit of the dystopian genre. The reality that dawns on the reader is that this seeming fiction is all-too real in our times. The novel takes the form of the diary of state mathematician D-503, who, to his shock, experiences the most disruptive emotion imaginable: love for another human being. At once satirical and sobering, We speaks to all who have suffered under repression of their personal, economic, and cultural freedom. “One of the greatest novels of the twentieth century.” –Irving Howe.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780369406996" },
+          { "type": "ISBN_10", "identifier": "0369406990" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 193,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ydJcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ydJcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ydJcEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ydJcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ydJcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ydJcEAAAQBAJ&rdid=book-ydJcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/We-sample-epub.acsm?id=ydJcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/We-sample-pdf.acsm?id=ydJcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ydJcEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-_UNV7y3nJIC",
+      "etag": "xQSOtdCVdgw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-_UNV7y3nJIC",
+      "volumeInfo": {
+        "title": "The Ice Princess",
+        "subtitle": "A Novel",
+        "authors": ["Camilla Läckberg"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2011-03-29",
+        "description": "“A top-notch thriller, one of the best of the genre” (Minneapolis Star Tribune) from international crime-writing sensation Camilla Läckberg tells the story of brutal murders in a small Swedish fishing village, and the shattering, decades-old secrets that precipitated them. In this electrifying tale of suspense from an international crime-writing sensation, a grisly death exposes the dark heart of a Scandinavian seaside village. Erica Falck returns to her tiny, remote hometown of Fjällbacka, Sweden, after her parents’ deaths only to encounter another tragedy: the suicide of her childhood best friend, Alex. It’s Erica herself who finds Alex’s body—suspended in a bathtub of frozen water, her wrists slashed. Erica is bewildered: Why would a beautiful woman who had it all take her own life? Teaming up with police detective Patrik Hedström, Erica begins to uncover shocking events from Alex’s childhood. As one horrifying fact after another comes to light, Erica and Patrik’s curiosity gives way to obsession—and their flirtation grows into uncontrollable attraction. But it’s not long before one thing becomes very clear: a deadly secret is at stake, and there’s someone out there who will do anything—even commit murder—to protect it. Fans of Scandinavian greats Stieg Larsson and Henning Mankell will devour Camilla Läckberg’s penetrating portrait of human nature at its darkest.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781451621754" },
+          { "type": "ISBN_10", "identifier": "1451621752" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 67,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.10.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-_UNV7y3nJIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-_UNV7y3nJIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=-_UNV7y3nJIC&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=-_UNV7y3nJIC&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ice_Princess.html?hl=&id=-_UNV7y3nJIC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Ice_Princess-sample-epub.acsm?id=-_UNV7y3nJIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=-_UNV7y3nJIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8_EnDQAAQBAJ",
+      "etag": "NjT3Fr7pa5Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8_EnDQAAQBAJ",
+      "volumeInfo": {
+        "title": "A View of Sir Isaac Newton's Philosophy",
+        "authors": ["Anonymous"],
+        "publisher": "Library of Alexandria",
+        "publishedDate": "2020-09-28",
+        "description": "THE manner, in which Sir Isaac Newton has published his philosophical discoveries, occasions them to lie very much concealed from all, who have not made the mathematics particularly their study. He once, indeed, intended to deliver, in a more familiar way, that part of his inventions, which relates to the system of the world; but upon farther consideration he altered his design. For as the nature of those discoveries made it impossible to prove them upon any other than geometrical principles; he apprehended, that those, who should not fully perceive the force of his arguments, would hardly be prevailed on to exchange their former sentiments for new opinions, so very different from what were commonly received. He therefore chose rather to explain himself only to mathematical readers; and declined the attempting to instruct such in any of his principles, who, by not comprehending his method of reasoning, could not, at the first appearance of his discoveries, have been persuaded of their truth. But now, since Sir Isaac Newton’s doctrine has been fully established by the unanimous approbation of all, who are qualified to understand the same; it is without doubt to be wished, that the whole of his improvements in philosophy might be universally known. For this purpose therefore I drew up the following papers, to give a general notion of our great philosopher’s inventions to such, as are not prepared to read his own works, and yet might desire to be informed of the progress, he has made in natural knowledge; not doubting but there were many, besides those, whose turn of mind had led them into a course of mathematical studies, that would take great pleasure in tasting of this delightful fountain of science.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781465610539" },
+          { "type": "ISBN_10", "identifier": "1465610537" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8_EnDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8_EnDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=8_EnDQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8_EnDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8_EnDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 4.21, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 4.21, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=8_EnDQAAQBAJ&rdid=book-8_EnDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 4210000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 4210000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_View_of_Sir_Isaac_Newton_s_Philosophy-sample-epub.acsm?id=8_EnDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=8_EnDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xptAtjb1a38C",
+      "etag": "cI1MIi9CxYY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xptAtjb1a38C",
+      "volumeInfo": {
+        "title": "Barchester Towers",
+        "authors": ["Anthony Trollope"],
+        "publisher": "Oxford Paperbacks",
+        "publishedDate": "1996-11-07",
+        "description": "Barchester Towers, Trollope's most popular novel, is the second of the six Chronicles of Barsetshire. The Chronicles follow the intrigues of ambition and love in the cathedral town of Barchester. Trollope was of course interested in the Church, that pillar of Victorian society - in its susceptibility to corruption, hypocrisy, and blinkered conservatism - but the Barsetshire novels are no more `ecclesiastical' than his Palliser novels are `political'. It is the behaviour of the individuals within a power structure that interests him. In this novel Trollope continues the story of Mr Harding and his daughter Eleanor, adding to his cast of characters that oily symbol of progress Mr Slope, the hen-pecked Dr Proudie, and the amiable and breezy Stanhope family. The central questions of this moral comedy - Who will be warden? Who will be dean? Who will marry Eleanor? - are skilfully handled with that subtlety of ironic observation that has won Trollope such a wide and appreciative readership.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780191611094" },
+          { "type": "ISBN_10", "identifier": "0191611093" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xptAtjb1a38C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xptAtjb1a38C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=xptAtjb1a38C&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xptAtjb1a38C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xptAtjb1a38C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 9.01, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 8.56, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=xptAtjb1a38C&rdid=book-xptAtjb1a38C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 9010000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 8560000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Barchester_Towers-sample-epub.acsm?id=xptAtjb1a38C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Barchester_Towers-sample-pdf.acsm?id=xptAtjb1a38C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xptAtjb1a38C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u11SDwAAQBAJ",
+      "etag": "e6LAwwsHHq0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u11SDwAAQBAJ",
+      "volumeInfo": {
+        "title": "To The Lighthouse",
+        "authors": ["Woolf V."],
+        "publisher": "Рипол Классик",
+        "description": "The serene and maternal Mrs. Ramsay, the tragic yet absurd Mr. Ramsay, and their children and assorted guests are on holiday on the Isle of Skye. From the seemingly trivial postponement of a visit to a nearby lighthouse, Woolf constructs a remarkable, moving examination of the complex tensions and allegiances of family life and the conflict between men and women. In 1998, the Modern Library named To the Lighthouse No. 15 on its list of the 100 best English-language novels of the 20th century.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9785521062171" },
+          { "type": "ISBN_10", "identifier": "5521062173" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u11SDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u11SDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=u11SDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u11SDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u11SDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.14, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.14, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=u11SDwAAQBAJ&rdid=book-u11SDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1140000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1140000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/To_The_Lighthouse-sample-pdf.acsm?id=u11SDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u11SDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tigqEAAAQBAJ",
+      "etag": "5O17V692TbY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tigqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Adventures of Tom Sawyer",
+        "authors": ["Mark Twain"],
+        "publisher": "Diamond Pocket Books Pvt Ltd",
+        "publishedDate": "2021-04-19",
+        "description": "Mark Twain, the author was an American Writer & Humorist. His Original name is “Samuel Longhorne Clemens”. Mark Twain is the pen name. His notable works are “The Adventures of Tom Sawyer” & “Adventures of Huckleberry Finn”. In his credit, there are 28 books and numerous Sketches & Short stories. ‘The Adventures of Tom Sawyer’ came out in 1869. It features one of the best-loved characters in American fiction. Mark Twain’s famous short stories are: ‘The War Prayer’, ‘A Dog’s Tale’, ‘Eve’s Diary’, ‘A Ghost Story’, ‘Luck’, ‘Advice to little Girls’, ‘Cannibalism in the Cars’, and lot many… This novel is about a boy growing up along the Mississippi River. Tom Sawyer has several adventures, after with his friend Huckleberry Finn. An Excerpt: “Tom falls in love with Becky Thatcher, a new girl in town wins the admiration of the judge in the church by obtaining the Bible as a prize but reveals his ignorance when he is unable to answer basic questions about Scripture. Tom pursues Becky, eventually persuading her to get engaged by kissing him. Their romance soon collapses when she discovers that Tom was engaged to another school girl…” The book has been widely adapted into feature films and Television Series. A must-have book for everyone.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9789390960729" },
+          { "type": "ISBN_10", "identifier": "939096072X" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tigqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tigqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=tigqEAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=tigqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=tigqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.75, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.75, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=tigqEAAAQBAJ&rdid=book-tigqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1750000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1750000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Adventures_of_Tom_Sawyer-sample-epub.acsm?id=tigqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=tigqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qtDvCAAAQBAJ",
+      "etag": "KCTln8MxgKs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qtDvCAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Vegetarian",
+        "subtitle": "A Novel",
+        "authors": ["Han Kang"],
+        "publisher": "Hogarth",
+        "publishedDate": "2016-02-02",
+        "description": "Winner of the 2016 Man Booker International Prize NAMED ONE OF THE BEST BOOKS OF THE YEAR BY The New York Times Book Review • Publisher's Weekly • Buzzfeed • Entertainment Weekly • Time • Wall Street Journal • Bustle • Elle • The Economist • Slate • The Huffington Post • The St. Louis Dispatch • Electric Literature Featured in the New York Times selection of \"15 remarkable books by women that are shaping the way we read and write fiction in the 21st century\" A beautiful, unsettling novel about rebellion and taboo, violence and eroticism, and the twisting metamorphosis of a soul Before the nightmares began, Yeong-hye and her husband lived an ordinary, controlled life. But the dreams—invasive images of blood and brutality—torture her, driving Yeong-hye to purge her mind and renounce eating meat altogether. It’s a small act of independence, but it interrupts her marriage and sets into motion an increasingly grotesque chain of events at home. As her husband, her brother-in-law and sister each fight to reassert their control, Yeong-hye obsessively defends the choice that’s become sacred to her. Soon their attempts turn desperate, subjecting first her mind, and then her body, to ever more intrusive and perverse violations, sending Yeong-hye spiraling into a dangerous, bizarre estrangement, not only from those closest to her, but also from herself. Celebrated by critics around the world, The Vegetarian is a darkly allegorical, Kafka-esque tale of power, obsession, and one woman’s struggle to break free from the violence both without and within her.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780553448191" },
+          { "type": "ISBN_10", "identifier": "0553448196" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 145,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qtDvCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qtDvCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=qtDvCAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qtDvCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qtDvCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 13.73, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 13.73, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=qtDvCAAAQBAJ&rdid=book-qtDvCAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 13730000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 13730000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Vegetarian-sample-epub.acsm?id=qtDvCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=qtDvCAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yLJREAAAQBAJ",
+      "etag": "8T49wbfJLac",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yLJREAAAQBAJ",
+      "volumeInfo": {
+        "title": "An Antarctic Mystery",
+        "authors": ["Jules Verne"],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2021-12-13",
+        "description": "‘An Antarctic Mystery’ is a follow up to Edgar Allan Poe’s ‘The Narrative of Arthur Gordon Pym’, attempting to explain what might have happened to the main characters after the novels end. We follow an adventurer through the rarely explored Kerguelen Islands as he is picked up by Len Guy and the crew of the Halbrane on its way home. Before they complete their voyage however they find a corpse drifting on an iceberg, a note with him reveals that William Guy, the captain of the Jane and many of his crew survived the assassination attempt. In a daring voyage to rescue the survivors, we are brought to the frozen, treacherous ice fields of the Antarctic where unimaginably powerful forces have awoken. It is a daring adventure novel, with a riveting plot and powerful conclusion perfect for anyone who loved ‘The Thing’. Jules Verne (1828-1905) was a French novelist, poet and playwright who is remembered for his significant contribution to the science fiction genre. With the help of editor Pierre-Jules Hetzel he wrote a series of books called \"Extraordinary Travels\", which includes \"Journey to the Centre of the Earth\" (1864), \"Twenty Thousand Leagues Under the Sea\" (1870), and \"Around the World in Eighty Days\" (1873). Due to his incredible vision he is often given the moniker ‘The Father of Science Fiction’, shared with fellow science fiction author H.G. Wells. Widely popular with both children and adults, Verne is one of the most translated authors of all time, second only to Agatha Christie and Shakespeare.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9788726647693" },
+          { "type": "ISBN_10", "identifier": "8726647699" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 172,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yLJREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yLJREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=yLJREAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=yLJREAAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Antarctic_Mystery.html?hl=&id=yLJREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/An_Antarctic_Mystery-sample-epub.acsm?id=yLJREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=yLJREAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oNY0DwAAQBAJ",
+      "etag": "8ugK+u5kAOs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oNY0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "There There",
+        "subtitle": "A novel",
+        "authors": ["Tommy Orange"],
+        "publisher": "Vintage",
+        "publishedDate": "2018-06-05",
+        "description": "NATIONAL BESTSELLER • PEN/HEMINGWAY AWARD WINNER • One of The New York Times 10 Best Books of the Year • A wondrous and shattering novel that follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize. Among them is Jacquie Red Feather, newly sober and trying to make it back to the family she left behind. Dene Oxendene, pulling his life together after his uncle’s death and working at the powwow to honor his memory. Fourteen-year-old Orvil, coming to perform traditional dance for the very first time. Together, this chorus of voices tells of the plight of the urban Native American—grappling with a complex and painful history, with an inheritance of beauty and spirituality, with communion and sacrifice and heroism. Hailed as an instant classic, There There is at once poignant and unflinching, utterly contemporary and truly unforgettable.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780525520382" },
+          { "type": "ISBN_10", "identifier": "0525520384" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 82,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oNY0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=oNY0DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=oNY0DwAAQBAJ&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/There_There.html?hl=&id=oNY0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/There_There-sample-epub.acsm?id=oNY0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=oNY0DwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jS2BDwAAQBAJ",
+      "etag": "NHFqMVs55Ok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jS2BDwAAQBAJ",
+      "volumeInfo": {
+        "title": "For Whom the Bell Tolls",
+        "subtitle": "The Hemingway Library Edition",
+        "authors": ["Ernest Hemingway"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2019-07-16",
+        "description": "Introduced by Hemingway’s grandson Seán Hemingway, this newly annotated edition and literary masterpiece about an American in the Spanish Civil War features early drafts and supplementary material—including three previously uncollected short stories on war by one the greatest writers on the subject in history. In 1937 Ernest Hemingway traveled to Spain to cover the civil war for the North American Newspaper Alliance. Three years later he completed the greatest novel to emerge from “the good fight,” and one of the foremost classics of war literature in history. Published in 1940, For Whom the Bell Tolls tells of loyalty and courage, love and defeat, and the tragic death of an ideal. Robert Jordan is a young American in the International Brigades attached to an antifascist guerilla unit in the mountains of Spain. In his portrayal of Jordan’s love for the beautiful Maria and his superb account of El Sordo’s last stand, Hemingway creates a work at once rare and beautiful, strong and brutal, compassionate, moving, and wise. “If the function of a writer is to reveal reality,” Maxwell Perkins wrote Hemingway after reading the manuscript, “no one ever so completely performed it.” Greater in power, broader in scope, and more intensely emotional than any of the author’s previous works, it stands as one of the best war novels of all time. Featuring early drafts and manuscript notes, some of Hemingway’s writings during the Spanish Civil War, and three previously collected stories of his on the subject of war, as well as a personal foreword by the author’s son Patrick Hemingway, and a new introduction by the author’s grandson Seán Hemingway, this edition of For Whom the Bell Tolls brings new life to a literary master’s epic like never before.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781476787831" },
+          { "type": "ISBN_10", "identifier": "1476787832" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jS2BDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jS2BDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=jS2BDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jS2BDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jS2BDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 14.62, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 14.62, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=jS2BDwAAQBAJ&rdid=book-jS2BDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 14620000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 14620000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/For_Whom_the_Bell_Tolls-sample-epub.acsm?id=jS2BDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=jS2BDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ttI9DDdL7psC",
+      "etag": "9SmAOTOmZGY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ttI9DDdL7psC",
+      "volumeInfo": {
+        "title": "The Complete Grimm's Fairy Tales",
+        "authors": ["Brothers Grimm"],
+        "publisher": "Pantheon",
+        "publishedDate": "1972",
+        "description": "The stories of magic and myth gathered by the Brothers Grimm have become part of the way children—and adults—learn about the vagaries of the real world. Cinderella, Rapunzel, Snow-White, Hänsel and Gretel, Little Red-Cap (Little Red Riding Hood), and Briar-Rose (Sleeping Beauty) are only a few of the more than two hundred enchanting characters included in this volume. The tales are presented just as Jacob and Wilhelm Grimm originally set them down: bold, primal, just frightening enough, and endlessly engaging. With black-and-white illustrations throughout Illustrated by Josef Schari / Commentary by Joseph Campbell Part of the Pantheon Fairy Tale and Folklore Library",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0394709306" },
+          { "type": "ISBN_13", "identifier": "9780394709307" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 878,
+        "printType": "BOOK",
+        "categories": ["fiction"],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ttI9DDdL7psC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ttI9DDdL7psC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ttI9DDdL7psC&dq=subject:fiction&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=ttI9DDdL7psC&dq=subject:fiction&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Complete_Grimm_s_Fairy_Tales.html?hl=&id=ttI9DDdL7psC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ttI9DDdL7psC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

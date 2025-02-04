@@ -1,0 +1,2157 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "NkkBDAAAQBAJ",
+      "etag": "wdHKszBTnTI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NkkBDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hellsing",
+        "authors": ["Kohta Hirano"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2003",
+        "description": "Chronicles the exploits of the secret Hellsing Organization, formed by the Hellsing family to protect England and the Protestant church from vampires and other monsters, and its top operative, the vampire Alucard.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781593070564" },
+          { "type": "ISBN_10", "identifier": "159307056X" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 210,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "6ac2326c69d0521c_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NkkBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NkkBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=NkkBDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=NkkBDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hellsing.html?hl=&id=NkkBDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Hellsing-sample-pdf.acsm?id=NkkBDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NkkBDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yOZktwAACAAJ",
+      "etag": "yYKJkU1NfkY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yOZktwAACAAJ",
+      "volumeInfo": {
+        "title": "Pokémon Adventures",
+        "subtitle": "Gold & silver",
+        "authors": ["Hidenori Kusaka", "Gerard Jones", "Kaori Inoue"],
+        "publishedDate": "2011",
+        "description": "The Pokémon Gym Leader Exhibition matches have begun. Meanwhile, the Masked Man is plotting to invade the stadium with Team Rocket. The powers of good and evil are about to clash. Will the trainers be able to join forces, or will Team Rocket finally have their victory?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1448768373" },
+          { "type": "ISBN_13", "identifier": "9781448768370" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=yOZktwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=yOZktwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pok%C3%A9mon_Adventures.html?hl=&id=yOZktwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=yOZktwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YcBjPQAACAAJ",
+      "etag": "2fvKttGp3bU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YcBjPQAACAAJ",
+      "volumeInfo": {
+        "title": "Dragon Ball",
+        "authors": ["Akira Toriyama"],
+        "publisher": "Gollancz",
+        "publishedDate": "2006",
+        "description": "Manga is a worldwide cult phenomenon.Part of our launch of Shonen Jump's Manga line under the Gollancz imprint.Sales of Dragon Ball worldwide more than 85 million copies.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "057507762X" },
+          { "type": "ISBN_13", "identifier": "9780575077621" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YcBjPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YcBjPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=YcBjPQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=YcBjPQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dragon_Ball.html?hl=&id=YcBjPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=YcBjPQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1RdgEAAAQBAJ",
+      "etag": "tEZnmK9lXNY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1RdgEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Shuna's Journey",
+        "authors": ["Hayao Miyazaki"],
+        "publisher": "First Second Books",
+        "publishedDate": "2022-11",
+        "description": "From legendary animator Hayao Miyazaki comes Shuna's Journey, a new manga classic about a prince on a quest for a golden grain that would save his land, never before published in English! Shuna, the prince of a poor land, watches in despair as his people work themselves to death harvesting the little grain that grows there. And so, when a traveler presents him with a sample of seeds from a mysterious western land, he sets out to find the source of the golden grain, dreaming of a better life for his subjects. It is not long before he meets a proud girl named Thea. After freeing her from captivity, he is pursued by her enemies, and while Thea escapes north, Shuna continues toward the west, finally reaching the Land of the God-Folk. Will Shuna ever see Thea again? And will he make it back home from his quest for the golden grain?",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781250846525" },
+          { "type": "ISBN_10", "identifier": "1250846528" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 4.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1RdgEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1RdgEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=1RdgEAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=1RdgEAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shuna_s_Journey.html?hl=&id=1RdgEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=1RdgEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mM5h90mXKsUC",
+      "etag": "0bL8lHn2OK4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mM5h90mXKsUC",
+      "volumeInfo": {
+        "title": "The Ring",
+        "authors": ["Misao Inagaki", "Hiroshi Takahashi", "Koji Suzuki"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2003",
+        "description": "\"The Ring,\" a Japanese multimedia frenzy based on the bestselling horror novels by Koji Suzuki, has already made its way to America in both a Western adaptation of the film, and an equally popular dubbed Japanese version of the film.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1593070543" },
+          { "type": "ISBN_13", "identifier": "9781593070540" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 316,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mM5h90mXKsUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mM5h90mXKsUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=mM5h90mXKsUC&dq=subject:manga&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=mM5h90mXKsUC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Ring.html?hl=&id=mM5h90mXKsUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=mM5h90mXKsUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2m9EWsW2W5gC",
+      "etag": "xVJEtwalgSA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2m9EWsW2W5gC",
+      "volumeInfo": {
+        "title": "Dragon Ball Z",
+        "authors": ["Akira Toriyama"],
+        "publisher": "Viz Media",
+        "publishedDate": "2002",
+        "description": "\"This book reads from right to left\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "159116043X" },
+          { "type": "ISBN_13", "identifier": "9781591160434" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 196,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2m9EWsW2W5gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2m9EWsW2W5gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=2m9EWsW2W5gC&dq=subject:manga&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=2m9EWsW2W5gC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dragon_Ball_Z.html?hl=&id=2m9EWsW2W5gC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=2m9EWsW2W5gC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bIrlcQAACAAJ",
+      "etag": "AjvaHfGWdjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bIrlcQAACAAJ",
+      "volumeInfo": {
+        "title": "Dragon Ball Z.",
+        "subtitle": "The Room of Spirit and Time. The Cell game. Gohan vs. Cell. Volume 16. Volume 17. Volume 18",
+        "authors": ["Akira Toriyama"],
+        "publishedDate": "2010",
+        "description": "Collects volumes 16-18 of the Dragon Ball Z saga.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0329743635" },
+          { "type": "ISBN_13", "identifier": "9780329743635" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 532,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=bIrlcQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=bIrlcQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dragon_Ball_Z.html?hl=&id=bIrlcQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=bIrlcQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "t5kBDAAAQBAJ",
+      "etag": "mfSk1+iRTd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/t5kBDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Blade of the Immortal",
+        "authors": ["Hiroaki Samura"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2012",
+        "description": "Manji, a ronin warrior of feudal Japan, has been cursed with immortality and to rid his eternal suffering and lift the curse, he must slay one thousand enemies, and his quest begins with a young girl who seeks revenge on her parents' killers.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781595828835" },
+          { "type": "ISBN_10", "identifier": "1595828834" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 232,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "491e73e0993df379_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=t5kBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=t5kBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=t5kBDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=t5kBDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blade_of_the_Immortal.html?hl=&id=t5kBDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Blade_of_the_Immortal-sample-pdf.acsm?id=t5kBDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=t5kBDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IAGzOwAACAAJ",
+      "etag": "f0qdry62nBI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IAGzOwAACAAJ",
+      "volumeInfo": {
+        "title": "The Girl who Leapt Through Time",
+        "authors": ["Ranmaru Kotone", "Yoshiyuki Sadamoto"],
+        "publishedDate": "2009",
+        "description": "The manga adaptation of the acclaimed anime film! Makoto Konno is having one of those days. While performing an errand for her mother, Makoto loses the brakes on her bike and barrels headlong down the street into an oncoming train. This would have been the capper for a horrible day, but for some reason something strange has happened. Time has suddenly stopped and moved her backward! With every successful leap Makoto somehow alters the fate of those around her and discovers the most wonderful secret in her young adult life. --Publisher's description.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1604961058" },
+          { "type": "ISBN_13", "identifier": "9781604961058" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IAGzOwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IAGzOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=IAGzOwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=IAGzOwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Girl_who_Leapt_Through_Time.html?hl=&id=IAGzOwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=IAGzOwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vHXOJeBAr6cC",
+      "etag": "DHfey/nTF1E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vHXOJeBAr6cC",
+      "volumeInfo": {
+        "title": "Japanese in MangaLand",
+        "subtitle": "Learning the Basics",
+        "authors": ["Marc Bernabe"],
+        "publisher": "Japan Publications Trading",
+        "publishedDate": "2004",
+        "description": "Japanese In Mangaland is a Japan Publications publication.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "4889961151" },
+          { "type": "ISBN_13", "identifier": "9784889961157" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": ["Chinese characters"],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vHXOJeBAr6cC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vHXOJeBAr6cC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=vHXOJeBAr6cC&dq=subject:manga&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=vHXOJeBAr6cC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Japanese_in_MangaLand.html?hl=&id=vHXOJeBAr6cC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=vHXOJeBAr6cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rTAsAAAACAAJ",
+      "etag": "Etwd5p1ND6Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rTAsAAAACAAJ",
+      "volumeInfo": {
+        "title": "For Whom the Bell Tolls",
+        "authors": ["Eiichiro Oda", "Naoko Amemiya"],
+        "publisher": "Orion",
+        "publishedDate": "2006",
+        "description": "Manga comes to the UK mainstream for the first time.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0575080213" },
+          { "type": "ISBN_13", "identifier": "9780575080218" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 189,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rTAsAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rTAsAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=rTAsAAAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=rTAsAAAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/For_Whom_the_Bell_Tolls.html?hl=&id=rTAsAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=rTAsAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L_YDywAACAAJ",
+      "etag": "NFtRtSC6y+8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L_YDywAACAAJ",
+      "volumeInfo": {
+        "title": "Rohan at the Louvre",
+        "authors": ["Hirohiko Araki"],
+        "publisher": "Louvre Collection",
+        "publishedDate": "2012",
+        "description": "Rohan, a young mangaka (Japanese manga artist), meets a beautiful mysterious young woman with a dramatic story. Seeing him draw, she tells him of a cursed 200-year-old painting that used the blackest ink ever known, from a 1000-year-old tree that the painter had brought down. The painting was saved by the curator of the Louvre - Rohan forgets this story until, 10 years later, he tries to locate it on a visit to Paris. Little does he know how violent the curse really is. Fans of manga will appreciate the innovative storyline and the energetic, psychedelic visuals within.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1561636150" },
+          { "type": "ISBN_13", "identifier": "9781561636150" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L_YDywAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L_YDywAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=L_YDywAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=L_YDywAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rohan_at_the_Louvre.html?hl=&id=L_YDywAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=L_YDywAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XiZ-SXfp50cC",
+      "etag": "7Ib0eZvtvWw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XiZ-SXfp50cC",
+      "volumeInfo": {
+        "title": "マンガ",
+        "authors": ["Masanao Amano", "Julius Wiedemann"],
+        "publisher": "Taschen",
+        "publishedDate": "2004",
+        "description": "Illustrates the work of 150 manga artists.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "3822825913" },
+          { "type": "ISBN_13", "identifier": "9783822825914" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 616,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XiZ-SXfp50cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XiZ-SXfp50cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.fr/books?id=XiZ-SXfp50cC&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=XiZ-SXfp50cC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%E3%83%9E%E3%83%B3%E3%82%AC.html?hl=&id=XiZ-SXfp50cC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/%E3%83%9E%E3%83%B3%E3%82%AC-sample-pdf.acsm?id=XiZ-SXfp50cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XiZ-SXfp50cC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GFlHPwAACAAJ",
+      "etag": "V8bGkflG55w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GFlHPwAACAAJ",
+      "volumeInfo": {
+        "title": "Parasyte",
+        "authors": ["Hitoshi Iwaaki"],
+        "publisher": "Del Rey",
+        "publishedDate": "2008",
+        "description": "SIXTH SENSE Shinichi, an ordinary high school student, is the only one who knows that aliens have invaded Earth and are controlling the minds of thousands of unwitting victims. It’s a secret too dangerous to share . . . but too big to cover up. Then Shinichi meets Kana, a brave young girl with a strange gift that may allow her to detect the alien parasites. Has Shinichi at last found an ally to combat these creatures?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0345498267" },
+          { "type": "ISBN_13", "identifier": "9780345498267" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GFlHPwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GFlHPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=GFlHPwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=GFlHPwAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Parasyte.html?hl=&id=GFlHPwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=GFlHPwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j3wEDAAAQBAJ",
+      "etag": "wedN+KKSmb8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j3wEDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Appleseed",
+        "subtitle": "Prometheus Unbound",
+        "authors": ["Shirow Masamune"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2008",
+        "description": "When nomad solider Duenan Knute and her cyborg partner Briareos are brought to Olympus, an urban utopia and centerpiece for the reconstruction of civilization following World War III, they join the Olympus police and discover that under the peaceful facade hides a dark secret.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781593076924" },
+          { "type": "ISBN_10", "identifier": "1593076924" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 196,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "1b362345560e345e_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j3wEDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j3wEDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=j3wEDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=j3wEDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Appleseed.html?hl=&id=j3wEDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Appleseed-sample-pdf.acsm?id=j3wEDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j3wEDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "diJ4EAAAQBAJ",
+      "etag": "se1HwMpoenE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/diJ4EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Massively Multiplayer World of Ghosts, Volume 1",
+        "subtitle": "The King of Cheating",
+        "authors": ["Oscar Fong", "Frederick L. Jones", "Saturday AM"],
+        "publisher": "MMWOG / Saturday AM TANKS",
+        "publishedDate": "2022-09-06",
+        "description": "In The Massively Multiplayer World of Ghosts, Volume 1, lackluster teenager Nilay Rao receives a device from his long-lost mother that launches him into a video game world where he must battle Ghosts to unlock clues about his mother’s existence.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780760376881" },
+          { "type": "ISBN_10", "identifier": "0760376883" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 226,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=diJ4EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=diJ4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=diJ4EAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=diJ4EAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Massively_Multiplayer_World_of_Ghost.html?hl=&id=diJ4EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Massively_Multiplayer_World_of_Ghost-sample-pdf.acsm?id=diJ4EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=diJ4EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cqcBDAAAQBAJ",
+      "etag": "N5P3lq+tdnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cqcBDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Trigun Omnibus",
+        "authors": ["Yasuhiro Nightow"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2013",
+        "description": "On the desert planet of Gunsmoke, Vash the Stampede is on the run from a group of bounty hunters intent on collecting the price on his head.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781616552466" },
+          { "type": "ISBN_10", "identifier": "1616552468" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 696,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "40cf5ace27386e8a_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cqcBDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cqcBDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=cqcBDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=cqcBDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trigun_Omnibus.html?hl=&id=cqcBDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Trigun_Omnibus-sample-pdf.acsm?id=cqcBDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cqcBDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d5ABDAAAQBAJ",
+      "etag": "MzCFZwBzJKo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d5ABDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Blood+ 5",
+        "authors": ["Asuka Katsura"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2009",
+        "description": "Saya Otonashi, an adopted amnesic high school student, discovers that she is the only one with the power to fight chiropterans, the blood-drinking monsters that threaten humankind.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781595822413" },
+          { "type": "ISBN_10", "identifier": "1595822410" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 200,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "35547ed1327230a1_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d5ABDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d5ABDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=d5ABDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=d5ABDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blood+_5.html?hl=&id=d5ABDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Blood+_5-sample-pdf.acsm?id=d5ABDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d5ABDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QPDntAEACAAJ",
+      "etag": "BdWo0g0FjDA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QPDntAEACAAJ",
+      "volumeInfo": {
+        "title": "The Jiro Kuwata Batmanga",
+        "subtitle": "",
+        "authors": ["Jiro Kuwata"],
+        "publisher": "Dc Comics",
+        "publishedDate": "2015-07-14",
+        "description": "In this collection of Japanese manga styled after the classic 1960s television series, the dynamic duo of Batman and Robin face off against such villains as Dr. Faceless, Lord Death Man, and the Human Ball.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1401255523" },
+          { "type": "ISBN_13", "identifier": "9781401255527" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 328,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QPDntAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QPDntAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=QPDntAEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=QPDntAEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Jiro_Kuwata_Batmanga.html?hl=&id=QPDntAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=QPDntAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dSMCDAAAQBAJ",
+      "etag": "S5xD4nf+2fc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dSMCDAAAQBAJ",
+      "volumeInfo": {
+        "title": "It's an Endless World!",
+        "authors": ["Hiroki Endo"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2009",
+        "description": "With the world reeling from the after effects of a brutal, widespread virus, civilization is torn between the laws and ways of the old world and a new order where cybernetic implants are commonplace and might means right. Elijah and his comrades-in-arms attempt to cross the Andes Mountains, with Propater's gruesome Aeon soldiers and armored troops hot on their heels.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781595822963" },
+          { "type": "ISBN_10", "identifier": "1595822968" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 224,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": true,
+          "imageBubbleVersion": "3a874d24087573fc_A"
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dSMCDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dSMCDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=dSMCDAAAQBAJ&printsec=frontcover&dq=subject:manga&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=dSMCDAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/It_s_an_Endless_World.html?hl=&id=dSMCDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/It_s_an_Endless_World-sample-pdf.acsm?id=dSMCDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dSMCDAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SNHBngEACAAJ",
+      "etag": "6C2nU67ia2c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SNHBngEACAAJ",
+      "volumeInfo": {
+        "title": "Bakuman",
+        "subtitle": "Dreams and reality. 1",
+        "authors": ["Tsugumi Ohba"],
+        "publisher": "Viz",
+        "publishedDate": "2010-08-03",
+        "description": "After Akito begs him to illustrate his manga, Moritaka considers the offer but worries about the difficulty of the manga-publishing world.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1421535130" },
+          { "type": "ISBN_13", "identifier": "9781421535135" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SNHBngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SNHBngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=SNHBngEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=SNHBngEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bakuman.html?hl=&id=SNHBngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=SNHBngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B6VZAAAAYAAJ",
+      "etag": "NgNTz7PVp/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B6VZAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Xxxholic",
+        "authors": ["CLAMP (Mangaka group)"],
+        "publishedDate": "2007",
+        "description": "Kimihiro Watanuki is desperate to escape the spirits and ghosts that haunt him, so he turns to Yuko Ichihara, who is widely rumored to be the time-space witch. When Kimihiro begins working for Yuko to pay for her services, he also begins his journey into the worlds of the occult. Unusual customers from mysterious lands, an old rival named Domeki who is an exorcist, and a beautiful young woman named Himawari-chan provide more danger, adventure, and excitement for Kimihiro than he ever thought he was going to get!",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "PSU:000066219613" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 596,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B6VZAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B6VZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=B6VZAAAAYAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=B6VZAAAAYAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Xxxholic.html?hl=&id=B6VZAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=B6VZAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1dr2zgEACAAJ",
+      "etag": "62kPQ9bgrcY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1dr2zgEACAAJ",
+      "volumeInfo": {
+        "title": "Overlord, Vol. 15 (manga)",
+        "authors": ["Kugane Maruyama", "Satoshi Oshio"],
+        "publisher": "Yen Press",
+        "publishedDate": "2022-08-23",
+        "description": "When Ainz pays a visit to the Giant of the East, negotiations quickly break down into a one-on-one duel. Meanwhile, the malaise of uncertainty and fear pervading Carne Village suddenly becomes a galeforce wind as monsters launch an all-out assault on its walls. Can Enri and Nfirea protect what they love? And what plans does Nazarick have for the two of them and their village?!",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1975344855" },
+          { "type": "ISBN_13", "identifier": "9781975344856" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 178,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1dr2zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1dr2zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=1dr2zgEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=1dr2zgEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Overlord_Vol_15_manga.html?hl=&id=1dr2zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=1dr2zgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gKVCtcjegi8C",
+      "etag": "snEU2luCGd0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gKVCtcjegi8C",
+      "volumeInfo": {
+        "title": "Trigun",
+        "authors": ["Yasuhiro Nightow"],
+        "publisher": "Dark Horse Manga",
+        "publishedDate": "2005-03",
+        "description": "Presents the adventures of Vash the Stampede, also known as the Humanoid Typhoon.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1593071051" },
+          { "type": "ISBN_13", "identifier": "9781593071059" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": ["Bounty hunters"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gKVCtcjegi8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gKVCtcjegi8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=gKVCtcjegi8C&dq=subject:manga&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=gKVCtcjegi8C&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trigun.html?hl=&id=gKVCtcjegi8C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=gKVCtcjegi8C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nXZaMQAACAAJ",
+      "etag": "3w6XgfgVc6I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nXZaMQAACAAJ",
+      "volumeInfo": {
+        "title": "Manga design",
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "OCLC:932523992" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 574,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "de",
+        "previewLink": "http://books.google.fr/books?id=nXZaMQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=nXZaMQAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manga_design.html?hl=&id=nXZaMQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=nXZaMQAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-GJzEAAAQBAJ",
+      "etag": "JlLtlYS84iE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-GJzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Cursed Princess Club Volume One",
+        "authors": ["LambCat"],
+        "publisher": "WEBTOON Unscrolled",
+        "publishedDate": "2023-01-03",
+        "description": "Just because you’re cursed doesn’t mean you’re not special. Gwendolyn, the youngest of the King’s three daughters, is living proof that princesses don’t always have it all. She isn’t like a typical fairy-tale princess, or other princesses in the Pastel Kingdom. Gwendolyn, with her big heart and love of baking, isn’t particularly attractive. Unlike her sisters who have woodland creatures do their hair and makeup, or have flowers blossom wherever they sleep, Gwendolyn is a bit...different. So when her father proposes marriage for her and her sisters to make an alliance with the Plaid Kingdom, it breaks Gwendolyn’s heart to hear that Prince Fredrick thinks she’s “really ugly.” Overwhelmed and ashamed, she runs away into the forest and encounters the twisted world of the Cursed Princess Club, where her life will never be the same. The Cursed Princess Club are a ragtag band of outcasts, misfits and cursed princesses who have created an incredible friendship circle. It is among these friends where Gwendolyn learns to embrace her uniqueness and find her people.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781990259791" },
+          { "type": "ISBN_10", "identifier": "1990259790" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Young Adult Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-GJzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-GJzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=-GJzEAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=-GJzEAAAQBAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cursed_Princess_Club_Volume_One.html?hl=&id=-GJzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=-GJzEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o_q7xbH2yWUC",
+      "etag": "39eOJFFWdDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o_q7xbH2yWUC",
+      "volumeInfo": {
+        "title": "Trigun",
+        "subtitle": "Deep Space Planet Future Gun Action!!",
+        "authors": ["Yasuhiro Nightow"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2003",
+        "description": "In keeping with the original Japanese format, this book reads from back to front and from right to left.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1593070527" },
+          { "type": "ISBN_13", "identifier": "9781593070526" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": ["Bounty hunters"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o_q7xbH2yWUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o_q7xbH2yWUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=o_q7xbH2yWUC&dq=subject:manga&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=o_q7xbH2yWUC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Trigun.html?hl=&id=o_q7xbH2yWUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=o_q7xbH2yWUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sDSNngEACAAJ",
+      "etag": "Wmg1bVd0DPM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sDSNngEACAAJ",
+      "volumeInfo": {
+        "title": "Soul Eater",
+        "authors": ["Atsushi Ohkubo"],
+        "publisher": "Yen Press",
+        "publishedDate": "2009-10-27",
+        "description": "First published: Japan: Square Enix Co. Ltd., 2004.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0759530017" },
+          { "type": "ISBN_13", "identifier": "9780759530010" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sDSNngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sDSNngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=sDSNngEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=sDSNngEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Soul_Eater.html?hl=&id=sDSNngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=sDSNngEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M5NVzQEACAAJ",
+      "etag": "F/WjdeFLUZ0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M5NVzQEACAAJ",
+      "volumeInfo": {
+        "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? on the Side: Sword Oratoria, Vol. 12 (Manga)",
+        "authors": ["Fujino Omori"],
+        "publisher": "Is It Wrong to Try to Pick Up",
+        "publishedDate": "2020-08-18",
+        "description": "Of all the people Lefiya could end up lost in a forest with, it had to be her sworn rival, Bell Cranell! Together they must find their way back to the Loki Familia camp, however it seems the Evils that have plagued them on other floors of the Dungeon follow them even here, on the \"safe\" Floor Eighteen!",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1975313070" },
+          { "type": "ISBN_13", "identifier": "9781975313074" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 192,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M5NVzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M5NVzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=M5NVzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=M5NVzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Is_It_Wrong_to_Try_to_Pick_Up_Girls_in_a.html?hl=&id=M5NVzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=M5NVzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "phk5swEACAAJ",
+      "etag": "JjAV/75w1/c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/phk5swEACAAJ",
+      "volumeInfo": {
+        "title": "Tokyo Ghoul: Re, Volume 2",
+        "authors": ["Sui Ishida"],
+        "publisher": "Tokyo Ghoul: Re",
+        "publishedDate": "2017-12-19",
+        "description": "\"First published in Japan in 2014 by Shueisha Inc., Tokyo\"--Colophon.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0606408657" },
+          { "type": "ISBN_13", "identifier": "9780606408653" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=phk5swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=phk5swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=phk5swEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=phk5swEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tokyo_Ghoul_Re_Volume_2.html?hl=&id=phk5swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=phk5swEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mfGzAAAACAAJ",
+      "etag": "GfH9sjPjrws",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mfGzAAAACAAJ",
+      "volumeInfo": {
+        "title": "Air Gear",
+        "authors": ["Oh! Great"],
+        "publisher": "Tanoshimi",
+        "publishedDate": "2006",
+        "description": "SERIES OVERVIEW: Ikki Minami is a junior high school student with a dream - to become the best Air Track player in town. It won't be easy, as he faces a lot of competition from boys and girls alike. What is Air Track? Just the latest craze that involves taking a two-wheel inline skate and adding a motor, new suspension and a shock absorber to enable the wearer to execute the wildest, wackiest, most aggressive moves you can imagine. Ikki has a lot to learn as he fights his way to the top in this wild, sexy manga. **** Itsuki Minami needs no introduction - everybody's heard of the 'Babyface' of the East-side. He's the toughest kid at Higashi Junior High School, easy on the eyes but dangerously tough when he needs to be. Plus Itsuki lives with the mysterious and sexy Noyamano sisters, so life's never dull. But it gets downright dangerous when Itsuki leads his school to victory over some vindictive Westside punks with gangster connections. Now he stands to lose his school, his friends, and everything he cares about. Then the Noyamano girls give him an amazing gift, one that just might help him save his school: a pair of Air Tracks. These high-tech skates are more than just supercool. They'll enable Itsuki to execute the wildest, most aggressive moves ever seen - and then bring him to a thrilling and terrifying new world.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0099504898" },
+          { "type": "ISBN_13", "identifier": "9780099504894" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mfGzAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mfGzAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=mfGzAAAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=mfGzAAAACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Air_Gear.html?hl=&id=mfGzAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=mfGzAAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EaJRxwEACAAJ",
+      "etag": "AK9/1++02mk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EaJRxwEACAAJ",
+      "volumeInfo": {
+        "title": "Shino Can't Say Her Name",
+        "authors": ["Shuzo Oshimi"],
+        "publisher": "Denpa Books",
+        "publishedDate": "2021-01-26",
+        "description": "Shino Oshima is so shy she cannot even say her name out loud.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1634429680" },
+          { "type": "ISBN_13", "identifier": "9781634429689" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EaJRxwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EaJRxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=EaJRxwEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=EaJRxwEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shino_Can_t_Say_Her_Name.html?hl=&id=EaJRxwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=EaJRxwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QeDOzQEACAAJ",
+      "etag": "hMDLOIhlQ8o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QeDOzQEACAAJ",
+      "volumeInfo": {
+        "title": "Your Name",
+        "subtitle": "02",
+        "authors": ["Makoto Shinkai"],
+        "publishedDate": "2017",
+        "description": "\"Fates intentions are never clear ... After months of swapping bodies with Mitsuha, Taki remains suddenly fixed in his own. Unable to shake the lingering impressions of a remote town he's never been to and a girl he's never seen, Taki sets off to find Mitsuha's village in the mountains. With only a few landscape sketched drawn from memory to guide his search, Taki's goal seems impossible. However, his journey leads him to a reality more impossible than anything he could have imagined ...\"--Page 4 of cover.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1544407009" },
+          { "type": "ISBN_13", "identifier": "9781544407005" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": ["Dreams"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=QeDOzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=QeDOzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Your_Name.html?hl=&id=QeDOzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=QeDOzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WWqkzQEACAAJ",
+      "etag": "6d4TfkqOIBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WWqkzQEACAAJ",
+      "volumeInfo": {
+        "title": "Sword Art Online: Project Alicization, Vol. 1 (manga)",
+        "authors": ["Reki Kawahara"],
+        "publisher": "Yen Press",
+        "publishedDate": "2020-11-03",
+        "description": "Deep in an unfamiliar forest, Kirito awakens with sensations far tooconvincing for a virtual world... With memories of a life he doesn't rememberliving. A boy and a girl...and a name that sticks in his mind: Alice.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "197531817X" },
+          { "type": "ISBN_13", "identifier": "9781975318178" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WWqkzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WWqkzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=WWqkzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=WWqkzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sword_Art_Online_Project_Alicization_Vol.html?hl=&id=WWqkzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=WWqkzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YfyhzQEACAAJ",
+      "etag": "nyYWPcngNSk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YfyhzQEACAAJ",
+      "volumeInfo": {
+        "title": "Konosuba: God's Blessing on This Wonderful World!, Vol. 11 (manga)",
+        "authors": ["Natsume Akatsuki"],
+        "publisher": "Yen Press",
+        "publishedDate": "2020-12",
+        "description": "Kazuma and Airis have switched bodies! Things couldn't get any worse...orso one might think, but the two of them are actually enjoying their new lives!But can Kazuma be trusted to act appropriately in such a delicate situation?...Probably not!",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1975319117" },
+          { "type": "ISBN_13", "identifier": "9781975319113" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YfyhzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YfyhzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=YfyhzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=YfyhzQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Konosuba_God_s_Blessing_on_This_Wonderfu.html?hl=&id=YfyhzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=YfyhzQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3mlQAAAAMAAJ",
+      "etag": "ZBeU3Aso060",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3mlQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Yotsuba &!.",
+        "authors": ["Kiyohiko Azuma"],
+        "publishedDate": "2005",
+        "description": "Yotsuba is trying her hand a drawing, but a few ruthless art critics could quash her dreams.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015069208612" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 212,
+        "printType": "BOOK",
+       "categories": ["manga"],
+        "averageRating": 4.5,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3mlQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3mlQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=3mlQAAAAMAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=3mlQAAAAMAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Yotsuba.html?hl=&id=3mlQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=3mlQAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TwqozQEACAAJ",
+      "etag": "BEEDN2Cjolw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TwqozQEACAAJ",
+      "volumeInfo": {
+        "title": "Toilet-Bound Hanako-kun, Vol. 6",
+        "authors": ["AidaIro"],
+        "publisher": "Yen Press",
+        "publishedDate": "2020-11-03",
+        "description": "Through the workings of the School Mystery Clock Keepers, Kamome Academy's entire student body is covered in wrinkles!? To restore peace to the school, Hanako-kun teams up with a certain someone. Just when they thought the case was headed to its conclusion, the secret of Hanako-kun's assistant Nene is brought to light! What could it possibly be!?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1975311388" },
+          { "type": "ISBN_13", "identifier": "9781975311384" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TwqozQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TwqozQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=TwqozQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=TwqozQEACAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Toilet_Bound_Hanako_kun_Vol_6.html?hl=&id=TwqozQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=TwqozQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W4EqAAAAYAAJ",
+      "etag": "WpUyqG1qBzM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W4EqAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Akira",
+        "authors": ["Katsuhiro Ōtomo"],
+        "publisher": "Dark Horse Manga",
+        "publishedDate": "2000",
+        "description": "In the year 2030, the dazzling Neo-Tokyo has risen from Tokyo's ashes, but the power that once levelled Tokyo and sent the world to the brink of Armageddon -- a being of monstrous telekinetic power known only as Akira -- lives on in absolute-zero frozen stasis far below the city. Those who stand guard will stop at nothing to keep Akira from awakening, but Tetsuo, an angry young man with immense -- and rapidly growing -- psychic abilities becomes obsessed with confronting Akira face-to-face. In time, Akira will surely awaken, and Tetsuo may be the only being potentially capable of controlling him, but Tetsuo is becoming increasingly unstable and violent, and a group including his former friend Kaneda sets out to destroy Tetsuo before he can release Akira -- or before Tetsuo himself becomes so powerful that no force on Earth can stop him!",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UVA:X030106710" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": ["Akira"],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W4EqAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W4EqAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=W4EqAAAAYAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=W4EqAAAAYAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Akira.html?hl=&id=W4EqAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=W4EqAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wss3AQAAIAAJ",
+      "etag": "glmyKsvRW4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wss3AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Blade of the Immortal: Dreamsong",
+        "authors": ["Hiroaki Samura"],
+        "publisher": "Dark Horse Manga",
+        "publishedDate": "1997",
+        "description": "Kagehisa Anotsu asks the woman who loves him, the beautiful geisha Makie Otono-Tachibana, to kill the immortal Manji before Manji can kill him, thus pitting the deadly swordswoman against the legendary ronin.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCSD:31822033269697" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wss3AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wss3AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Wss3AQAAIAAJ&dq=subject:manga&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Wss3AQAAIAAJ&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blade_of_the_Immortal_Dreamsong.html?hl=&id=Wss3AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wss3AQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dJsoJnD7XHQC",
+      "etag": "E+3HolVNSTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dJsoJnD7XHQC",
+      "volumeInfo": {
+        "title": "Ranma 1/2",
+        "authors": ["Rumiko Takahashi"],
+        "publisher": "Viz Media",
+        "publishedDate": "1999",
+        "description": "Pity poor Genma Saotome, who once took treats from baby son Ranma with impunity, but now gets pummeled instead. Will the dreaded Cradle from Hell technique teach the boy respect?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1569310858" },
+          { "type": "ISBN_13", "identifier": "9781569310854" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": ["Comic books, strips, etc"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dJsoJnD7XHQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dJsoJnD7XHQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=dJsoJnD7XHQC&dq=subject:manga&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=dJsoJnD7XHQC&dq=subject:manga&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ranma_1_2.html?hl=&id=dJsoJnD7XHQC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=dJsoJnD7XHQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

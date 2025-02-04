@@ -1,0 +1,449 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 9,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "I3ViQgAACAAJ",
+      "etag": "WI8P+sad97w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I3ViQgAACAAJ",
+      "volumeInfo": {
+        "title": "Pouvoirs de l'horreur",
+        "subtitle": "essai sur l'abjection",
+        "authors": ["Julia Kristeva"],
+        "publisher": "Seuil",
+        "publishedDate": "1983",
+        "description": "Pouvoirs de l'horreur Pourquoi l'abjection ? Pourquoi y a-t-il ce \" quelque chose \" qui n'est ni sujet, ni objet, mais qui, sans cesse, revient, révulse, repousse, fascine ? Pourquoi de l'abject ? Ce n'est pas de la névrose. On n'entrevoit dans la phobie, la psychose. Il s'agit d'une explosion que Freud a touchée mais peut-être aussi évitée, et que la psychanalyse, si elle veut aller plus loin que sa simple répétition, devrait être de plus en plus pressée d'entendre. Car l'histoire et la société nous l'imposent. Dans l'horreur. Les rites, les religions, l'art ne feraient-ils rien d'autre que de conjurer l'abjection ? D'où l'étrange révélation de la littérature : Dostoïevski, Lautréamont, Proust, Artaud et, de façon sans doute hyper symptomatique, Céline. Le voici maintenant cet habitant des frontières, sans identité, sans désir ni lieu propres, errant, égaré, douleur et rire mélangés, rôdeur écœuré dans un monde immonde. C'est le sujet de l'abjection.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2020066033" },
+          { "type": "ISBN_13", "identifier": "9782020066037" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 247,
+        "printType": "BOOK",
+        "categories": ["horreur"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=I3ViQgAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=I3ViQgAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pouvoirs_de_l_horreur.html?hl=&id=I3ViQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=I3ViQgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4fqVCwAAQBAJ",
+      "etag": "EW6ox4s/5wM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4fqVCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tim Burton",
+        "subtitle": "horreurs enfantines",
+        "authors": [
+          "Mélanie Boissonneau",
+          "Bérénice Bonhomme",
+          "Adrienne Boutang"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2016",
+        "description": "« Cet ouvrage rassemble des articles portant sur les relations entre enfance et horreur dans l'œuvre de Tim Burton. Issu d'un colloque, cet ouvrage rassemble des réflexions sur les relations entre enfance et horreur dans l'œuvre de Tim Burton. Il vise à renouveler, sous cet intitulé paradoxal, les études déjà parues sur ce cinéaste charismatique, en proposant trois grandes lignes de force (Tim Burton et les arts, Autour des origines..., L'image de l'Artiste). »--",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782343084244" },
+          { "type": "ISBN_10", "identifier": "2343084246" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Children in motion pictures"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4fqVCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4fqVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=4fqVCwAAQBAJ&printsec=frontcover&dq=subject:horreur&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=4fqVCwAAQBAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tim_Burton.html?hl=&id=4fqVCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Tim_Burton-sample-pdf.acsm?id=4fqVCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4fqVCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "acMSjwEACAAJ",
+      "etag": "Sw5p7jm6fC4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/acMSjwEACAAJ",
+      "volumeInfo": {
+        "title": "Visages de l'effroi",
+        "subtitle": "violence et fantastique de David à Delacroix",
+        "authors": ["Musée de la vie romantique (Paris)."],
+        "publisher": "Lienart",
+        "publishedDate": "2015",
+        "description": "Visages de l'effroi présente, à travers une large sélection d'oeuvres de David, Girodet, Géricault, Ingres ou Delacroix, les origines et les développements des formes françaises du romantisme fantastique. Trouvant dans les débordements des passions les sujets d'une nouvelle esthétique, ces artistes explorent la face obscure de l'âme humaine alors que le rêve et l'irrationnel émergent des sommeils de la raison et de l'esprit des lumières. Forgée par la Terreur, les bouleversements politiques et l'échec de l'épopée impériale aussi bien que par l'émergence de la grande presse qui diffuse largement les faits-divers sanglants, cette part sombre de l'art du XIXe siècle offre une vision fascinante de l'imaginaire romantique.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "235906147X" },
+          { "type": "ISBN_13", "identifier": "9782359061475" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=acMSjwEACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=acMSjwEACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Visages_de_l_effroi.html?hl=&id=acMSjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=acMSjwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8YVcAAAAMAAJ",
+      "etag": "+zADpN437Wg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8YVcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Grand Guignol",
+        "authors": ["François Rivière", "Gabrielle Wittkop-Ménardeau"],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015013354603" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": ["horreur"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8YVcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8YVcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=8YVcAAAAMAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=8YVcAAAAMAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Grand_Guignol.html?hl=&id=8YVcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=8YVcAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "J-WNqgJb3-oC",
+      "etag": "GLcgqJsVZJ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/J-WNqgJb3-oC",
+      "volumeInfo": {
+        "title": "A Ghastly Shade of Green",
+        "authors": ["M. D. Spenser"],
+        "publishedDate": "1996",
+        "description": "When Jason's mother takes him and his brother to the Everglades, things begin to disappear, including their dog.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1576570460" },
+          { "type": "ISBN_13", "identifier": "9781576570463" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 132,
+        "printType": "BOOK",
+        "categories": ["horreur"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=J-WNqgJb3-oC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=J-WNqgJb3-oC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=J-WNqgJb3-oC&dq=subject:horreur&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=J-WNqgJb3-oC&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Ghastly_Shade_of_Green.html?hl=&id=J-WNqgJb3-oC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=J-WNqgJb3-oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z03cCwAAQBAJ",
+      "etag": "xo4NBETOBMU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z03cCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Les écritures de l'horreur en littératures africaines",
+        "authors": [
+          "Bidy Cyprien Bodo",
+          "Moussa Coulibaly",
+          "Bassidiki Kamagate"
+        ],
+        "publisher": "Editions L'Harmattan",
+        "publishedDate": "2016",
+        "description": "\"Dire, raconter, déclamer, jouer et conter l'horreur dans le texte africain, comment et pourquoi ? Ce livre analyse ainsi le mode opératoire du motif de l'horreur dans le discours romanesque, poétique, théâtral, oral (conte) africain. Il s'ensuit une polytonalité qui aide à saisir le motif horrifique dans sa multidimensionnalité littéraire et sa polysémie (valeurs et enjeux) à travers les analyses qui portent sur l'horreur de l'écriture et l'écriture de l'horreur dans le champ littéraire africain.\"--Résumé du site web de l'éditeur.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9782343081045" },
+          { "type": "ISBN_10", "identifier": "2343081042" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "categories": ["horreur"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z03cCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z03cCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=Z03cCwAAQBAJ&printsec=frontcover&dq=subject:horreur&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Z03cCwAAQBAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Les_%C3%A9critures_de_l_horreur_en_litt%C3%A9rat.html?hl=&id=Z03cCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Les_%C3%A9critures_de_l_horreur_en_litt%C3%A9rat-sample-pdf.acsm?id=Z03cCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z03cCwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KeGfjgEACAAJ",
+      "etag": "/LFFd8mdWio",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KeGfjgEACAAJ",
+      "volumeInfo": {
+        "title": "Histoire illustrée de l'horreur : anthologie d'images terrifiantes : littérature, peinture, cinéma, sculpture...",
+        "authors": ["Stephen Jones"],
+        "publishedDate": "2015-10-15",
+        "description": "Si les premières expressions artistiques de l'horreur plongent leurs racines dans les légendes et les contes populaires, c'est au xixe siècle, avec Dracula et Frankenstein, les créations de Bram Stoker et Mary Shelley, que ce genre est entré dans l'imaginaire collectif. Et depuis, elles ont fait des émules ! Les gravures anciennes, peintures, couvertures d'ouvrages, illustrations, magazines à sensation, affiches de cinéma, bandes dessinées, oeuvres numériques d'artistes contemporains qui constituent cet ouvrage nous offrent une galerie... horrifique quasiment exhaustive ! Vampires, loups-garous, zombies, fantômes, démons, tueurs en série, envahisseurs extraterrestres, etc. : tous les aspects du genre sont représentés, en dix chapitres thématiques. Une large sélection d'artistes, d'illustrateurs, d'écrivains et de réalisateurs sont présents dans cet ouvrage. Un livre de référence pour les collectionneurs et pour tous les amateurs du genre.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2842285719" },
+          { "type": "ISBN_13", "identifier": "9782842285715" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=KeGfjgEACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=KeGfjgEACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Histoire_illustr%C3%A9e_de_l_horreur_antholo.html?hl=&id=KeGfjgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=KeGfjgEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qpT9OAAACAAJ",
+      "etag": "/rcOWRQZMro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qpT9OAAACAAJ",
+      "volumeInfo": {
+        "title": "LE MANOIR DES HORREURS. Avec CD",
+        "authors": ["Yann Walcker", "Daniel Beretta"],
+        "publishedDate": "1999-10-02",
+        "description": "Des poèmes drôles, grinçants, terrifiants. Des musiques à donner la chair de poule, à trembler, à rire... Des illustrations splendides, surprenantes et inquiétantes. Et la voix d'un grand comédien. Pour tous ceux qui n'ont pas froid aux yeux !",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "2070522008" },
+          { "type": "ISBN_13", "identifier": "9782070522002" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 39,
+        "printType": "BOOK",
+        "categories": ["French poetry"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=qpT9OAAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=qpT9OAAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/LE_MANOIR_DES_HORREURS_Avec_CD.html?hl=&id=qpT9OAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=qpT9OAAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zpyxXwAACAAJ",
+      "etag": "E8h/ZojQUoc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zpyxXwAACAAJ",
+      "volumeInfo": {
+        "title": "Représenter l'horreur",
+        "authors": ["Richard Leydier"],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "OCLC:698482296" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "fr",
+        "previewLink": "http://books.google.fr/books?id=zpyxXwAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=zpyxXwAACAAJ&dq=subject:horreur&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Repr%C3%A9senter_l_horreur.html?hl=&id=zpyxXwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=zpyxXwAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

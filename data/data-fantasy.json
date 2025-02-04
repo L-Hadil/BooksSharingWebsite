@@ -1,0 +1,2232 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 191,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pa4LUt0FCB0C",
+      "etag": "khoB0KxL3Aw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pa4LUt0FCB0C",
+      "volumeInfo": {
+        "title": "The Fantastic Flying Books of Mr. Morris Lessmore",
+        "authors": ["William Joyce"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-06-19",
+        "description": "Morris Lessmore loves words, stories and books, and after a tornado carries him to another land, dreary and colorless, he finds a single book in color that leads him to an amazing library where, he learns, the books need him as much as he needs them.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781442457027" },
+          { "type": "ISBN_10", "identifier": "1442457023" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 75,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pa4LUt0FCB0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pa4LUt0FCB0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=pa4LUt0FCB0C&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=pa4LUt0FCB0C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Fantastic_Flying_Books_of_Mr_Morris.html?hl=&id=pa4LUt0FCB0C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=pa4LUt0FCB0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ogjljqn1R2kC",
+      "etag": "9AaW31SroVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ogjljqn1R2kC",
+      "volumeInfo": {
+        "title": "Peter Pan",
+        "authors": ["J. M. Barrie"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2001-10",
+        "description": "The adventures of Peter Pan, the boy who would not grow up.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780689830785" },
+          { "type": "ISBN_10", "identifier": "0689830785" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 131,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ogjljqn1R2kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ogjljqn1R2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ogjljqn1R2kC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=ogjljqn1R2kC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peter_Pan.html?hl=&id=ogjljqn1R2kC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=ogjljqn1R2kC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hRd7dJ-9G1IC",
+      "etag": "Mq/s53JaPjc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hRd7dJ-9G1IC",
+      "volumeInfo": {
+        "title": "The Wizard of Oz",
+        "authors": ["L. Frank Baum"],
+        "publisher": "Collector's Library",
+        "publishedDate": "2009",
+        "description": "After a cyclone transports her to the land of Oz, Dorothy must seek out the great wizard in order to return to Kansas.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1905716524" },
+          { "type": "ISBN_13", "identifier": "9781905716524" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": ["Courage"],
+        "averageRating": 3,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hRd7dJ-9G1IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hRd7dJ-9G1IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=hRd7dJ-9G1IC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=hRd7dJ-9G1IC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wizard_of_Oz.html?hl=&id=hRd7dJ-9G1IC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Wizard_of_Oz-sample-epub.acsm?id=hRd7dJ-9G1IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Wizard_of_Oz-sample-pdf.acsm?id=hRd7dJ-9G1IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hRd7dJ-9G1IC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JHMdZC08HhcC",
+      "etag": "RlxJ+PT54c0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JHMdZC08HhcC",
+      "volumeInfo": {
+        "title": "Playing and Reality",
+        "authors": ["Donald Woods Winnicott"],
+        "publisher": "Psychology Press",
+        "publishedDate": "1991",
+        "description": "Winnicott is concerned with the springs of imaginative living and of cultural experience in every sense, with whatever determines an individual's capacity to live creatively and to find life worth living.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0415036895" },
+          { "type": "ISBN_13", "identifier": "9780415036894" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": ["Child development"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JHMdZC08HhcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JHMdZC08HhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=JHMdZC08HhcC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=JHMdZC08HhcC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Playing_and_Reality.html?hl=&id=JHMdZC08HhcC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Playing_and_Reality-sample-epub.acsm?id=JHMdZC08HhcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Playing_and_Reality-sample-pdf.acsm?id=JHMdZC08HhcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JHMdZC08HhcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i2MCAAAAYAAJ",
+      "etag": "oFrWJlBlaWs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i2MCAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Through the Looking Glass",
+        "subtitle": "And what Alice Found There",
+        "authors": ["Lewis Carroll"],
+        "publishedDate": "1897",
+        "description": "In this sequel to Alice in Wonderland, Alice climbs through a mirror in her room and enters a world similar to a chess board where she experiences many curious adventures with its fantastic inhabitants.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "NYPL:33433082531603" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": ["Adventure and adventurers"],
+        "averageRating": 3.5,
+        "ratingsCount": 15,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.8.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i2MCAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i2MCAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=i2MCAAAAYAAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=i2MCAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=i2MCAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=i2MCAAAAYAAJ&rdid=book-i2MCAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/Through_the_Looking_Glass.epub?id=i2MCAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/Through_the_Looking_Glass.pdf?id=i2MCAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1ruQH1kMElDbiRPH7776rUzJQcvA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i2MCAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "poq0maYov4MC",
+      "etag": "V8+rVSpXSXA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/poq0maYov4MC",
+      "volumeInfo": {
+        "title": "Keeper of the Lost Cities",
+        "authors": ["Shannon Messenger"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-10-02",
+        "description": "At age 12, Sophie learns that the remarkable abilities that have always made her different from others actually identify her as an elf, and after being brought to Eternalia to hone her skills, she discovers that she has secrets buried in her memory for which some would kill.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781442445932" },
+          { "type": "ISBN_10", "identifier": "1442445939" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 496,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 31,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=poq0maYov4MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=poq0maYov4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=poq0maYov4MC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=poq0maYov4MC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Keeper_of_the_Lost_Cities.html?hl=&id=poq0maYov4MC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=poq0maYov4MC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p_opAQAAMAAJ",
+      "etag": "uUd1u5ek7E4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p_opAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Story of a Puppet, Or, The Adventures of Pinocchio",
+        "authors": ["Carlo Collodi"],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39076002596604" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": ["Children's stories, Italian"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.6.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p_opAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p_opAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=p_opAQAAMAAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=p_opAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=p_opAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=p_opAQAAMAAJ&rdid=book-p_opAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Story_of_a_Puppet_Or_The_Adventures.epub?id=p_opAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Story_of_a_Puppet_Or_The_Adventures.pdf?id=p_opAQAAMAAJ&hl=&output=pdf&sig=ACfU3U3E1VCstia8fMng00S3lsIqQ3Iugg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p_opAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OJZFAAAAMAAJ",
+      "etag": "XnBQuO6L43k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OJZFAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Peter and Wendy",
+        "authors": ["James Matthew Barrie"],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "1911",
+        "description": "The adventures of Peter Pan, the boy who would not grow up.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015008403183" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": ["fantasy"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OJZFAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OJZFAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=OJZFAAAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=OJZFAAAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Peter_and_Wendy.html?hl=&id=OJZFAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=OJZFAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bqhaAAAAMAAJ",
+      "etag": "Sn+NfwPLLro",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bqhaAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": ["Kenneth Grahame"],
+        "publishedDate": "1908",
+        "description": "Since its publication in 1908, Kenneth Grahame's The Wind in the Willows has enchanted readers, young and old. This new edition, sensitively abridged and exquisitely illustrated by Inga Moore, is sure to win over a new generation of fans. Here readers will meet the amiable Mole, his hearty friend the Water Rat, the genial Badger, and, of course, the irrepressible Mr. Toad, and enjoy some of the most memorable adventures in children's literature. Classic, yet accessible, and full of humor, this beautiful volume is the perfect addition to every family's bookshelf. Book jacket.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015008859509" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": ["Adventure and adventurers"],
+        "averageRating": 4,
+        "ratingsCount": 19,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.1.6.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bqhaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bqhaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=bqhaAAAAMAAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bqhaAAAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bqhaAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bqhaAAAAMAAJ&rdid=book-bqhaAAAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Wind_in_the_Willows.epub?id=bqhaAAAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Wind_in_the_Willows.pdf?id=bqhaAAAAMAAJ&hl=&output=pdf&sig=ACfU3U0RRMrp8X3i6_PGz2oZHeSmYkDinQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bqhaAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kA-HDQAAQBAJ",
+      "etag": "Q5eLA+0Hhec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kA-HDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Caraval",
+        "authors": ["Stephanie Garber"],
+        "publisher": "Macmillan",
+        "publishedDate": "2017-01-31",
+        "description": "Publisher Annotation: Welcome, welcome to Caraval?Stephanie Garber?s sweeping tale of two sisters who escape their ruthless father when they enter the dangerous intrigue of a legendary game. 416pp.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781250095251" },
+          { "type": "ISBN_10", "identifier": "1250095255" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": ["Young Adult Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 77,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kA-HDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kA-HDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=kA-HDQAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=kA-HDQAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Caraval.html?hl=&id=kA-HDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=kA-HDQAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JHEkAQAAMAAJ",
+      "etag": "zD/IsKb5sUM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JHEkAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Deathly Hallows",
+        "authors": ["J. K. Rowling"],
+        "publishedDate": "2007",
+        "description": "\"The final adventure in J.K. Rowling's phenomenal, best-selling Harry Potter book series\"--Provided by publisher.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39076002651854" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 870,
+        "printType": "BOOK",
+        "categories": ["Bildungsromans"],
+        "averageRating": 4.5,
+        "ratingsCount": 3453,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JHEkAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=JHEkAQAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=JHEkAQAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Deathly_Hallows.html?hl=&id=JHEkAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=JHEkAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lahOFhcQkggC",
+      "etag": "JzMVoxwstLA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lahOFhcQkggC",
+      "volumeInfo": {
+        "title": "The Tombs of Atuan",
+        "authors": ["Ursula K. Le Guin"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-09-11",
+        "description": "A wizard enters the underground domain of Ahra, high priestess of the Powers of the Earth, in an attempt to steal her palace's greatest treasure.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781442459915" },
+          { "type": "ISBN_10", "identifier": "1442459913" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 55,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lahOFhcQkggC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lahOFhcQkggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=lahOFhcQkggC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=lahOFhcQkggC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tombs_of_Atuan.html?hl=&id=lahOFhcQkggC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=lahOFhcQkggC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EffZAwAAQBAJ",
+      "etag": "ACzER7EaaII",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EffZAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Classics Reimagined, The Wonderful Wizard of Oz",
+        "authors": ["L. Frank Baum"],
+        "publisher": "Rockport Pub",
+        "publishedDate": "2014-07",
+        "description": "Classics Reimagined is a library of stunning collector’s editions of classic novels illustrated by contemporary artists from around the world. Each artist offers his or her own unique, visual interpretation of the most well-loved, widely read, and avidly collected literature from renowned authors. From Grimm’s Fair Tales to The Wonderful Wizard of Oz and from Jane Austen to Sir Arthur Conan Doyle, art lovers and book collectors alike will not be able to resist owning the whole collection.DIV /divDIVEnjoy Frank L. Baum’s The Wonderful Wizard of Oz as you’ve never seen it before! Olimpia Zagnoli’s modern, illustrative interpretation of this classic tale follows Dorothy on her infamous journey to Oz. The quirky, colorful images breathe new life into this classic novel, making it a collectible for Oz lovers every where./div",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781592538997" },
+          { "type": "ISBN_10", "identifier": "1592538991" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EffZAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EffZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=EffZAwAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=EffZAwAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Classics_Reimagined_The_Wonderful_Wizard.html?hl=&id=EffZAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Classics_Reimagined_The_Wonderful_Wizard-sample-pdf.acsm?id=EffZAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EffZAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BeGkQ0whAq0C",
+      "etag": "W8dPLWVYeZw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BeGkQ0whAq0C",
+      "volumeInfo": {
+        "title": "Over Sea, Under Stone",
+        "authors": ["Susan Cooper"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2000-11",
+        "description": "Three siblings on vacation in Cornwall find an ancient manuscript which sends them on a dangerous quest that entraps them in the eternal battle between the forces of the Light and the Dark.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780689840357" },
+          { "type": "ISBN_10", "identifier": "0689840357" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 64,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BeGkQ0whAq0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BeGkQ0whAq0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=BeGkQ0whAq0C&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=BeGkQ0whAq0C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Over_Sea_Under_Stone.html?hl=&id=BeGkQ0whAq0C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=BeGkQ0whAq0C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OGJqzw0Oo2UC",
+      "etag": "Hx3Q6lNK/Gc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OGJqzw0Oo2UC",
+      "volumeInfo": {
+        "title": "The Fellowship of the Ring",
+        "authors": ["John Ronald Reuel Tolkien"],
+        "publishedDate": "2002",
+        "description": "The first book in the Lord of the rings trilogy.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0007149212" },
+          { "type": "ISBN_13", "identifier": "9780007149216" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 580,
+        "printType": "BOOK",
+        "categories": ["Adventure stories"],
+        "averageRating": 4,
+        "ratingsCount": 2404,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OGJqzw0Oo2UC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OGJqzw0Oo2UC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=OGJqzw0Oo2UC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=OGJqzw0Oo2UC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Fellowship_of_the_Ring.html?hl=&id=OGJqzw0Oo2UC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=OGJqzw0Oo2UC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FD72ekYZqIkC",
+      "etag": "JVYYPTQIW/8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FD72ekYZqIkC",
+      "volumeInfo": {
+        "title": "A Wizard of Earthsea",
+        "authors": ["Ursula K. Le Guin"],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2012",
+        "description": "A boy grows to manhood while attempting to subdue the evil he unleashed on the world as an apprentice to the Master Wizard.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780547851396" },
+          { "type": "ISBN_10", "identifier": "0547851391" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 166,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FD72ekYZqIkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=FD72ekYZqIkC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=FD72ekYZqIkC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Wizard_of_Earthsea.html?hl=&id=FD72ekYZqIkC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/A_Wizard_of_Earthsea-sample-pdf.acsm?id=FD72ekYZqIkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FD72ekYZqIkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Hnb-93B3OGAC",
+      "etag": "u7r9vzB0rDc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Hnb-93B3OGAC",
+      "volumeInfo": {
+        "title": "Bridge to Terabithia",
+        "authors": ["Katherine Paterson"],
+        "publisher": "Hippo Books",
+        "publishedDate": "1977",
+        "description": "The life of a ten-year-old boy in rural Virginia expands when he becomes friends with a newcomer who subsequently meets an untimely death trying to reach their hideaway, Terabithia, during a storm.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0590132008" },
+          { "type": "ISBN_13", "identifier": "9780590132008" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "categories": ["Brothers and sisters"],
+        "averageRating": 4,
+        "ratingsCount": 239,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Hnb-93B3OGAC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Hnb-93B3OGAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Hnb-93B3OGAC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Hnb-93B3OGAC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bridge_to_Terabithia.html?hl=&id=Hnb-93B3OGAC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Hnb-93B3OGAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eTjatwEACAAJ",
+      "etag": "WCIMSZ5JJ+U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eTjatwEACAAJ",
+      "volumeInfo": {
+        "title": "Harry Potter and the Cursed Child",
+        "subtitle": "Playscript. Parts one and two",
+        "authors": ["Jack Thorne", "J. K. Rowling", "John Tiffany"],
+        "publisher": "Arthur A. Levine Books",
+        "publishedDate": "2017",
+        "description": "As an overworked employee of the Ministry of Magic, a husband, and a father, Harry Potter struggles with a past that refuses to stay where it belongs while his youngest son, Albus, finds the weight of the family legacy difficult to bear.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "133821666X" },
+          { "type": "ISBN_13", "identifier": "9781338216660" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eTjatwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eTjatwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=eTjatwEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=eTjatwEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_and_the_Cursed_Child.html?hl=&id=eTjatwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=eTjatwEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q9bLExGwmjIC",
+      "etag": "mdDyEsRZPRU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q9bLExGwmjIC",
+      "volumeInfo": {
+        "title": "Comet in Moominland",
+        "authors": ["Tove Jansson"],
+        "publisher": "Penguin UK",
+        "publishedDate": "1967",
+        "description": "Moomintroll encounters a mouth-organist, a moth collector, and a lovely maiden, and discovers the danger of a threatening comet when he takes a journey to seek advice from the Professor.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780140302868" },
+          { "type": "ISBN_10", "identifier": "0140302867" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q9bLExGwmjIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q9bLExGwmjIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=q9bLExGwmjIC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=q9bLExGwmjIC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comet_in_Moominland.html?hl=&id=q9bLExGwmjIC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=q9bLExGwmjIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BYQFV2D2vRcC",
+      "etag": "FX1frOdnywQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BYQFV2D2vRcC",
+      "volumeInfo": {
+        "title": "The Eye of the World",
+        "subtitle": "Book One of 'The Wheel of Time'",
+        "authors": ["Robert Jordan"],
+        "publisher": "Macmillan",
+        "publishedDate": "1990-01-15",
+        "description": "Relates a tale of the bestial Trollocs, the witch Moiraine, and three boys, one of whom is fated to become the Dragon--the World's only hope and the sure means of its destruction",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780312850098" },
+          { "type": "ISBN_10", "identifier": "0312850093" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 753,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 219,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BYQFV2D2vRcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BYQFV2D2vRcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=BYQFV2D2vRcC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=BYQFV2D2vRcC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Eye_of_the_World.html?hl=&id=BYQFV2D2vRcC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=BYQFV2D2vRcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G6COQfzW08QC",
+      "etag": "fOGpJTmV8bc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G6COQfzW08QC",
+      "volumeInfo": {
+        "title": "Alice in Wonderland",
+        "authors": ["Lewis Carroll"],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2002-03",
+        "description": "A little girl falls down a rabbit hole and discovers a world of nonsensical and amusing characters.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0439291496" },
+          { "type": "ISBN_13", "identifier": "9780439291491" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "categories": ["Alice (Fictitious character : Carroll)"],
+        "averageRating": 4,
+        "ratingsCount": 46,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G6COQfzW08QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G6COQfzW08QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=G6COQfzW08QC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=G6COQfzW08QC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Alice_in_Wonderland.html?hl=&id=G6COQfzW08QC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Alice_in_Wonderland-sample-pdf.acsm?id=G6COQfzW08QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G6COQfzW08QC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7-JfDlNcvhEC",
+      "etag": "HPUu4LjaBr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7-JfDlNcvhEC",
+      "volumeInfo": {
+        "title": "The Shadow Rising",
+        "subtitle": "Book Four of 'The Wheel of Time'",
+        "authors": ["Robert Jordan"],
+        "publisher": "Macmillan",
+        "publishedDate": "1993-10-15",
+        "description": "Perrin Aybara must return to Emond's Field to face the occupying Whitecloaks, while Rand enters the Aiel Waste and the forbidden city of Rhuidean",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780812513738" },
+          { "type": "ISBN_10", "identifier": "0812513738" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 1015,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 75,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7-JfDlNcvhEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7-JfDlNcvhEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=7-JfDlNcvhEC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=7-JfDlNcvhEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Shadow_Rising.html?hl=&id=7-JfDlNcvhEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=7-JfDlNcvhEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Geq0uKAxZPEC",
+      "etag": "vU0dxMVmDyk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Geq0uKAxZPEC",
+      "volumeInfo": {
+        "title": "The Dark Tower VII",
+        "subtitle": "The Dark Tower",
+        "authors": ["Stephen King"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2004-09-21",
+        "description": "The final installment in the epic series completes the quest of Roland Deschain, who works to outmaneuver the increasingly desperate acts of his adversaries and confronts losses within his circle of companions.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1880418622" },
+          { "type": "ISBN_13", "identifier": "9781880418628" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 908,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 87,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Geq0uKAxZPEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Geq0uKAxZPEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Geq0uKAxZPEC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Geq0uKAxZPEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dark_Tower_VII.html?hl=&id=Geq0uKAxZPEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Geq0uKAxZPEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NM5PqgKd2dsC",
+      "etag": "zuW2S7Juq/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NM5PqgKd2dsC",
+      "volumeInfo": {
+        "title": "The Plague of Fantasies",
+        "authors": ["Slavoj Žižek"],
+        "publisher": "Verso",
+        "publishedDate": "1997",
+        "description": "Slavoj Zizek is, without doubt, one of the most stimulating and vibrant thinkers of our time, and his idiosyncratic blend of Lacan and Hegel is always sparkling with insight and studded with amusing stories, anecdotes and jokes. In The Plague of Fantasies Zizek approaches another enormous subject with characteristic brio and provocativeness. The current epoch is plagued by fantasms: there is an ever intensifying antagonism between the process of ever greater abstraction of our lives—whether in the form of digitalization or market relations—and the deluge of pseudo-concrete images which surround us. Traditional critical thought would have sought to trace the roots of abstract notions in concrete social reality; but today, the correct procedure is the inverse—from pseudo-concrete imagery to the abstract process which structures our lives. Ranging in his examples from national differences in toilet design to cybersex, and from intellectuals' responses to the Bosnian war to Robert Schumann's music, Zizek explores the relations between fantasy and ideology, the way in which fantasy animates enjoy-ment while protecting against its excesses, the associations of the notion of fetishism with fantasized seduction, and the ways in which digitalization and cyberspace affect the status of subjectivity. To the already initiated, The Plague of Fantasies will be a welcome reminder of why they enjoy Zizek's writing so much. For new readers, it will be the beginning of a long and meaningful relationship.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1859841937" },
+          { "type": "ISBN_13", "identifier": "9781859841938" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": ["Concrete (Philosophy)"],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NM5PqgKd2dsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NM5PqgKd2dsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=NM5PqgKd2dsC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=NM5PqgKd2dsC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Plague_of_Fantasies.html?hl=&id=NM5PqgKd2dsC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Plague_of_Fantasies-sample-pdf.acsm?id=NM5PqgKd2dsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NM5PqgKd2dsC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "esQ1g_c5UOwC",
+      "etag": "6sjwikU4eaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/esQ1g_c5UOwC",
+      "volumeInfo": {
+        "title": "Prince Caspian",
+        "subtitle": "The Return to Narnia",
+        "authors": ["Clive Staples Lewis"],
+        "publisher": "Ingram",
+        "publishedDate": "1987",
+        "description": "Four children help Prince Caspian and his army of Talking Beasts to free Narnia from evil.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0590405969" },
+          { "type": "ISBN_13", "identifier": "9780590405966" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": ["fantasy"],
+        "averageRating": 4.5,
+        "ratingsCount": 93,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=esQ1g_c5UOwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=esQ1g_c5UOwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=esQ1g_c5UOwC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=esQ1g_c5UOwC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prince_Caspian.html?hl=&id=esQ1g_c5UOwC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=esQ1g_c5UOwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3e8OAAAAYAAJ",
+      "etag": "xL63yzWFtqs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3e8OAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Voyages of Doctor Dolittle",
+        "authors": ["Hugh Lofting"],
+        "publisher": "Frederick A. Stokes",
+        "publishedDate": "1922",
+        "description": "Doctor Dolittle heads for the high seas in perhaps the most amazing adventure ever experienced by man or animal. Told by nine-and-a-half-year-old Tommy Stubbins, crewman and future naturalist, the voyages of Doctor Dolittle and his company lead them to Spidermonkey Island. Along with his faithful friends, Polynesia the parrot and Chee-Chee the monkey, Doctor Dolittle survives a perilous shipwreck and lands on the mysterious floating island. There he meets the wondrous Great Glass See Snail who holds the key to the greatest mystery of all.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "HARVARD:HW2BYU" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 396,
+        "printType": "BOOK",
+        "categories": ["Animals"],
+        "averageRating": 4,
+        "ratingsCount": 36,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.7.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3e8OAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3e8OAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=3e8OAAAAYAAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3e8OAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3e8OAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=3e8OAAAAYAAJ&rdid=book-3e8OAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Voyages_of_Doctor_Dolittle.epub?id=3e8OAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Voyages_of_Doctor_Dolittle.pdf?id=3e8OAAAAYAAJ&hl=&output=pdf&sig=ACfU3U2dJNPZ-Z4hVhJUJ7sTO71VgfO4ww&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3e8OAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HBUDtAEACAAJ",
+      "etag": "sHpMxohR8qg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HBUDtAEACAAJ",
+      "volumeInfo": {
+        "title": "Moominsummer Madness",
+        "authors": ["Tove Jansson"],
+        "publisher": "Sort of Books",
+        "publishedDate": "2018-06-04",
+        "description": "When a grumbling volcano causes Moominvalley to flood, the Moomins escape by boat, finding refuge on a floating theatre. Adventures abound when the theatre casts adrift leaving Moomin,The Snorkmaiden and Little My marooned. Will they all be reunited before the final curtain?",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "190874569X" },
+          { "type": "ISBN_13", "identifier": "9781908745699" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HBUDtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HBUDtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=HBUDtAEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=HBUDtAEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moominsummer_Madness.html?hl=&id=HBUDtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=HBUDtAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1NWRMQEACAAJ",
+      "etag": "c7v+o7RsaUs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1NWRMQEACAAJ",
+      "volumeInfo": {
+        "title": "The School for Good and Evil",
+        "authors": ["Soman Chainani"],
+        "publisher": "HarperCollins Children's Books",
+        "publishedDate": "2013",
+        "description": "Every four years, two girls are kidnapped from the village of Gavaldon. Legend has it these lost children are sent to the School for Good and Evil, the fabled institution where they become fairytale heroes or villains. Sophie, the most beautiful girl in town, has always dreamed of her place at the School for Good while her friend Agatha, with her dark disposition seems destined for the School for Evil. But when the two are kidnapped they find their fortunes reversed.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0007492936" },
+          { "type": "ISBN_13", "identifier": "9780007492930" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 488,
+        "printType": "BOOK",
+        "categories": ["Children's stories"],
+        "averageRating": 3.5,
+        "ratingsCount": 57,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1NWRMQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1NWRMQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=1NWRMQEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=1NWRMQEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_School_for_Good_and_Evil.html?hl=&id=1NWRMQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=1NWRMQEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rv5wCgAAQBAJ",
+      "etag": "DubkJYtEw4A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rv5wCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Clockwork Angel",
+        "authors": ["Cassandra Clare"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-09",
+        "description": "Includes excerpts from Clockwork prince, City of bones, and Lady Midnight, and a sneak peek at Vampires, scones, and Edmund Herondale.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781481456029" },
+          { "type": "ISBN_10", "identifier": "1481456024" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 67,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 2760,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rv5wCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rv5wCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=rv5wCgAAQBAJ&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=rv5wCgAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Clockwork_Angel.html?hl=&id=rv5wCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=rv5wCgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0MULAQAAMAAJ",
+      "etag": "oyBBNH+0Wuo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0MULAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Tales of Beedle the Bard",
+        "authors": ["J. K. Rowling"],
+        "publisher": "Bloomsbury Harry Potter",
+        "publishedDate": "2008",
+        "description": "The Tales of Beedle the Bard, a Wizarding classic, first came to Muggle readers' attention in the book known as Harry Potter and the Deathly Hallows. Now, thanks to Hermione Granger's new translation from the ancient runes, we present this stunning edition with an introduction, notes, and illustrations by J. K. Rowling, and extensive commentary by Albus Dumbledore. Never before have Muggles been privy to these richly imaginative tales: \"The Wizard and the Hopping Pot,\" \"The Fountain of Fair Fortune,\" \"The Warlock's Hairy Heart,\" \"Babbitty Rabbitty and Her Cackling Stump,\" and of course, \"The Tale of the Three Brothers.\" But not only are they the equal of fairy tales we now know and love, reading them gives new insight into the world of Harry Potter.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015082760326" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": ["fantasy"],
+        "averageRating": 4,
+        "ratingsCount": 240,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0MULAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0MULAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=0MULAQAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=0MULAQAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Tales_of_Beedle_the_Bard.html?hl=&id=0MULAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=0MULAQAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "actiAwAAQBAJ",
+      "etag": "dmb/ZllZygg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/actiAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Finn Family Moomintroll",
+        "authors": ["Tove Jansson"],
+        "publisher": "Macmillan",
+        "publishedDate": "2010-04-27",
+        "description": "Moomintroll, Sniff, and Snufkin, who live in the forests of Finland, find a hobgoblin's hat.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780312608897" },
+          { "type": "ISBN_10", "identifier": "0312608896" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 173,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4.5,
+        "ratingsCount": 18,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=actiAwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=actiAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=actiAwAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=actiAwAAQBAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Finn_Family_Moomintroll.html?hl=&id=actiAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=actiAwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QeQO1EkB-vAC",
+      "etag": "tP9sM7NLDkg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QeQO1EkB-vAC",
+      "volumeInfo": {
+        "title": "The Wind in the Willows",
+        "authors": ["Kenneth Grahame"],
+        "publisher": "Wordsworth Editions",
+        "publishedDate": "1993",
+        "description": "Rat, Mole, Badger and the preposterous Mr Toad, have brought delight to many through the years with their odd adventures on and by the river, and at the imposing residence of Toad Hall.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1853260177" },
+          { "type": "ISBN_13", "identifier": "9781853260179" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": ["Animals"],
+        "averageRating": 2.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QeQO1EkB-vAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QeQO1EkB-vAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=QeQO1EkB-vAC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=QeQO1EkB-vAC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Wind_in_the_Willows.html?hl=&id=QeQO1EkB-vAC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Wind_in_the_Willows-sample-pdf.acsm?id=QeQO1EkB-vAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QeQO1EkB-vAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2qfJt8U4o48C",
+      "etag": "VnvJPnLFtmw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2qfJt8U4o48C",
+      "volumeInfo": {
+        "title": "Winnie-the-Pooh",
+        "authors": ["Alan Alexander Milne"],
+        "publisher": "Yearling",
+        "publishedDate": "1974",
+        "description": "The adventures of Christopher Robin and his friends in which Pooh Bear uses a balloon to get honey, Piglet meets a Heffalump, and Eeyore has a birthday.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "044040116X" },
+          { "type": "ISBN_13", "identifier": "9780440401162" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 180,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 43,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2qfJt8U4o48C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2qfJt8U4o48C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=2qfJt8U4o48C&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=2qfJt8U4o48C&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Winnie_the_Pooh.html?hl=&id=2qfJt8U4o48C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=2qfJt8U4o48C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TUExWsB26xEC",
+      "etag": "LPvUiZQEF84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TUExWsB26xEC",
+      "volumeInfo": {
+        "title": "The Water Mirror",
+        "authors": ["Kai Meyer"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2005",
+        "description": "In a place similar to Venice, Italy, two teenaged orphans, apprenticed to a maker of magic mirrors, begin to realize that their fates are tied to the magical protector of the city known as the Flowing Queen and to the ruler of Hell, respectively.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780689877872" },
+          { "type": "ISBN_10", "identifier": "0689877870" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 3.5,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TUExWsB26xEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TUExWsB26xEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=TUExWsB26xEC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=TUExWsB26xEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Water_Mirror.html?hl=&id=TUExWsB26xEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=TUExWsB26xEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bjDuAAAAMAAJ",
+      "etag": "ZcjxP41ECdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bjDuAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Lion, the Witch, and the Wardrobe",
+        "authors": ["Clive Staples Lewis"],
+        "publisher": "Simon & Schuster Books For Young Readers",
+        "publishedDate": "1983",
+        "description": "The best-selling rack edition of The Lion, the Witch and the Wardrobe now has a movie still cover and an eight-page movie still insert! \"Excellent for Homeschool Use\"",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015029146043" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": ["Adventure and adventurers"],
+        "averageRating": 4,
+        "ratingsCount": 3118,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bjDuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bjDuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=bjDuAAAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=bjDuAAAAMAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lion_the_Witch_and_the_Wardrobe.html?hl=&id=bjDuAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=bjDuAAAAMAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jCWUtgAACAAJ",
+      "etag": "O7xcjvCRn5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jCWUtgAACAAJ",
+      "volumeInfo": {
+        "title": "The Moomins and the Great Flood",
+        "authors": ["Tove Jansson"],
+        "publisher": "Moomins Collectors' Editions",
+        "publishedDate": "2012",
+        "description": "The first Moomin story. Moomin, Moominmamma and Sniff search through forest and flood for long lost Moominpappa. In a series of adventures along the way, they encounter Hemulens, stranded kittens and the blue-haired Tulippa.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "1908745134" },
+          { "type": "ISBN_13", "identifier": "9781908745132" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Children's stories"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jCWUtgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jCWUtgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=jCWUtgAACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=jCWUtgAACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Moomins_and_the_Great_Flood.html?hl=&id=jCWUtgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=jCWUtgAACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JWG9AAAAIAAJ",
+      "etag": "5TizHafHbn0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JWG9AAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Lion, the Witch and the Wardrobe",
+        "subtitle": "A Story for Children",
+        "authors": ["Clive Staples Lewis"],
+        "publisher": "Simon & Schuster Books For Young Readers",
+        "publishedDate": "1970",
+        "description": "The best-selling rack edition of The Lion, the Witch and the Wardrobe now has a movie still cover and an eight-page movie still insert! \"Excellent for Homeschool Use\"",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "STANFORD:36105007503225" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": ["England"],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JWG9AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JWG9AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=JWG9AAAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=JWG9AAAAIAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lion_the_Witch_and_the_Wardrobe.html?hl=&id=JWG9AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=JWG9AAAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dAE4oAEACAAJ",
+      "etag": "olWIMq7hot0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dAE4oAEACAAJ",
+      "volumeInfo": {
+        "title": "Prince Caspian",
+        "authors": ["C. S. Lewis"],
+        "publisher": "HarperCollins Children's Books",
+        "publishedDate": "2014-11-04",
+        "description": "Prince Caspian is in terrible danger when his wicked uncle, King Miraz, decides to get rid of the young heir to the throne. In desperation, Caspian blows the magic horn, calling on Peter, Susan, Lucy and Edmund in Narnia's hour of need.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0007588550" },
+          { "type": "ISBN_13", "identifier": "9780007588558" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": ["Fantasy fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dAE4oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dAE4oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=dAE4oAEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=dAE4oAEACAAJ&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Prince_Caspian.html?hl=&id=dAE4oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=dAE4oAEACAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HDi2AwYRJZAC",
+      "etag": "FbTEalg/WBE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HDi2AwYRJZAC",
+      "volumeInfo": {
+        "title": "Jumanji",
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "1981",
+        "description": "When the dog he is caring for runs away form Alan into the forbidden garden of a retired dog hating magician, a spell seems to be cast over the contrary dog.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0395304482" },
+          { "type": "ISBN_13", "identifier": "9780395304488" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "averageRating": 4,
+        "ratingsCount": 26,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HDi2AwYRJZAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HDi2AwYRJZAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=HDi2AwYRJZAC&printsec=frontcover&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=HDi2AwYRJZAC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Jumanji.html?hl=&id=HDi2AwYRJZAC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Jumanji-sample-pdf.acsm?id=HDi2AwYRJZAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HDi2AwYRJZAC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "80oscBYjQZEC",
+      "etag": "AQWEnauibU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/80oscBYjQZEC",
+      "volumeInfo": {
+        "title": "Moominland Midwinter",
+        "authors": ["Tove Jansson"],
+        "publisher": "Penguin UK",
+        "publishedDate": "1971",
+        "description": "Everyone knows that the Moomins sleep through the winter, but this year Moomintroll discovers that winter is worth waking up for after all.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780140305029" },
+          { "type": "ISBN_10", "identifier": "0140305025" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 137,
+        "printType": "BOOK",
+        "categories": ["Juvenile Nonfiction"],
+        "averageRating": 4,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=80oscBYjQZEC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=80oscBYjQZEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=80oscBYjQZEC&dq=subject:fantasy&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=80oscBYjQZEC&dq=subject:fantasy&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moominland_Midwinter.html?hl=&id=80oscBYjQZEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": true },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=80oscBYjQZEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

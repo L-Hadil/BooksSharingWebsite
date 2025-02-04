@@ -1,0 +1,2491 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "6H9eDwAAQBAJ",
+      "etag": "oMXImDrVP2A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6H9eDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dead Souls",
+        "authors": ["Gogol Google Translate"],
+        "publisher": "Lulu.com",
+        "publishedDate": "2018-05-31",
+        "description": "This is the famed Gogol's unfinished novel as translated by google translate, which is to say that it's total gibberish, which, in its turn, is to say that you don't really have to read it (I didn't although I should one day because I brought it into being after all, and it might be fun) but you certainly want to have it. Think of it as a coffee table book to be casually picked up and as casually put back where it belongs.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781387849604" },
+          { "type": "ISBN_10", "identifier": "1387849603" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 266,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6H9eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6H9eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=6H9eDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=6H9eDwAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dead_Souls.html?hl=&id=6H9eDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Dead_Souls-sample-pdf.acsm?id=6H9eDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6H9eDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "55KPEAAAQBAJ",
+      "etag": "A2GevsvENEY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/55KPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Remarkable Books",
+        "subtitle": "The World's Most Historic and Significant Works",
+        "authors": ["DK"],
+        "publisher": "National Geographic Books",
+        "publishedDate": "2017-09-05",
+        "description": "Imagine a world without Principia Mathematica, Rights of Man, the Bible, Shakespeare, or the Mahabharata. Remarkable Books features 75 of the world’s most momentous titles – from The Art of War to Anne Frank’s Diary – and reveals their far-ranging impact. Books are the medium through which scientists, storytellers, and philosophers introduce their ideas. Discover seminal religious and political titles, cornerstones of science such as On the Origin of Species, and ancient texts such as the I Ching, which is still used today to answer fundamental questions about human existence. Get up close to see fascinating details, such as Vesalius’ exquisite anatomical illustrations in Epitome, Leonardo da Vinci’s annotated notebooks, or the hand-decorated pages in the Gutenberg Bible. Discover why Euclid’s Elements of Geometry was the most influential maths title ever published, and marvel at rare treasures such as the Aubin Codex, which tells the history of the Aztecs and the early Spanish colonial period in Mexico. Remarkable Books gathers stories, diaries, scientific treatises, plays, dictionaries, and religious texts into a stunning celebration of the power of books.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781465463623" },
+          { "type": "ISBN_10", "identifier": "1465463623" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=55KPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=55KPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=55KPEAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=55KPEAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Remarkable_Books.html?hl=&id=55KPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=55KPEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AbswDwAAQBAJ",
+      "etag": "TQOAmm2KjJ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AbswDwAAQBAJ",
+      "volumeInfo": {
+        "title": "French Gothic Architecture of the Twelfth and Thirteenth Centuries",
+        "authors": ["Jean Bony"],
+        "publisher": "Univ of California Press",
+        "publishedDate": "1983",
+        "description": "Traces the development of the Gothic style of architecture in France and examines the designs of French cathedrals and churches",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780520055865" },
+          { "type": "ISBN_10", "identifier": "0520055861" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": ["Architecture"],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AbswDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AbswDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=AbswDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=AbswDwAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/French_Gothic_Architecture_of_the_Twelft.html?hl=&id=AbswDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/French_Gothic_Architecture_of_the_Twelft-sample-pdf.acsm?id=AbswDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AbswDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f0RlAgAAQBAJ",
+      "etag": "TTMVmcH7tWo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f0RlAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Birthday Party",
+        "authors": ["Harold Pinter"],
+        "publisher": "Faber & Faber",
+        "publishedDate": "2013-07-18",
+        "description": "Stanley Webber is visited in his boarding house by strangers, Goldberg and McCann. An innocent-seeming birthday party for Stanley turns into a nightmare.The Birthday Party was first performed in 1958 and is now a modern classic, produced and studied throughout the world.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780571300600" },
+          { "type": "ISBN_10", "identifier": "057130060X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 92,
+        "printType": "BOOK",
+        "categories": ["Performing Arts"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f0RlAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f0RlAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=f0RlAgAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=f0RlAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=f0RlAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 13.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 13.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=f0RlAgAAQBAJ&rdid=book-f0RlAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 13990000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 13990000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Birthday_Party-sample-epub.acsm?id=f0RlAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Birthday_Party-sample-pdf.acsm?id=f0RlAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f0RlAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sSgH4wZgFCwC",
+      "etag": "DvFeKJX2ruE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sSgH4wZgFCwC",
+      "volumeInfo": {
+        "title": "The Cyclopædia, Or, Universal Dictionary of Arts, Sciences, and Literature",
+        "authors": ["Abraham Rees"],
+        "publishedDate": "1819",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UOM:39015057241088" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 792,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sSgH4wZgFCwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sSgH4wZgFCwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=sSgH4wZgFCwC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=sSgH4wZgFCwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=sSgH4wZgFCwC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=sSgH4wZgFCwC&rdid=book-sSgH4wZgFCwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/The_Cyclop%C3%A6dia_Or_Universal_Dictionary.epub?id=sSgH4wZgFCwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_Cyclop%C3%A6dia_Or_Universal_Dictionary.pdf?id=sSgH4wZgFCwC&hl=&output=pdf&sig=ACfU3U2iCNPkkggJwnMk0uLescrE2AE4-A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sSgH4wZgFCwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "l_kuEAAAQBAJ",
+      "etag": "Sl9ElbdJzgQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l_kuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Renaissance And Renascences In Western Art",
+        "authors": ["Erwin Panofsky"],
+        "publisher": "Routledge",
+        "publishedDate": "2018-05-04",
+        "description": "Renaissance and Renascences in Western Art spans the period from the 10th to the 15th century, including discussion of the Carolingian renaissance and the 12th century proto-renaissance. Erwin Panofsky posits that there were \"reanscences\" prior to the widely known Renaissance that began in Italy in the 14th century. Whereas earlier renascences can be classified as revivals, the Renaissance was a unique instance that led to a wider cultural transformation.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780429966248" },
+          { "type": "ISBN_10", "identifier": "0429966245" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 387,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l_kuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l_kuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=l_kuEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=l_kuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=l_kuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 60.12, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 44.93, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=l_kuEAAAQBAJ&rdid=book-l_kuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 60120000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 44930000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Renaissance_And_Renascences_In_Western_A-sample-pdf.acsm?id=l_kuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l_kuEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IOl1EAAAQBAJ",
+      "etag": "mBb6FOd41d8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IOl1EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Man and Superman",
+        "authors": ["George Bernard Shaw"],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-06-13",
+        "description": "Man and Superman, subtitled \"A Comedy and a Philosophy\", is a four-act drama written in 1903, in response to a call for Shaw to write a play based on the Don Juan theme. This book conveys the conflict between man as spiritual creator and woman as guardian of the biological continuity of the human race. It was written by George Bernard Shaw, an Irish playwright, critic, polemicist, and political activist.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:8596547065753" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 245,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 3,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IOl1EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IOl1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=IOl1EAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=IOl1EAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Man_and_Superman.html?hl=&id=IOl1EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Man_and_Superman-sample-epub.acsm?id=IOl1EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Man_and_Superman-sample-pdf.acsm?id=IOl1EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IOl1EAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ybxoAgAAQBAJ",
+      "etag": "h2TMUNQwD20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ybxoAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Modernism's Other Work",
+        "subtitle": "The Art Object's Political Life",
+        "authors": ["Lisa Siraganian"],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2011-11-01",
+        "description": "Modernism's Other Work challenges deeply held critical beliefs about the meaning-in particular the political meaning-of modernism's commitment to the work of art as an object detached from the world. Ranging over works of poetry, fiction, painting, sculpture, and film, it argues that modernism's core aesthetic problem-the artwork's status as an object, and a subject's relation to it-poses fundamental questions of agency, freedom, and politics. With fresh accounts of works by canonical figures such as William Carlos Williams and Marcel Duchamp, and transformative readings of less-studied writers such as William Gaddis and Amiri Baraka, Siraganian reinterprets the relationship between aesthetic autonomy and politics. Through attentive readings, the study reveals how political questions have always been modernism's critical work, even when writers such as Gertrude Stein and Wyndham Lewis boldly assert the art object's immunity from the world's interpretations. Reorienting our understanding of the period, Siraganian demonstrates that the freedom of the art object from the reader's meaning presented a way to imagine an individual's complicated liberty within the state. Offering readers an original encounter with modernism, Modernism's Other Work will interest literary and art historians, literary theorists, critics, and scholars in cultural studies.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780199796595" },
+          { "type": "ISBN_10", "identifier": "0199796599" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ybxoAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ybxoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=ybxoAgAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ybxoAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ybxoAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 27.07, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 18.95, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=ybxoAgAAQBAJ&rdid=book-ybxoAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 27070000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 18950000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Modernism_s_Other_Work-sample-pdf.acsm?id=ybxoAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ybxoAgAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XMTohsaNCBkC",
+      "etag": "nwwc3UBxjE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XMTohsaNCBkC",
+      "volumeInfo": {
+        "title": "Notebooks",
+        "authors": ["Leonardo da Vinci"],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2008-04-17",
+        "description": "'Study me reader, if you find delight in me...Come, O men, to see the miracles that such studies will disclose in nature.' Most of what we know about Leonardo da Vinci, we know because of his notebooks. Some 6,000 sheets of notes and drawings survive, which represent perhaps one-fifth of what he actually produced. In them he recorded everything that interested him in the world around him, and his study of how things work. With an artist's eye and a scientist's curiosity he studied the movement of water and the formation of rocks, the nature of flight and optics, anatomy, architecture, sculpture, and painting. He jotted down fables and letters and developed his belief in the sublime unity of nature and man. Through his notebooks we can get an insight into Leonardo's thoughts, and his approach to work and life. This selection offers a cross-section of his writings, organized around coherent themes. Fully updated, this new edition includes some 70 line drawings and a Preface by Martin Kemp, one of the world's leading authorities on Leonardo. ABOUT THE SERIES: For over 100 years Oxford World's Classics has made available the widest range of literature from around the globe. Each affordable volume reflects Oxford's commitment to scholarship, providing the most accurate text plus a wealth of other valuable features, including expert introductions by leading authorities, helpful notes to clarify the text, up-to-date bibliographies for further study, and much more.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0191559504" },
+          { "type": "ISBN_13", "identifier": "9780191559501" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XMTohsaNCBkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XMTohsaNCBkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=XMTohsaNCBkC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XMTohsaNCBkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XMTohsaNCBkC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 8.22, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 7.81, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=XMTohsaNCBkC&rdid=book-XMTohsaNCBkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 8220000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 7810000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Notebooks-sample-epub.acsm?id=XMTohsaNCBkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Notebooks-sample-pdf.acsm?id=XMTohsaNCBkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XMTohsaNCBkC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_7aBEAAAQBAJ",
+      "etag": "Z1hZ3B0+itI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_7aBEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Resurrection",
+        "authors": ["Leo Tolstoy"],
+        "publisher": "DigiCat",
+        "publishedDate": "2022-08-10",
+        "description": "The novel revolves around the relationship between Nekhldoff, a Russian landlord, and Máslova, a prostitute whose life took a sharp turn for the worse after Nekhldoff wronged her ten years before the course of the story. After sitting on the jury for a sentencing hearing in which Máslova is charged with poisoning a merchant, Nekhldoff begins to realize the harm he has inflicted on Máslova—as well as the harm inflicted by the Russian state and society on the poor and marginalized—as he embarks on a desire to alleviate Máslova's suffering.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:8596547168331" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 526,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_7aBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_7aBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=_7aBEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_7aBEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_7aBEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=_7aBEAAAQBAJ&rdid=book-_7aBEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Resurrection-sample-epub.acsm?id=_7aBEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Resurrection-sample-pdf.acsm?id=_7aBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_7aBEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mlByDwAAQBAJ",
+      "etag": "KzVY2d0qJ2s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mlByDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Oxford Handbook of the Archaeology and Anthropology of Rock Art",
+        "authors": ["Bruno David", "Ian J. McNiven"],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2018-10-17",
+        "description": "Rock art is one of the most visible and geographically widespread of cultural expressions, and it spans much of the period of our species' existence. Rock art also provides rare and often unique insights into the minds and visually creative capacities of our ancestors and how selected rock outcrops with distinctive images were used to construct symbolic landscapes and shape worldviews. Equally important, rock art is often central to the expression of and engagement with spiritual entities and forces, and in all these dimensions it signals the diversity of cultural practices, across place and through time. Over the past 150 years, archaeologists have studied ancient arts on rock surfaces, both out in the open and within caves and rock shelters, and social anthropologists have revealed how people today use art in their daily lives. The Oxford Handbook of the Archaeology and Anthropology of Rock Art showcases examples of such research from around the world and across a broad range of cultural contexts, giving a sense of the art's regional variability, its antiquity, and how it is meaningful to people in the recent past and today - including how we have ourselves tended to make sense of the art of others, replete with our own preconceptions. It reviews past, present, and emerging theoretical approaches to rock art investigation and presents new, cutting-edge methods of rock art analysis for the student and professional researcher alike.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780190844943" },
+          { "type": "ISBN_10", "identifier": "0190844949" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 1168,
+        "printType": "BOOK",
+        "categories": ["Social Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mlByDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mlByDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=mlByDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mlByDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mlByDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 125.38, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 87.77, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=mlByDwAAQBAJ&rdid=book-mlByDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 125380000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 87770000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Oxford_Handbook_of_the_Archaeology_a-sample-pdf.acsm?id=mlByDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mlByDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "arEqEAAAQBAJ",
+      "etag": "ks5tZ+XFXQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/arEqEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Prose Edda",
+        "authors": ["Snorri Sturluson"],
+        "publisher": "Good Press",
+        "publishedDate": "2021-04-11",
+        "description": "The Edda is a thoroughly researched study on the Norse mythology through the analysis of an Old Norse work of literature written in Iceland during the early 13th century. Edda is considered the fullest and most detailed source for modern knowledge of Norse mythology. Scholarly approach and conducted research have allowed the author to determine the age of the different versions of various myths.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:4064066450304" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=arEqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=arEqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=arEqEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=arEqEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=arEqEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=arEqEAAAQBAJ&rdid=book-arEqEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Prose_Edda-sample-epub.acsm?id=arEqEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Prose_Edda-sample-pdf.acsm?id=arEqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=arEqEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UgwiEAAAQBAJ",
+      "etag": "DrJBSYtekOw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UgwiEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Bright Ages",
+        "subtitle": "A New History of Medieval Europe",
+        "authors": ["Matthew Gabriele", "David M. Perry"],
+        "publisher": "HarperCollins",
+        "publishedDate": "2021-12-07",
+        "description": "\"The beauty and levity that Perry and Gabriele have captured in this book are what I think will help it to become a standard text for general audiences for years to come….The Bright Ages is a rare thing—a nuanced historical work that almost anyone can enjoy reading.”—Slate \"Incandescent and ultimately intoxicating.\" —The Boston Globe A lively and magisterial popular history that refutes common misperceptions of the European Middle Ages, showing the beauty and communion that flourished alongside the dark brutality—a brilliant reflection of humanity itself. The word “medieval” conjures images of the “Dark Ages”—centuries of ignorance, superstition, stasis, savagery, and poor hygiene. But the myth of darkness obscures the truth; this was a remarkable period in human history. The Bright Ages recasts the European Middle Ages for what it was, capturing this 1,000-year era in all its complexity and fundamental humanity, bringing to light both its beauty and its horrors. The Bright Ages takes us through ten centuries and crisscrosses Europe and the Mediterranean, Asia and Africa, revisiting familiar people and events with new light cast upon them. We look with fresh eyes on the Fall of Rome, Charlemagne, the Vikings, the Crusades, and the Black Death, but also to the multi-religious experience of Iberia, the rise of Byzantium, and the genius of Hildegard and the power of queens. We begin under a blanket of golden stars constructed by an empress with Germanic, Roman, Spanish, Byzantine, and Christian bloodlines and end nearly 1,000 years later with the poet Dante—inspired by that same twinkling celestial canopy—writing an epic saga of heaven and hell that endures as a masterpiece of literature today. The Bright Ages reminds us just how permeable our manmade borders have always been and of what possible worlds the past has always made available to us. The Middle Ages may have been a world “lit only by fire” but it was one whose torches illuminated the magnificent rose windows of cathedrals, even as they stoked the pyres of accused heretics. The Bright Ages contains an 8-page color insert.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780062980915" },
+          { "type": "ISBN_10", "identifier": "0062980912" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["History"],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UgwiEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UgwiEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=UgwiEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UgwiEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UgwiEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 9.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=UgwiEAAAQBAJ&rdid=book-UgwiEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 9990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Bright_Ages-sample-epub.acsm?id=UgwiEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=UgwiEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hWMoFVNsd14C",
+      "etag": "CBJ9UR4YS8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hWMoFVNsd14C",
+      "volumeInfo": {
+        "title": "Icon and Devotion",
+        "subtitle": "Sacred Spaces in Imperial Russia",
+        "authors": ["Oleg Tarasov"],
+        "publisher": "Reaktion Books",
+        "publishedDate": "2004-01-03",
+        "description": "Icon and Devotion offers the first extensive presentation in English of the making and meaning of Russian icons. The craft of icon-making is set into the context of forms of worship that emerged in the Russian Orthodox Church in the mid-seventeenth century. Oleg Tarasov shows how icons have held a special place in Russian consciousness because they represented idealized images of Holy Russia. He also looks closely at how and why icons were made. Wonder-working saints and the leaders of such religious schisms as the Old Believers appear in these pages, which are illustrated with miniature paintings, lithographs and engravings never before published in the English-speaking world. By tracing the artistic vocabulary, techniques and working methods of icon painters, Tarasov shows how icons have been integral to the history of Russian art, influenced by folk and mainstream currents alike. As well as articulating the specifically Russian piety they invoke, he analyzes the significance of icons in the cultural life of modern Russia in the context of popular prints and poster design.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781861895509" },
+          { "type": "ISBN_10", "identifier": "186189550X" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hWMoFVNsd14C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hWMoFVNsd14C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=hWMoFVNsd14C&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hWMoFVNsd14C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hWMoFVNsd14C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 36, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 23.4, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=hWMoFVNsd14C&rdid=book-hWMoFVNsd14C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 36000000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 23400000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Icon_and_Devotion-sample-epub.acsm?id=hWMoFVNsd14C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Icon_and_Devotion-sample-pdf.acsm?id=hWMoFVNsd14C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hWMoFVNsd14C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qf5QEAAAQBAJ",
+      "etag": "5JwLIBruIe8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qf5QEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Art in Three Dimensions",
+        "authors": ["Noël Carroll"],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2010-07-15",
+        "description": "Art in Three Dimensions is a collection of essays by one of the most eminent figures in philosophy of art. The animating idea behind Noël Carroll's work is that philosophers of art should eschew the sort of aestheticism that often implicitly — but sometimes explicitly, as in the case of aesthetic theories of art and of their commitments to the notion of the autonomy of art — governs their methodology. Instead, Carroll argues that philosophers of art need to refocus their attention on the ways in which art enters the life of culture and the lives of individual audience members. The reference to \"three dimensions\" in the title refers to Carroll's view that philosophers of art should look at art from multiple angles and treat it as a substantial participant not only in society, but also as a significant influence upon the moral and emotional experiences of audiences.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780191573088" },
+          { "type": "ISBN_10", "identifier": "0191573086" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": ["Philosophy"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qf5QEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qf5QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Qf5QEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Qf5QEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Qf5QEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 48.64, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 31.62, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=Qf5QEAAAQBAJ&rdid=book-Qf5QEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 48640000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 31620000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Art_in_Three_Dimensions-sample-pdf.acsm?id=Qf5QEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qf5QEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4CaQDwAAQBAJ",
+      "etag": "6iIt9X7IE8Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4CaQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Northern Renaissance Art",
+        "authors": ["Susie Nash"],
+        "publisher": "OUP Oxford",
+        "publishedDate": "2008-11-27",
+        "description": "This book offers a wide-ranging introduction to the way that art was made, valued, and viewed in northern Europe in the age of the Renaissance, from the late fourteenth to the early years of the sixteenth century. Drawing on a rich range of sources, from inventories and guild regulations to poetry and chronicles, it examines everything from panel paintings to carved altarpieces. While many little-known works are foregrounded, Susie Nash also presents new ways of viewing and understanding the more familiar, such as the paintings of Jan van Eyck, Rogier van der Weyden, and Hans Memling, by considering the social and economic context of their creation and reception. Throughout, Nash challenges the perception that Italy was the European leader in artistic innovation at this time, demonstrating forcefully that Northern art, and particularly that of the Southern Netherlands, dominated visual culture throughout Europe in this crucial period.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780191540028" },
+          { "type": "ISBN_10", "identifier": "0191540021" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4CaQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4CaQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=4CaQDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4CaQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4CaQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 15.41, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 10.79, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=4CaQDwAAQBAJ&rdid=book-4CaQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 15410000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 10790000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Northern_Renaissance_Art-sample-pdf.acsm?id=4CaQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4CaQDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0CBAAAAAYAAJ",
+      "etag": "KEsznwTxYqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0CBAAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The History of Ancient Art",
+        "authors": ["Johann Joachim Winckelmann"],
+        "publishedDate": "1872",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "HARVARD:32044108134131" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0CBAAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0CBAAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=0CBAAAAAYAAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0CBAAAAAYAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0CBAAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0CBAAAAAYAAJ&rdid=book-0CBAAAAAYAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.fr/books/download/The_History_of_Ancient_Art.epub?id=0CBAAAAAYAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.fr/books/download/The_History_of_Ancient_Art.pdf?id=0CBAAAAAYAAJ&hl=&output=pdf&sig=ACfU3U1lXwTHAmb6ZBu2owOzW8dpjlP_2g&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0CBAAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L_tnEAAAQBAJ",
+      "etag": "tO7pnyP8Y2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L_tnEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Decay of Lying",
+        "authors": ["Oscar Wilde"],
+        "publisher": "Lindhardt og Ringhof",
+        "publishedDate": "2022-04-18",
+        "description": "Could it be that people who never lie are devoid of creativity? If that’s true, then all creative art must be founded in lies. ‘The Decay of Lying’ is a beguiling essay on the nature of art, in all its forms. Set in the library of a country house in Nottinghamshire, and written as a dialogue between Cyril and Vivian, ‘The Decay of Lying’ sets out to prove just how creative we can all be, as long as we defy societal conventions. Referencing everyone from the Ancient Greeks to Shakespeare, this is Wilde at his most thoughtful and mischievous. For anyone interested in art or witty debate. Oscar Wilde (1854 – 1900) was an Irish novelist, poet, playwright, and wit. He was an advocate of the Aesthetic movement, which extolled the virtues of art for the sake of art. During his career, Wilde wrote nine plays, including ‘The Importance of Being Earnest,’ ‘Lady Windermere’s Fan,’ and ‘A Woman of No Importance,’ many of which are still performed today. His only novel, ‘The Picture of Dorian Gray’ was adapted for the silver screen, in the film, ‘Dorian Gray,’ starring Ben Barnes and Colin Firth. In addition, Wilde wrote forty-three poems, and seven essays. His life was the subject of a film, starring Stephen Fry.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9788728104002" },
+          { "type": "ISBN_10", "identifier": "8728104005" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L_tnEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L_tnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=L_tnEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=L_tnEAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Decay_of_Lying.html?hl=&id=L_tnEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Decay_of_Lying-sample-epub.acsm?id=L_tnEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=L_tnEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dKbiDwAAQBAJ",
+      "etag": "r1JiLSwALes",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dKbiDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Avatar: The Last Airbender The Art of the Animated Series (Second Edition)",
+        "authors": ["Michael Dante DiMartino", "Bryan Konietzko"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2020-11-24",
+        "description": "The animated series Avatar: The Last Airbender has inspired millions of fans and industry professionals alike. Now, to celebrate the anniversary of the show's first airing comes this deluxe second edition of Avatar: The Last Airbender--The Art of the Animated Series! Join series creators Bryan Konietzko and Michael Dante DiMartino for an unprecedented behind-the-scenes look at hundreds of pieces of concept, design, and production art from the show. You'll be taken on a guided tour through the development of this smash-hit television series in this deluxe edition that includes: • Stunning new cover art by Bryan Konietzko, with an extra special cover treatment! ! • Eight pages of new material, plus an all-new introduction by award-winning Avatar: The Last Airbender comics series writer Gene Luen Yang!",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781506721767" },
+          { "type": "ISBN_10", "identifier": "1506721761" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dKbiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dKbiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=dKbiDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dKbiDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dKbiDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 22.13, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 22.13, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=dKbiDwAAQBAJ&rdid=book-dKbiDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 22130000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 22130000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Avatar_The_Last_Airbender_The_Art_of_the-sample-epub.acsm?id=dKbiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Avatar_The_Last_Airbender_The_Art_of_the-sample-pdf.acsm?id=dKbiDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dKbiDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WmSnBAAAQBAJ",
+      "etag": "0f7gLIjgbew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WmSnBAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Italic People of Ancient Apulia",
+        "subtitle": "New Evidence from Pottery for Workshops, Markets, and Customs",
+        "authors": ["T. H. Carpenter", "K. M. Lynch", "E. G. D. Robinson"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2014-08-28",
+        "description": "The focus of this book is on the Italic people of Apulia during the fourth century BC, when Italic culture seems to have reached its peak of affluence. Scholars have largely ignored these people and the region they inhabited. During the past several decades archaeologists have made significant progress in revealing the cultures of Apulia through excavations of habitation sites and un-plundered tombs, often published in Italian journals. This book makes the broad range of recent scholarship - from new excavations and contexts to archaeometric testing of production hypotheses to archaeological evidence for reconsidering painter attributions - available to English-speaking audiences. In it thirteen scholars from Italy, the United States, Great Britain, France, and Australia present targeted essays on aspects of the cultures of the Italic people of Apulia during the fourth century BC and the surrounding decades.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781139992701" },
+          { "type": "ISBN_10", "identifier": "1139992708" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WmSnBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WmSnBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=WmSnBAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WmSnBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WmSnBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 120.65, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 120.65, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=WmSnBAAAQBAJ&rdid=book-WmSnBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 120650000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 120650000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Italic_People_of_Ancient_Apulia-sample-epub.acsm?id=WmSnBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Italic_People_of_Ancient_Apulia-sample-pdf.acsm?id=WmSnBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WmSnBAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DB8REAAAQBAJ",
+      "etag": "ayUglT0jndA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DB8REAAAQBAJ",
+      "volumeInfo": {
+        "title": "Why I Write",
+        "authors": ["George Orwell"],
+        "publisher": "Renard Press Ltd",
+        "publishedDate": "2021-01-01",
+        "description": "George Orwell set out ‘to make political writing into an art’, and to a wide extent this aim shaped the future of English literature – his descriptions of authoritarian regimes helped to form a new vocabulary that is fundamental to understanding totalitarianism. While 1984 and Animal Farm are amongst the most popular classic novels in the English language, this new series of Orwell’s essays seeks to bring a wider selection of his writing on politics and literature to a new readership. In Why I Write, the first in the Orwell’s Essays series, Orwell describes his journey to becoming a writer, and his movement from writing poems to short stories to the essays, fiction and non-fiction we remember him for. He also discusses what he sees as the ‘four great motives for writing’ – ‘sheer egoism’, ‘aesthetic enthusiasm’, ‘historical impulse’ and ‘political purpose’ – and considers the importance of keeping these in balance. Why I Write is a unique opportunity to look into Orwell’s mind, and it grants the reader an entirely different vantage point from which to consider the rest of the great writer’s oeuvre. 'A writer who can – and must – be rediscovered with every age.' — Irish Times",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781913724290" },
+          { "type": "ISBN_10", "identifier": "1913724298" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 3,
+        "ratingsCount": 29,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DB8REAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DB8REAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=DB8REAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=DB8REAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Why_I_Write.html?hl=&id=DB8REAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Why_I_Write-sample-pdf.acsm?id=DB8REAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DB8REAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O3h2KfXoOPYC",
+      "etag": "7nopLjLl2Mk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O3h2KfXoOPYC",
+      "volumeInfo": {
+        "title": "Atlas of World Art",
+        "authors": ["John Onians"],
+        "publisher": "Laurence King Publishing",
+        "publishedDate": "2004",
+        "description": "Combines a survey of world art with maps showing the associations and dissemination of culture across the globe.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781856693776" },
+          { "type": "ISBN_10", "identifier": "1856693775" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O3h2KfXoOPYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O3h2KfXoOPYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=O3h2KfXoOPYC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=O3h2KfXoOPYC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Atlas_of_World_Art.html?hl=&id=O3h2KfXoOPYC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Atlas_of_World_Art-sample-pdf.acsm?id=O3h2KfXoOPYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O3h2KfXoOPYC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-OL8Pk1vSXUC",
+      "etag": "RPUjMwc3zp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-OL8Pk1vSXUC",
+      "volumeInfo": {
+        "title": "Monet, Narcissus, and Self-Reflection",
+        "subtitle": "The Modernist Myth of the Self",
+        "authors": ["Steven Zalman Levine"],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "1994",
+        "description": "Steven Z. Levine provides a new understanding of the life and work of Claude Monet and the myth of the modern artist. Levine analyzes the extensive critical reception of Monet and the artist's own prolific writings in the context of the story of Narcissus, popular in late nineteenth-century France. Through a careful blending of psychoanalytical theory and historical study, Levine identifies narcissism and obsession as driving forces in Monet's art and demonstrates how we derive meaning from the accumulated verbal responses to an artist's work.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0226475433" },
+          { "type": "ISBN_13", "identifier": "9780226475431" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 466,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-OL8Pk1vSXUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-OL8Pk1vSXUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=-OL8Pk1vSXUC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=-OL8Pk1vSXUC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monet_Narcissus_and_Self_Reflection.html?hl=&id=-OL8Pk1vSXUC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Monet_Narcissus_and_Self_Reflection-sample-pdf.acsm?id=-OL8Pk1vSXUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-OL8Pk1vSXUC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VIBoW6dDZgIC",
+      "etag": "YSQta1zluZU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VIBoW6dDZgIC",
+      "volumeInfo": {
+        "title": "Museum Skepticism",
+        "subtitle": "A History of the Display of Art in Public Galleries",
+        "authors": ["David Carrier"],
+        "publisher": "Duke University Press",
+        "publishedDate": "2006-05-31",
+        "description": "DIVProminent art historian looks at the birth of the art museum and contemplates its future as a public institution./div",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0822336944" },
+          { "type": "ISBN_13", "identifier": "9780822336945" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VIBoW6dDZgIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VIBoW6dDZgIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=VIBoW6dDZgIC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=VIBoW6dDZgIC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Museum_Skepticism.html?hl=&id=VIBoW6dDZgIC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=VIBoW6dDZgIC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NBmYGQDjM6sC",
+      "etag": "l5OOlM33TE8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NBmYGQDjM6sC",
+      "volumeInfo": {
+        "title": "Art and Its Objects",
+        "authors": ["Richard Wollheim", "Richard Arthur Wollheim"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1980-09-30",
+        "description": "What defines a work of art and determines the way in which we respond to it? This classic reflection was written with the belief that the nature of art has to be understood simultaneously from the artist's as well as the spectator's viewpoint.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0521297060" },
+          { "type": "ISBN_13", "identifier": "9780521297066" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NBmYGQDjM6sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NBmYGQDjM6sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=NBmYGQDjM6sC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=NBmYGQDjM6sC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Art_and_Its_Objects.html?hl=&id=NBmYGQDjM6sC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Art_and_Its_Objects-sample-pdf.acsm?id=NBmYGQDjM6sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NBmYGQDjM6sC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sQ7fSc3Ysg4C",
+      "etag": "noaRvNDN69M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sQ7fSc3Ysg4C",
+      "volumeInfo": {
+        "title": "Geography of the Gaze",
+        "subtitle": "Urban and Rural Vision in Early Modern Europe",
+        "authors": ["Renzo Dubbini"],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2002-04-15",
+        "description": "Geography of the Gaze offers a new history and theory of how the way we look at things influences what we see. Focusing on Western Europe from the seventeenth to nineteenth centuries, Renzo Dubbini shows how developments in science, art, mapping, and visual epistemology affected the ways natural and artificial landscapes were perceived and portrayed. He begins with the idea of the \"view,\" explaining its role in the invention of landscape painting and in the definition of landscape as a cultural space. Among other topics, Dubbini explores how the descriptive and pictorial techniques used in mariners' charts, view-oriented atlases, military cartography, and garden design were linked to the proliferation of highly realistic paintings of landscapes and city scenes; how the \"picturesque\" system for defining and composing landscapes affected not just art but also archaeology and engineering; and how the ever-changing modern cityscapes inspired new ways of seeing and representing the urban scene in Impressionist painting, photography, and stereoscopy. A marvelous history of viewing, Geography of the Gaze will interest everyone from scientists to artists.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780226167374" },
+          { "type": "ISBN_10", "identifier": "0226167372" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sQ7fSc3Ysg4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sQ7fSc3Ysg4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=sQ7fSc3Ysg4C&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=sQ7fSc3Ysg4C&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Geography_of_the_Gaze.html?hl=&id=sQ7fSc3Ysg4C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Geography_of_the_Gaze-sample-epub.acsm?id=sQ7fSc3Ysg4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Geography_of_the_Gaze-sample-pdf.acsm?id=sQ7fSc3Ysg4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sQ7fSc3Ysg4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KIUYAAAAYAAJ",
+      "etag": "fZ94SLDjwfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KIUYAAAAYAAJ",
+      "volumeInfo": {
+        "title": "The Lives of the Painters, Sculptors, and Architects",
+        "authors": ["Giorgio Vasari"],
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UVA:X000877180" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": ["Architects"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KIUYAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KIUYAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=KIUYAAAAYAAJ&dq=subject:art&hl=&as_pt=BOOKS&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=KIUYAAAAYAAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Lives_of_the_Painters_Sculptors_and.html?hl=&id=KIUYAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=KIUYAAAAYAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mq8qEAAAQBAJ",
+      "etag": "FssfqUQhlK8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mq8qEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The White Peacock",
+        "authors": ["David Herbert Lawrence"],
+        "publisher": "Good Press",
+        "publishedDate": "2021-04-11",
+        "description": "\"The White Peacock\" by David Herbert Lawrence. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "EAN:4064066442033" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 299,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mq8qEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mq8qEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Mq8qEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Mq8qEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Mq8qEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 1.99, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=Mq8qEAAAQBAJ&rdid=book-Mq8qEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "retailPrice": { "amountInMicros": 1990000, "currencyCode": "EUR" },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_White_Peacock-sample-epub.acsm?id=Mq8qEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_White_Peacock-sample-pdf.acsm?id=Mq8qEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mq8qEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NVZuUSJtpcQC",
+      "etag": "gHYnS/DbGKE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NVZuUSJtpcQC",
+      "volumeInfo": {
+        "title": "Steal Like an Artist",
+        "subtitle": "10 Things Nobody Told You About Being Creative",
+        "authors": ["Austin Kleon"],
+        "publisher": "Workman Publishing",
+        "publishedDate": "2012-02-28",
+        "description": "You don’t need to be a genius, you just need to be yourself. That’s the message from Austin Kleon, a young writer and artist who knows that creativity is everywhere, creativity is for everyone. A manifesto for the digital age, Steal Like an Artist is a guide whose positive message, graphic look and illustrations, exercises, and examples will put readers directly in touch with their artistic side. When Mr. Kleon was asked to address college students in upstate New York, he shaped his speech around the ten things he wished someone had told him when he was starting out. The talk went viral, and its author dug deeper into his own ideas to create Steal Like an Artist, the book. The result is inspiring, hip, original, practical, and entertaining. And filled with new truths about creativity: Nothing is original, so embrace influence, collect ideas, and remix and re-imagine to discover your own path. Follow your interests wherever they take you. Stay smart, stay out of debt, and risk being boring—the creative you will need to make room to be wild and daring in your imagination.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780761169253" },
+          { "type": "ISBN_10", "identifier": "0761169253" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 161,
+        "printType": "BOOK",
+        "categories": ["Self-Help"],
+        "averageRating": 4,
+        "ratingsCount": 3318,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.13.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NVZuUSJtpcQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NVZuUSJtpcQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=NVZuUSJtpcQC&dq=subject:art&hl=&as_pt=BOOKS&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=NVZuUSJtpcQC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Steal_Like_an_Artist.html?hl=&id=NVZuUSJtpcQC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": true },
+        "webReaderLink": "http://play.google.com/books/reader?id=NVZuUSJtpcQC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y7m_BAAAQBAJ",
+      "etag": "MwjFGvXxCMA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y7m_BAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sahara",
+        "subtitle": "A Cutural History",
+        "authors": ["Eamonn Gearon"],
+        "publisher": "Andrews UK Limited",
+        "publishedDate": "2011-10-19",
+        "description": "The Sahara is the quintessence of isolation, epitomizing both remoteness and severity of environment unlike any other place on the face of the earth. Replete with myths and fictions, it is a wild land, dotted with oases and camel trains trudging through sand dunes that roll like the waves on a sea, as far as the distant horizon. But this is just part of the picture. The largest desert in the world, the Sahara ranges from the river Nile running through Egypt and Sudan in the east, to the Atlantic coast from Morocco to Mauritania in the west; stretching from the Atlas Mountains and the shores of the Mediterranean in the north, to the fluid Sahelian fringe that delineates the desert in the south. Invaders and traders have come and gone for millennia, but the Sahara is also the place that some people call home. While larger than the United States, this vast area contains only three million people. Africans and Arabs, Berber and Bedu, Tuareg and Tebu. Eamonn Gearon explores the history, culture and terrain of a place whose name is familiar to all, but known to few.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781908493170" },
+          { "type": "ISBN_10", "identifier": "1908493178" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 301,
+        "printType": "BOOK",
+        "categories": ["Travel"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y7m_BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y7m_BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=y7m_BAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y7m_BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y7m_BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 15.39, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 15.39, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=y7m_BAAAQBAJ&rdid=book-y7m_BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 15390000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 15390000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Sahara-sample-pdf.acsm?id=y7m_BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y7m_BAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3kWY1BXbVU4C",
+      "etag": "vK8IrLs4EtM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3kWY1BXbVU4C",
+      "volumeInfo": {
+        "title": "Italian Renaissance Art",
+        "subtitle": "Understanding its Meaning",
+        "authors": ["Christiane L. Joost-Gaugier"],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-03-04",
+        "description": "Richly illustrated, and featuring detailed descriptions of works by pivotal figures in the Italian Renaissance, this enlightening volume traces the development of art and architecture throughout the Italian peninsula in the fifteenth and sixteenth centuries. A smart, elegant, and jargon-free analysis of the Italian Renaissance – what it was, what it means, and why we should study it Provides a sustained discussion of many great works of Renaissance art that will significantly enhance readers’ understanding of the period Focuses on Renaissance art and architecture as it developed throughout the Italian peninsula, from Venice to Sicily Situates the Italian Renaissance in the wider context of the history of art Includes detailed interpretation of works by a host of pivotal Renaissance artists, both well and lesser known",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781118306079" },
+          { "type": "ISBN_10", "identifier": "1118306074" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3kWY1BXbVU4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3kWY1BXbVU4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=3kWY1BXbVU4C&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=3kWY1BXbVU4C&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Italian_Renaissance_Art.html?hl=&id=3kWY1BXbVU4C"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Italian_Renaissance_Art-sample-pdf.acsm?id=3kWY1BXbVU4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3kWY1BXbVU4C&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Gndh6_W9nUcC",
+      "etag": "i2/ekFA0EnI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Gndh6_W9nUcC",
+      "volumeInfo": {
+        "title": "The Vexations of Art",
+        "subtitle": "Velázquez and Others",
+        "authors": ["Svetlana Alpers"],
+        "publisher": "Yale University Press",
+        "publishedDate": "2005-01-01",
+        "description": "\"Alpers concentrates on the art of the seventeenth century, but also looks back and forward in time. She considers Velazquez as curator of the Spanish royal collection, which included many works by his admired predecessors Titian and Rubens. Velazquez also resembles Manet, and the affinity between the two painters is analyzed. Both worked in a tradition that assumed that there were persistent pictorial problems to take up. Inventive change was encouraged. Art such as this vexes or unsettles our view of the world even as it gives us reason to pause and look. The book concludes by asking whether painting continues to do that today.\" \"This book reflects Alpers's close looking and long reflection upon a certain tradition of European painting. It illuminates the nature of what the most alert painters do, and why.\"--BOOK JACKET.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0300108257" },
+          { "type": "ISBN_13", "identifier": "9780300108255" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.11.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Gndh6_W9nUcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Gndh6_W9nUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=Gndh6_W9nUcC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=Gndh6_W9nUcC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Vexations_of_Art.html?hl=&id=Gndh6_W9nUcC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=Gndh6_W9nUcC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "msEMAQAAIAAJ",
+      "etag": "t/43nfSjzzQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/msEMAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Vasari's Lives of the Artists",
+        "subtitle": "Biographies of the Most Eminent Architects, Painters, and Sculptors of Italy",
+        "authors": ["Giorgio Vasari"],
+        "publishedDate": "1946",
+        "industryIdentifiers": [
+          { "type": "OTHER", "identifier": "UCSC:32106014323643" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "categories": ["Architects"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=msEMAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=msEMAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=msEMAQAAIAAJ&dq=subject:art&hl=&as_pt=BOOKS&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=msEMAQAAIAAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Vasari_s_Lives_of_the_Artists.html?hl=&id=msEMAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=msEMAQAAIAAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OMBkDwAAQBAJ",
+      "etag": "BKWQbjOak58",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OMBkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Do Nothing",
+        "subtitle": "Resisting the Attention Economy",
+        "authors": ["Jenny Odell"],
+        "publisher": "Melville House",
+        "publishedDate": "2019-04-23",
+        "description": "** A New York Times Bestseller ** \"A complex, smart and ambitious book that at first reads like a self-help manual, then blossoms into a wide-ranging political manifesto.\"—Jonah Engel Bromwich, The New York Times Book Review One of President Barack Obama's \"Favorite Books of 2019\" NAMED ONE OF THE BEST BOOKS OF THE YEAR BY: Time • The New Yorker • NPR • GQ • Elle • Vulture • Fortune • Boing Boing • The Irish Times • The New York Public Library • The Brooklyn Public Library Porchlight's Personal Development & Human Behavior Book of the Year In a world where addictive technology is designed to buy and sell our attention, and our value is determined by our 24/7 data productivity, it can seem impossible to escape. But in this inspiring field guide to dropping out of the attention economy, artist and critic Jenny Odell shows us how we can still win back our lives. Odell sees our attention as the most precious—and overdrawn—resource we have. And we must actively and continuously choose how we use it. We might not spend it on things that capitalism has deemed important … but once we can start paying a new kind of attention, she writes, we can undertake bolder forms of political action, reimagine humankind’s role in the environment, and arrive at more meaningful understandings of happiness and progress. Far from the simple anti-technology screed, or the back-to-nature meditation we read so often, How to do Nothing is an action plan for thinking outside of capitalist narratives of efficiency and techno-determinism. Provocative, timely, and utterly persuasive, this book will change how you see your place in our world.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781612197500" },
+          { "type": "ISBN_10", "identifier": "1612197507" }
+        ],
+        "readingModes": { "text": true, "image": false },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": ["Technology & Engineering"],
+        "averageRating": 3,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OMBkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OMBkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=OMBkDwAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": { "amount": 18.28, "currencyCode": "EUR" },
+        "retailPrice": { "amount": 18.28, "currencyCode": "EUR" },
+        "buyLink": "https://play.google.com/store/books/details?id=OMBkDwAAQBAJ&rdid=book-OMBkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": { "amountInMicros": 18280000, "currencyCode": "EUR" },
+            "retailPrice": {
+              "amountInMicros": 18280000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/How_to_Do_Nothing-sample-epub.acsm?id=OMBkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=OMBkDwAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7SIdb7Rz8uEC",
+      "etag": "zGN0L7MmZMo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7SIdb7Rz8uEC",
+      "volumeInfo": {
+        "title": "The Classical Journal",
+        "authors": ["Abraham John Valpy", "Edmund Henry Barker"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2013-02-28",
+        "description": "This forty-volume collection comprises all the issues of an early and influential classical periodical, first published between 1810 and 1829.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781108058179" },
+          { "type": "ISBN_10", "identifier": "1108058175" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 339,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7SIdb7Rz8uEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7SIdb7Rz8uEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=7SIdb7Rz8uEC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=7SIdb7Rz8uEC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Classical_Journal.html?hl=&id=7SIdb7Rz8uEC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Classical_Journal-sample-pdf.acsm?id=7SIdb7Rz8uEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7SIdb7Rz8uEC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uxhDegm5N7oC",
+      "etag": "CvwdVOMA6aw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uxhDegm5N7oC",
+      "volumeInfo": {
+        "title": "Painting in Spain",
+        "subtitle": "1500-1700",
+        "authors": ["Jonathan Brown"],
+        "publisher": "Yale University Press",
+        "publishedDate": "1998-01-01",
+        "description": "El Greco, Ribera, Velázquez, Murillo--these are but a few of the great sixteenth- and seventeenth-century artists of Spain's golden age of painting. In this authoritative and handsome book, an enlarged, extended, and revised version of his Golden Age of Painting in Spain, eminent Spanish art scholar Jonathan Brown surveys the development of painting in Spain during this fascinating period. Focusing on the interaction between art and the socioeconomic and political conditions that prevailed in Spain's golden age, this book offers information about religious beliefs, social attitudes, the activities of patrons and collectors, and how these were absorbed and interpreted by painters. The author sets the history of Spanish paintings within a European context and explores Spain's contact with artistic centers in Italy and the Netherlands. He discusses not only Spanish artists but also such non-Spanish painters as Titian, Ruben, and Luca Giordano, who either worked in Spain or influenced other artists there. Brown also examines the collections of foreign paintings that Spanish noblemen and prelates assembled and how these collections affected the production of art and the social status of the Spanish artist. In this up-to-date and innovative analysis of two hundred years of Spanish painting, Brown describes a country that brilliantly transformed the artistic impulses it received from abroad to fit the needs of its own society.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0300064748" },
+          { "type": "ISBN_13", "identifier": "9780300064742" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 326,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uxhDegm5N7oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uxhDegm5N7oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=uxhDegm5N7oC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=uxhDegm5N7oC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Painting_in_Spain.html?hl=&id=uxhDegm5N7oC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=uxhDegm5N7oC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vO9KEAAAQBAJ",
+      "etag": "Gx3kPYH2MEE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vO9KEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Art of Halo Infinite Deluxe Edition",
+        "authors": ["Microsoft", "343 Industries"],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2022-01-11",
+        "description": "Take home a piece of the Master Chief’s Mjolnir Mark VI Powered Assault Armor in the Art of Halo Infinite’s Deluxe Edition! The chest-plate slipcase holds the Art of Halo Infinite hard cover with an exclusive new cover that any member of the United Nation Space Command would find up to spec. Also contained within is a UNSC portfolio with landscape art on museum quality paper of the Master Chief enjoying a peaceful moment on the Halo Array. The Master Chief is back. The legendary super soldier returns in Halo Infinite. 343 Industries and Microsoft are building the biggest and most visually spectacular Halo yet. Halo Infinite debuts on the Xbox family of consoles, including Xbox Series X, Microsoft's latest and most powerful game console. To take full advantage of its prodigious graphical prowess, 343 Industries built an all-new, next-generation game engine, giving their world-class artists the tools and technology to realize the worlds, war, and wonder of the Halo universe in unprecedented style and fidelity. 343 Industries have given Dark Horse access to the art and artists who've brought Halo Infinite to vibrant, vivid life. It's all here in unparalleled detail, the heroes you've grown to love—the Master Chief, the brave soldiers of the UNSC, as well as the weapons, vehicles, villains and vistas—and of course, the eponymous and magnificent environments of Halo itself. Slipcase recreation of Master Chief’s Armor Exclusive cover for the Art of Halo Infinite A UNSC portfolio with beautiful landscape artwork",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9781506720098" },
+          { "type": "ISBN_10", "identifier": "1506720099" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": ["Games & Activities"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vO9KEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vO9KEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=vO9KEAAAQBAJ&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=vO9KEAAAQBAJ&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Halo_Infinite_Deluxe_Edition.html?hl=&id=vO9KEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Art_of_Halo_Infinite_Deluxe_Edition-sample-pdf.acsm?id=vO9KEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vO9KEAAAQBAJ&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rkdH5brHo4IC",
+      "etag": "YlF8Nsp785Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rkdH5brHo4IC",
+      "volumeInfo": {
+        "title": "The Hours of Simon de Varie",
+        "authors": ["James H. Marrow", "François Avril"],
+        "publisher": "Getty Publications",
+        "publishedDate": "1994",
+        "description": "Leading French painters in the late medieval period executed miniatures for lavishly illuminated books of hours. In the mid-fifteenth century, Simon de Varie commissioned such a book. Completed in 1455, it included five priceless works by the most eminent French painter of the time, Jean Fouquet, as well as other striking paintings by two of his contemporaries. In the seventeenth century, Simon de Varie's book was divided into three sections and sold as separate volumes. Two of these volumes are today in the Royal Library in The Hague. The third volume--thought lost until 1984, when it surfaced in a private collection and was subsequently acquired by the Getty Museum--contains the first miniatures by Jean Fouquet to have been discovered in eighty years. This beautiful book will reproduce in color all of the miniatures and historiated initials in the original manuscript, along with selected text pages with secondary decoration. Comparative illustrations also accompany the two essays in the volume. Marrow's text addresses the role of books of hours in late medieval culture; the contents and form of de Varie's Hours; and the relationship of the miniatures by Fouquet to the rest of the artist's oeuvre. In a related essay, Francois Avril discusses the position of Simon de Varie and his family in mid-fifteenth-century France. The publication of The Hours of Simon de Varie adds to the Getty's impressive list of publications on illuminated manuscripts begun in 1990 and including the widely acclaimed facsimile Mira calligraphiae monumenta.",
+        "industryIdentifiers": [
+          { "type": "ISBN_10", "identifier": "0892362847" },
+          { "type": "ISBN_13", "identifier": "9780892362844" }
+        ],
+        "readingModes": { "text": false, "image": true },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rkdH5brHo4IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rkdH5brHo4IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=rkdH5brHo4IC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=rkdH5brHo4IC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Hours_of_Simon_de_Varie.html?hl=&id=rkdH5brHo4IC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/The_Hours_of_Simon_de_Varie-sample-pdf.acsm?id=rkdH5brHo4IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rkdH5brHo4IC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nFaQ2fVI1hwC",
+      "etag": "iHK2chsOTNM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nFaQ2fVI1hwC",
+      "volumeInfo": {
+        "title": "Pilgrimage to the End of the World",
+        "subtitle": "The Road to Santiago de Compostela",
+        "authors": ["Conrad Rudolph"],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "2004-05-19",
+        "description": "Traveling two and a half months and one thousand miles along the ancient route through southern France and northern Spain, Conrad Rudolph made the passage to the holy site of Santiago de Compostela, one of the most important modern-day pilgrimage destinations for Westerners. In this chronicle of his travels to this captivating place, Rudolph melds the ancient and the contemporary, the spiritual and the physical, in a book that is at once travel guide, literary work, historical study, and memoir.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780226731278" },
+          { "type": "ISBN_10", "identifier": "0226731278" }
+        ],
+        "readingModes": { "text": true, "image": true },
+        "pageCount": 145,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.4.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nFaQ2fVI1hwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nFaQ2fVI1hwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=nFaQ2fVI1hwC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=nFaQ2fVI1hwC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pilgrimage_to_the_End_of_the_World.html?hl=&id=nFaQ2fVI1hwC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Pilgrimage_to_the_End_of_the_World-sample-epub.acsm?id=nFaQ2fVI1hwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fr/books/download/Pilgrimage_to_the_End_of_the_World-sample-pdf.acsm?id=nFaQ2fVI1hwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nFaQ2fVI1hwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EJJupTu7mPwC",
+      "etag": "WX8VTmw98Rk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJJupTu7mPwC",
+      "volumeInfo": {
+        "title": "The Renaissance Print, 1470-1550",
+        "authors": ["David Landau", "Peter W. Parshall"],
+        "publisher": "Yale University Press",
+        "publishedDate": "1994-01-01",
+        "description": "Through an examination of material and institutional circumstances, through the study of work shop practices and of technical and aesthetic experimentation, this book seeks to give an account of the ways in which Renaissance prints were realized, distributed, acquired, and handled by their public.",
+        "industryIdentifiers": [
+          { "type": "ISBN_13", "identifier": "9780300068832" },
+          { "type": "ISBN_10", "identifier": "0300068832" }
+        ],
+        "readingModes": { "text": false, "image": false },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EJJupTu7mPwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EJJupTu7mPwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fr/books?id=EJJupTu7mPwC&printsec=frontcover&dq=subject:art&hl=&as_pt=BOOKS&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.fr/books?id=EJJupTu7mPwC&dq=subject:art&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Renaissance_Print_1470_1550.html?hl=&id=EJJupTu7mPwC"
+      },
+      "saleInfo": {
+        "country": "FR",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FR",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": { "isAvailable": false },
+        "pdf": { "isAvailable": false },
+        "webReaderLink": "http://play.google.com/books/reader?id=EJJupTu7mPwC&hl=&as_pt=BOOKS&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}
